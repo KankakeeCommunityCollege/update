@@ -30,4 +30,6 @@ dist/
 node_modules/
 package-lock.json
 
+# Jekyll Stuffs
 .jekyll-cache/
+_site/
