@@ -2,6 +2,7 @@
 title: "Phi Theta Kappa inductees spring 2015"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1912"
 sort_date: 1430416010000
+year: 2015
 pubDate: "30 Apr 2015 17:46:50 GMT"
 creator: "Elizabeth Becvar"
 ---

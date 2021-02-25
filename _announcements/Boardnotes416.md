@@ -2,6 +2,7 @@
 title: "Board notes&colon; 4/16"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=667"
 sort_date: 1334760026000
+year: 2012
 pubDate: "18 Apr 2012 14:40:26 GMT"
 creator: "Ellen Schmidt"
 ---

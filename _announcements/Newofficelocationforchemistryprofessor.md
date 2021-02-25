@@ -2,6 +2,7 @@
 title: "New office location for chemistry professor "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2300"
 sort_date: 1475255195000
+year: 2016
 pubDate: "30 Sep 2016 17:06:35 GMT"
 creator: "Ellen Schmidt"
 ---

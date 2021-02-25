@@ -2,6 +2,7 @@
 title: "Flag football and kickball registrations now available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=790"
 sort_date: 1345738717000
+year: 2012
 pubDate: "23 Aug 2012 16:18:37 GMT"
 creator: "Ellen Schmidt"
 ---

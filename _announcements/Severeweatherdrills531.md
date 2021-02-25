@@ -2,6 +2,7 @@
 title: "Severe weather drills&colon; 5/31 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=297"
 sort_date: 1304714892000
+year: 2011
 pubDate: "06 May 2011 20:48:12 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Watermelon sale helps YMCA Service Club"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=738"
 sort_date: 1340045344000
+year: 2012
 pubDate: "18 Jun 2012 18:49:04 GMT"
 creator: "Ellen Schmidt"
 ---

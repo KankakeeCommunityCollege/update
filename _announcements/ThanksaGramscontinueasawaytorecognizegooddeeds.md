@@ -2,6 +2,7 @@
 title: "Thanks-a-Grams continue as a way to recognize good deeds"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=60"
 sort_date: 1294346667000
+year: 2011
 pubDate: "06 Jan 2011 20:44:27 GMT"
 creator: "Ellen Schmidt"
 ---

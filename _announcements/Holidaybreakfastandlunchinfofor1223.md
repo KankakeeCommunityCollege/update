@@ -2,6 +2,7 @@
 title: "Holiday breakfast and lunch info for 12/23"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1767"
 sort_date: 1418317080000
+year: 2014
 pubDate: "11 Dec 2014 16:58:00 GMT"
 creator: "Ellen Schmidt"
 ---

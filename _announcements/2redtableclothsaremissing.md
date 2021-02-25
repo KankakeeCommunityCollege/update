@@ -2,6 +2,7 @@
 title: "2 red tablecloths are missing"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1849"
 sort_date: 1425661800000
+year: 2015
 pubDate: "06 Mar 2015 17:10:00 GMT"
 creator: "Ellen Schmidt"
 ---

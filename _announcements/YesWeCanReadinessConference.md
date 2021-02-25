@@ -2,6 +2,7 @@
 title: "Yes We Can Readiness Conference"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1389"
 sort_date: 1389374573000
+year: 2014
 pubDate: "10 Jan 2014 17:22:53 GMT"
 creator: "Elizabeth Becvar"
 ---

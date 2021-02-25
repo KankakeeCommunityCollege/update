@@ -2,6 +2,7 @@
 title: "Bookstore will close early Nov. 14"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1712"
 sort_date: 1415222917000
+year: 2014
 pubDate: "05 Nov 2014 21:28:37 GMT"
 creator: "Ellen Schmidt"
 ---

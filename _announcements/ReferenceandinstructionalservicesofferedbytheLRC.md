@@ -2,6 +2,7 @@
 title: "Reference and instructional services offered by the LRC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=439"
 sort_date: 1315841873000
+year: 2011
 pubDate: "12 Sep 2011 15:37:53 GMT"
 creator: "Elizabeth Becvar"
 ---

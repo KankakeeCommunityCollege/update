@@ -2,6 +2,7 @@
 title: "Meet the Artist - Ed McCullough"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1622"
 sort_date: 1410385474000
+year: 2014
 pubDate: "10 Sep 2014 21:44:34 GMT"
 creator: "Kari Nugent"
 ---

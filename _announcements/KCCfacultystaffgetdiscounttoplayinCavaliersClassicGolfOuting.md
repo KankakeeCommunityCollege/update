@@ -2,6 +2,7 @@
 title: "KCC faculty/staff get discount to play in Cavaliers Classic Golf Outing"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=756"
 sort_date: 1342015958000
+year: 2012
 pubDate: "11 Jul 2012 14:12:38 GMT"
 creator: "Ellen Schmidt"
 ---

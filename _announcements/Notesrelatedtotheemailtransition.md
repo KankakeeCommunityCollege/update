@@ -2,6 +2,7 @@
 title: "Notes related to the e-mail transition "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=116"
 sort_date: 1297779114000
+year: 2011
 pubDate: "15 Feb 2011 14:11:54 GMT"
 creator: "Elizabeth Becvar"
 ---

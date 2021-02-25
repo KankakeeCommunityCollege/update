@@ -2,6 +2,7 @@
 title: "Leadership Development Cohort 2 has graduated"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1529"
 sort_date: 1401716024000
+year: 2014
 pubDate: "02 Jun 2014 13:33:44 GMT"
 creator: "Ellen Schmidt"
 ---

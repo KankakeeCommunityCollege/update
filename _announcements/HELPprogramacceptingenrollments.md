@@ -2,6 +2,7 @@
 title: "H.E.L.P. program accepting enrollments"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=9"
 sort_date: 1291324704000
+year: 2010
 pubDate: "02 Dec 2010 21:18:24 GMT"
 creator: "Elizabeth Becvar"
 ---

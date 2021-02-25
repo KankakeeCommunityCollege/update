@@ -2,6 +2,7 @@
 title: "Hoopla is about to happen"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1288"
 sort_date: 1382101500000
+year: 2013
 pubDate: "18 Oct 2013 13:05:00 GMT"
 creator: "Elizabeth Becvar"
 ---

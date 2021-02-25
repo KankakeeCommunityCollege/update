@@ -2,6 +2,7 @@
 title: "Learn about electronic catalog possibilities"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1846"
 sort_date: 1425578436000
+year: 2015
 pubDate: "05 Mar 2015 18:00:36 GMT"
 creator: "Ellen Schmidt"
 ---

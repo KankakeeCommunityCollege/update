@@ -2,6 +2,7 @@
 title: "High school art exhibit is on display 3/2 - 3/25"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1840"
 sort_date: 1425060332000
+year: 2015
 pubDate: "27 Feb 2015 18:05:32 GMT"
 creator: "Ellen Schmidt"
 ---

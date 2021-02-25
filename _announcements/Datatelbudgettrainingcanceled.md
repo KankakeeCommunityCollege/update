@@ -2,6 +2,7 @@
 title: "Datatel budget training - canceled"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=103"
 sort_date: 1296853264000
+year: 2011
 pubDate: "04 Feb 2011 21:01:04 GMT"
 creator: "Elizabeth Becvar"
 ---

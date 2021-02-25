@@ -2,6 +2,7 @@
 title: "Please use KCConnect to check your address"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=75"
 sort_date: 1295360349000
+year: 2011
 pubDate: "18 Jan 2011 14:19:09 GMT"
 creator: "Elizabeth Becvar"
 ---

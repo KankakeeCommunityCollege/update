@@ -2,6 +2,7 @@
 title: "Free online sustainability course being offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=760"
 sort_date: 1342708918000
+year: 2012
 pubDate: "19 Jul 2012 14:41:58 GMT"
 creator: "Ellen Schmidt"
 ---

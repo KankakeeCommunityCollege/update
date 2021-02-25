@@ -2,6 +2,7 @@
 title: "At Hammes Bookstore&colon; 75% off Hallmark cards"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=870"
 sort_date: 1351200519000
+year: 2012
 pubDate: "25 Oct 2012 21:28:39 GMT"
 creator: "Ellen Schmidt"
 ---

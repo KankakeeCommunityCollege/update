@@ -2,6 +2,7 @@
 title: "See the eclipse at MITC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2492"
 sort_date: 1503071062000
+year: 2017
 pubDate: "18 Aug 2017 15:44:22 GMT"
 creator: "Ellen Schmidt"
 ---

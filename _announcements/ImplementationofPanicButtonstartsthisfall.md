@@ -2,6 +2,7 @@
 title: "Implementation of Panic Button starts this fall"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1264"
 sort_date: 1380309704000
+year: 2013
 pubDate: "27 Sep 2013 19:21:44 GMT"
 creator: "Ellen Schmidt"
 ---

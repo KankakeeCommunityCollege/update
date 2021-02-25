@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; GED graduation "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=745"
 sort_date: 1340629297000
+year: 2012
 pubDate: "25 Jun 2012 13:01:37 GMT"
 creator: "Elizabeth Becvar"
 ---

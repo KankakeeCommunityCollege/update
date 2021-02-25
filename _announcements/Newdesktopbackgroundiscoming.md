@@ -2,6 +2,7 @@
 title: "New desktop background is coming"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1359"
 sort_date: 1386354777000
+year: 2013
 pubDate: "06 Dec 2013 18:32:57 GMT"
 creator: "Ellen Schmidt"
 ---

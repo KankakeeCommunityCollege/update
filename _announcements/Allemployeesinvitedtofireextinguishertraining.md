@@ -2,6 +2,7 @@
 title: "All employees invited to fire extinguisher training"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2010"
 sort_date: 1440007961000
+year: 2015
 pubDate: "19 Aug 2015 18:12:41 GMT"
 creator: "Ellen Schmidt"
 ---

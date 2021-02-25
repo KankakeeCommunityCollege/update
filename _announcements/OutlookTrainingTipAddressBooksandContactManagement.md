@@ -2,6 +2,7 @@
 title: "Outlook Training Tip&colon; Address Books and Contact Management"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=203"
 sort_date: 1301925538000
+year: 2011
 pubDate: "04 Apr 2011 13:58:58 GMT"
 creator: "Elizabeth Becvar"
 ---

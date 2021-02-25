@@ -2,6 +2,7 @@
 title: "Pirates take the Halloween booty"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2067"
 sort_date: 1446238742000
+year: 2015
 pubDate: "30 Oct 2015 20:59:02 GMT"
 creator: "Ellen Schmidt"
 ---

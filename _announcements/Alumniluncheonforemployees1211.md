@@ -2,6 +2,7 @@
 title: "Alumni luncheon for employees&colon; 12/11"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2107"
 sort_date: 1449513182000
+year: 2015
 pubDate: "07 Dec 2015 18:33:02 GMT"
 creator: "Ellen Schmidt"
 ---

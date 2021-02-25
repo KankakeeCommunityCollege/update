@@ -2,6 +2,7 @@
 title: "KCC's Brother 2 Brother chapter holds food drive "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=863"
 sort_date: 1351004821000
+year: 2012
 pubDate: "23 Oct 2012 15:07:01 GMT"
 creator: "Nancy Schunke"
 ---

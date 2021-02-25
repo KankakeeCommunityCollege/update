@@ -2,6 +2,7 @@
 title: "Faculty member will present at college completion conference"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1522"
 sort_date: 1400163209000
+year: 2014
 pubDate: "15 May 2014 14:13:29 GMT"
 creator: "Ellen Schmidt"
 ---

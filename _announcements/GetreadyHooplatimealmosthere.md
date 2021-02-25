@@ -2,6 +2,7 @@
 title: "Get ready, Hoopla time almost here"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=424"
 sort_date: 1314891361000
+year: 2011
 pubDate: "01 Sep 2011 15:36:01 GMT"
 creator: "Elizabeth Becvar"
 ---

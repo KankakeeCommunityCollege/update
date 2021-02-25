@@ -2,6 +2,7 @@
 title: "Remote COMPASS testing now offered "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=265"
 sort_date: 1304343381000
+year: 2011
 pubDate: "02 May 2011 13:36:21 GMT"
 creator: "Elizabeth Becvar"
 ---

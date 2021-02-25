@@ -2,6 +2,7 @@
 title: "Free online professional development&colon; Greening Your Curriculum begins Feb. 15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=598"
 sort_date: 1328731399000
+year: 2012
 pubDate: "08 Feb 2012 20:03:19 GMT"
 creator: "Ellen Schmidt"
 ---

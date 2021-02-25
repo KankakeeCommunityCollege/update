@@ -2,6 +2,7 @@
 title: "Fire drills scheduled for 10/12"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2480"
 sort_date: 1502197990000
+year: 2017
 pubDate: "08 Aug 2017 13:13:10 GMT"
 creator: "Elizabeth Becvar"
 ---

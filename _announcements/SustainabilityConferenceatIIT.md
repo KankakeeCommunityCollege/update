@@ -2,6 +2,7 @@
 title: "Sustainability Conference at IIT"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1234"
 sort_date: 1378756699000
+year: 2013
 pubDate: "09 Sep 2013 19:58:19 GMT"
 creator: "Kari Nugent"
 ---

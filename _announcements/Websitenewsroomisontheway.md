@@ -2,6 +2,7 @@
 title: "Website newsroom is on the way"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1940"
 sort_date: 1432758816000
+year: 2015
 pubDate: "27 May 2015 20:33:36 GMT"
 creator: "Ellen Schmidt"
 ---

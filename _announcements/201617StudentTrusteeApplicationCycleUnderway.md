@@ -2,6 +2,7 @@
 title: "2016-17 Student Trustee Application Cycle Underway"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2148"
 sort_date: 1453231271000
+year: 2016
 pubDate: "19 Jan 2016 19:21:11 GMT"
 creator: "Elizabeth Becvar"
 ---

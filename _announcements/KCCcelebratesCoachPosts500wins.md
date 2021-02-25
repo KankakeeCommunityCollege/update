@@ -2,6 +2,7 @@
 title: "KCC celebrates Coach Post’s 500 wins"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1077"
 sort_date: 1365800804000
+year: 2013
 pubDate: "12 Apr 2013 21:06:44 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Going barefoot for a good cause"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1658"
 sort_date: 1412360848000
+year: 2014
 pubDate: "03 Oct 2014 18:27:28 GMT"
 creator: "Ellen Schmidt"
 ---

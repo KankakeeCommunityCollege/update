@@ -2,6 +2,7 @@
 title: "Reminder to keep hallway clear"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1523"
 sort_date: 1400272006000
+year: 2014
 pubDate: "16 May 2014 20:26:46 GMT"
 creator: "Ellen Schmidt"
 ---

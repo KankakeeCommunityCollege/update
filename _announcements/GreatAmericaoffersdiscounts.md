@@ -2,6 +2,7 @@
 title: "Great America offers discounts"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=376"
 sort_date: 1310473706000
+year: 2011
 pubDate: "12 Jul 2011 12:28:26 GMT"
 creator: "Ellen Schmidt"
 ---

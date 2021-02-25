@@ -2,6 +2,7 @@
 title: "Disability Services Office has moved "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2269"
 sort_date: 1471441992000
+year: 2016
 pubDate: "17 Aug 2016 13:53:12 GMT"
 creator: "Ellen Schmidt"
 ---

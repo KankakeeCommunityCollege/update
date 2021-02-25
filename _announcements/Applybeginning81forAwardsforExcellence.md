@@ -2,6 +2,7 @@
 title: "Apply beginning 8/1 for Awards for Excellence"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1515"
 sort_date: 1399582085000
+year: 2014
 pubDate: "08 May 2014 20:48:05 GMT"
 creator: "Ellen Schmidt"
 ---

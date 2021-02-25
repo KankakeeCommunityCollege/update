@@ -2,6 +2,7 @@
 title: "Should we call it SARCV? No ..."
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2141"
 sort_date: 1452801824000
+year: 2016
 pubDate: "14 Jan 2016 20:03:44 GMT"
 creator: "Ellen Schmidt"
 ---

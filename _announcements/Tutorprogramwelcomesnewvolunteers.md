@@ -2,6 +2,7 @@
 title: "Tutor program welcomes new volunteers"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=358"
 sort_date: 1308775442000
+year: 2011
 pubDate: "22 Jun 2011 20:44:02 GMT"
 creator: "Elizabeth Becvar"
 ---

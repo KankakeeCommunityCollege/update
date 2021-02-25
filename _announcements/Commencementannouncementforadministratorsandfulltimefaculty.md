@@ -2,6 +2,7 @@
 title: "Commencement announcement for administrators and full-time faculty "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1094"
 sort_date: 1367009432000
+year: 2013
 pubDate: "26 Apr 2013 20:50:32 GMT"
 creator: "Elizabeth Becvar"
 ---

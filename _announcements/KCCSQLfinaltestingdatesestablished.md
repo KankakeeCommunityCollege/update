@@ -2,6 +2,7 @@
 title: "KCC SQL final testing dates established"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1618"
 sort_date: 1409952317000
+year: 2014
 pubDate: "05 Sep 2014 21:25:17 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Get KCC news quickly with RSS feeds"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2057"
 sort_date: 1445450326000
+year: 2015
 pubDate: "21 Oct 2015 17:58:46 GMT"
 creator: "Ellen Schmidt"
 ---

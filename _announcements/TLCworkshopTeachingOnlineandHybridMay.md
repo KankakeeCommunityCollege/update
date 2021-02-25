@@ -2,6 +2,7 @@
 title: "TLC workshop ‘Teaching Online and Hybrid’&colon; May"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2186"
 sort_date: 1458327209000
+year: 2016
 pubDate: "18 Mar 2016 18:53:29 GMT"
 creator: "Elizabeth Becvar"
 ---

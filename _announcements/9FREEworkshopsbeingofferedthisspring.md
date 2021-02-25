@@ -2,6 +2,7 @@
 title: "9 FREE workshops being offered this spring"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=57"
 sort_date: 1294178932000
+year: 2011
 pubDate: "04 Jan 2011 22:08:52 GMT"
 creator: "Ellen Schmidt"
 ---

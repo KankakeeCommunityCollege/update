@@ -2,6 +2,7 @@
 title: "​Flu shots are being offered -- sign up today"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1626"
 sort_date: 1410815970000
+year: 2014
 pubDate: "15 Sep 2014 21:19:30 GMT"
 creator: "Ellen Schmidt"
 ---

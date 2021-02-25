@@ -2,6 +2,7 @@
 title: "Sign up for Update RSS Feeds"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1209"
 sort_date: 1377192985000
+year: 2013
 pubDate: "22 Aug 2013 17:36:25 GMT"
 creator: "Ellen Schmidt"
 ---

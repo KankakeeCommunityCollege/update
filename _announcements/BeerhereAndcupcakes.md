@@ -2,6 +2,7 @@
 title: "Beer here! And cupcakes! "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2302"
 sort_date: 1475265232000
+year: 2016
 pubDate: "30 Sep 2016 19:53:52 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "College programs & services launch Facebook pages "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=687"
 sort_date: 1335384376000
+year: 2012
 pubDate: "25 Apr 2012 20:06:16 GMT"
 creator: "Nancy Schunke"
 ---

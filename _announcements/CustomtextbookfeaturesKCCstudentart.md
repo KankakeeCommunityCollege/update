@@ -2,6 +2,7 @@
 title: "Custom textbook features KCC student art"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1535"
 sort_date: 1401898589000
+year: 2014
 pubDate: "04 Jun 2014 16:16:29 GMT"
 creator: "Ellen Schmidt"
 ---

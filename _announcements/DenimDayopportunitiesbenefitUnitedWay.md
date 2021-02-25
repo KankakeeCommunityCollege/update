@@ -2,6 +2,7 @@
 title: "Denim Day opportunities benefit United Way"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=601"
 sort_date: 1328822339000
+year: 2012
 pubDate: "09 Feb 2012 21:18:59 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Budget/business office training being offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1541"
 sort_date: 1402589402000
+year: 2014
 pubDate: "12 Jun 2014 16:10:02 GMT"
 creator: "Ellen Schmidt"
 ---

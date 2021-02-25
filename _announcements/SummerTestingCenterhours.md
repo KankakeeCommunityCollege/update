@@ -2,6 +2,7 @@
 title: "Summer Testing Center hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1898"
 sort_date: 1429803297000
+year: 2015
 pubDate: "23 Apr 2015 15:34:57 GMT"
 creator: "Ellen Schmidt"
 ---

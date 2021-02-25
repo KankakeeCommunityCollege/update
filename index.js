@@ -50,6 +50,7 @@ function replacer(match, p1, p2, p3, offset, string) {
       `\ntitle: "${item.title.replace(illegalCharsRegEx, replacer)}"`,
       `\nlink: "${item.link}"`,
       `\nsort_date: ${d.getTime()}`,
+      `\nyear: ${d.getFullYear()}`,
       `\npubDate: "${pubDate}"`,
       `\ncreator: "${item.creator}"`,
       "\n---",

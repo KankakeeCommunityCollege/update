@@ -2,6 +2,7 @@
 title: "In-Service Information for Fall 2014"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1571"
 sort_date: 1406130864000
+year: 2014
 pubDate: "23 Jul 2014 15:54:24 GMT"
 creator: "Ellen Schmidt"
 ---

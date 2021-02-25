@@ -2,6 +2,7 @@
 title: "KCC's blogs debut this week"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=109"
 sort_date: 1297184310000
+year: 2011
 pubDate: "08 Feb 2011 16:58:30 GMT"
 creator: "Kari Nugent"
 ---

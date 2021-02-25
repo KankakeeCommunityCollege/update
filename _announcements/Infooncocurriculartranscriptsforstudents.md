@@ -2,6 +2,7 @@
 title: "Info on co-curricular transcripts for students"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1020"
 sort_date: 1363272053000
+year: 2013
 pubDate: "14 Mar 2013 14:40:53 GMT"
 creator: "Ellen Schmidt"
 ---

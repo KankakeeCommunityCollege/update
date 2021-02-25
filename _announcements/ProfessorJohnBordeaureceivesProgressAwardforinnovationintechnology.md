@@ -2,6 +2,7 @@
 title: "Professor John Bordeau receives Progress Award for innovation in technology  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2413"
 sort_date: 1491584436000
+year: 2017
 pubDate: "07 Apr 2017 17:00:36 GMT"
 creator: "Ellen Schmidt"
 ---

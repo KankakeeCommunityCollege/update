@@ -2,6 +2,7 @@
 title: "2013 AQIP Systems Portfolio has been submitted"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1306"
 sort_date: 1382986522000
+year: 2013
 pubDate: "28 Oct 2013 18:55:22 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Buyback begins 12/13"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=21"
 sort_date: 1291403276000
+year: 2010
 pubDate: "03 Dec 2010 19:07:56 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

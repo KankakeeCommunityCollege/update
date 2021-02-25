@@ -2,6 +2,7 @@
 title: "Testing Center extends hours during finals"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=677"
 sort_date: 1334933871000
+year: 2012
 pubDate: "20 Apr 2012 14:57:51 GMT"
 creator: "Ellen Schmidt"
 ---

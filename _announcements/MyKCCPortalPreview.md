@@ -2,6 +2,7 @@
 title: "My KCC Portal Preview"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2445"
 sort_date: 1496766400000
+year: 2017
 pubDate: "06 Jun 2017 16:26:40 GMT"
 creator: "Elizabeth Becvar"
 ---

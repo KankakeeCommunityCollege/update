@@ -2,6 +2,7 @@
 title: "ITS department tips to set up out-of-office replies"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=559"
 sort_date: 1323802189000
+year: 2011
 pubDate: "13 Dec 2011 18:49:49 GMT"
 creator: "Ellen Schmidt"
 ---

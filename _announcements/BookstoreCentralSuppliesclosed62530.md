@@ -2,6 +2,7 @@
 title: "Bookstore/Central Supplies closed 6/25-30"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1545"
 sort_date: 1403097453000
+year: 2014
 pubDate: "18 Jun 2014 13:17:33 GMT"
 creator: "Ellen Schmidt"
 ---

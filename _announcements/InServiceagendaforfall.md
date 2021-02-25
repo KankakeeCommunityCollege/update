@@ -2,6 +2,7 @@
 title: "In-Service agenda for fall "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=353"
 sort_date: 1307994404000
+year: 2011
 pubDate: "13 Jun 2011 19:46:44 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Pledge to Stand Against Racism&colon; 4/23-27"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=668"
 sort_date: 1334764817000
+year: 2012
 pubDate: "18 Apr 2012 16:00:17 GMT"
 creator: "Ellen Schmidt"
 ---

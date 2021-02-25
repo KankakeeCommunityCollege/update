@@ -2,6 +2,7 @@
 title: "Take action regarding pension reform&colon; Join SUAA and/or help with legal fund"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1387"
 sort_date: 1389364421000
+year: 2014
 pubDate: "10 Jan 2014 14:33:41 GMT"
 creator: "Ellen Schmidt"
 ---

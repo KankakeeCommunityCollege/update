@@ -2,6 +2,7 @@
 title: "​KCC SUAA has a new website & Facebook page"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2008"
 sort_date: 1439991125000
+year: 2015
 pubDate: "19 Aug 2015 13:32:05 GMT"
 creator: "Ellen Schmidt"
 ---

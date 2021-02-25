@@ -2,6 +2,7 @@
 title: "Thanks for supporting Child Development Center art sale"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1038"
 sort_date: 1364227022000
+year: 2013
 pubDate: "25 Mar 2013 15:57:02 GMT"
 creator: "Ellen Schmidt"
 ---

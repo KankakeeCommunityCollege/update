@@ -2,6 +2,7 @@
 title: "National honor presented to softball coaching staff"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1953"
 sort_date: 1434551960000
+year: 2015
 pubDate: "17 Jun 2015 14:39:20 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Wilhelm national teaching award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1297"
 sort_date: 1382558104000
+year: 2013
 pubDate: "23 Oct 2013 19:55:04 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Social media highlights"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=882"
 sort_date: 1351803540000
+year: 2012
 pubDate: "01 Nov 2012 20:59:00 GMT"
 creator: "Nancy Schunke"
 ---

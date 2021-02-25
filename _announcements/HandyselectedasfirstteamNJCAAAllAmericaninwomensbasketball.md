@@ -2,6 +2,7 @@
 title: "Handy selected as first team NJCAA All-American in women’s basketball "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1484"
 sort_date: 1398200221000
+year: 2014
 pubDate: "22 Apr 2014 20:57:01 GMT"
 creator: "Ellen Schmidt"
 ---

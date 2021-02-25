@@ -2,6 +2,7 @@
 title: "Satisfaction survey is activated"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1812"
 sort_date: 1423244180000
+year: 2015
 pubDate: "06 Feb 2015 17:36:20 GMT"
 creator: "Ellen Schmidt"
 ---

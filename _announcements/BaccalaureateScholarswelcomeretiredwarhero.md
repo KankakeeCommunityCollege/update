@@ -2,6 +2,7 @@
 title: "Baccalaureate Scholars welcome retired war hero"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1245"
 sort_date: 1379091943000
+year: 2013
 pubDate: "13 Sep 2013 17:05:43 GMT"
 creator: "Ellen Schmidt"
 ---

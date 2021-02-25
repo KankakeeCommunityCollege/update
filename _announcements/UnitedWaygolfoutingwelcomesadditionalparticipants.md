@@ -2,6 +2,7 @@
 title: "United Way golf outing welcomes additional participants"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=425"
 sort_date: 1314973369000
+year: 2011
 pubDate: "02 Sep 2011 14:22:49 GMT"
 creator: "Elizabeth Becvar"
 ---

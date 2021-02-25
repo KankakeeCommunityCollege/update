@@ -2,6 +2,7 @@
 title: "KCC Welding wins at FabTech 2013 in Chicago"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1354"
 sort_date: 1386191522000
+year: 2013
 pubDate: "04 Dec 2013 21:12:02 GMT"
 creator: "Elizabeth Becvar"
 ---

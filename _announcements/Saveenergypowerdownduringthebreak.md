@@ -2,6 +2,7 @@
 title: "Save energy -- 'power down' during the break"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=933"
 sort_date: 1355259327000
+year: 2012
 pubDate: "11 Dec 2012 20:55:27 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Ride the River scholarship money"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=904"
 sort_date: 1352930390000
+year: 2012
 pubDate: "14 Nov 2012 21:59:50 GMT"
 creator: "Elizabeth Becvar"
 ---

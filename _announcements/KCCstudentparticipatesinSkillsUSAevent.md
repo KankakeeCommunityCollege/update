@@ -2,6 +2,7 @@
 title: "KCC student participates in SkillsUSA event"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1098"
 sort_date: 1367259987000
+year: 2013
 pubDate: "29 Apr 2013 18:26:27 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Flu shots being offered -- sign up by 10/17"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1273"
 sort_date: 1381152052000
+year: 2013
 pubDate: "07 Oct 2013 13:20:52 GMT"
 creator: "Ellen Schmidt"
 ---

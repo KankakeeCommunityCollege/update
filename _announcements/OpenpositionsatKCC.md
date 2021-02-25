@@ -2,6 +2,7 @@
 title: "Open positions at KCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=128"
 sort_date: 1298064415000
+year: 2011
 pubDate: "18 Feb 2011 21:26:55 GMT"
 creator: "Elizabeth Becvar"
 ---

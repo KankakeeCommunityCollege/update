@@ -2,6 +2,7 @@
 title: "Now celebrating&colon; 26 who have May anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2417"
 sort_date: 1491945218000
+year: 2017
 pubDate: "11 Apr 2017 21:13:38 GMT"
 creator: "Ellen Schmidt"
 ---

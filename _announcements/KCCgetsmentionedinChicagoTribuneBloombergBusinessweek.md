@@ -2,6 +2,7 @@
 title: "​KCC gets mentioned in Chicago Tribune & Bloomberg Businessweek "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1655"
 sort_date: 1412346677000
+year: 2014
 pubDate: "03 Oct 2014 14:31:17 GMT"
 creator: "Ellen Schmidt"
 ---

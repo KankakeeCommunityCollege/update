@@ -2,6 +2,7 @@
 title: "WKCC spring membership campaign info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1099"
 sort_date: 1367421732000
+year: 2013
 pubDate: "01 May 2013 15:22:12 GMT"
 creator: "Ellen Schmidt"
 ---

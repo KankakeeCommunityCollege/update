@@ -2,6 +2,7 @@
 title: "Note the fall preregistration payment deadline "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=367"
 sort_date: 1309468874000
+year: 2011
 pubDate: "30 Jun 2011 21:21:14 GMT"
 creator: "Elizabeth Becvar"
 ---

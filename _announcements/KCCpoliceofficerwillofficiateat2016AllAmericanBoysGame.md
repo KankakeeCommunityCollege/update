@@ -2,6 +2,7 @@
 title: "KCC police officer will officiate at 2016 All American Boys Game"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2179"
 sort_date: 1457555053000
+year: 2016
 pubDate: "09 Mar 2016 20:24:13 GMT"
 creator: "Ellen Schmidt"
 ---

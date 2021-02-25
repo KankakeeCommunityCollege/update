@@ -2,6 +2,7 @@
 title: "64 ping pong players needed for upcoming tourney"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1318"
 sort_date: 1383933309000
+year: 2013
 pubDate: "08 Nov 2013 17:55:09 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Expense reimbursement information to keep in mind"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=426"
 sort_date: 1314973512000
+year: 2011
 pubDate: "02 Sep 2011 14:25:12 GMT"
 creator: "Elizabeth Becvar"
 ---

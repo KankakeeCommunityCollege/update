@@ -2,6 +2,7 @@
 title: "Make plans to participate in International Friendship Day"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=154"
 sort_date: 1299517607000
+year: 2011
 pubDate: "07 Mar 2011 17:06:47 GMT"
 creator: "Elizabeth Becvar"
 ---

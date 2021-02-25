@@ -2,6 +2,7 @@
 title: "2014 Student Sustainability Summit "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1430"
 sort_date: 1393945989000
+year: 2014
 pubDate: "04 Mar 2014 15:13:09 GMT"
 creator: "Elizabeth Becvar"
 ---

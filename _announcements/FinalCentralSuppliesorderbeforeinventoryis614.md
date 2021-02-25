@@ -2,6 +2,7 @@
 title: "Final Central Supplies order before inventory is 6/14"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=709"
 sort_date: 1336750250000
+year: 2012
 pubDate: "11 May 2012 15:30:50 GMT"
 creator: "Ellen Schmidt"
 ---

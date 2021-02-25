@@ -2,6 +2,7 @@
 title: "KCC instructor named Outstanding Female Educator of the Year"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1974"
 sort_date: 1436374186000
+year: 2015
 pubDate: "08 Jul 2015 16:49:46 GMT"
 creator: "Ellen Schmidt"
 ---

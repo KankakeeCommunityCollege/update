@@ -2,6 +2,7 @@
 title: "Winter coat drive is underway"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=860"
 sort_date: 1350926020000
+year: 2012
 pubDate: "22 Oct 2012 17:13:40 GMT"
 creator: "Ellen Schmidt"
 ---

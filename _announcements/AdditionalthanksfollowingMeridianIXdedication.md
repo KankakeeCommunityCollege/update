@@ -2,6 +2,7 @@
 title: "Additional thanks following Meridian IX dedication"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=470"
 sort_date: 1318007383000
+year: 2011
 pubDate: "07 Oct 2011 17:09:43 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Student printing limit goes into effect Jan. 7"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=941"
 sort_date: 1355945985000
+year: 2012
 pubDate: "19 Dec 2012 19:39:45 GMT"
 creator: "Ellen Schmidt"
 ---

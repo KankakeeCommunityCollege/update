@@ -2,6 +2,7 @@
 title: "SBDC celebrates small business success"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1730"
 sort_date: 1415978673000
+year: 2014
 pubDate: "14 Nov 2014 15:24:33 GMT"
 creator: "Elizabeth Becvar"
 ---

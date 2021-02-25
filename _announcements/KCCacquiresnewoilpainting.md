@@ -2,6 +2,7 @@
 title: "KCC acquires new oil painting"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=748"
 sort_date: 1340814439000
+year: 2012
 pubDate: "27 Jun 2012 16:27:19 GMT"
 creator: "Ellen Schmidt"
 ---

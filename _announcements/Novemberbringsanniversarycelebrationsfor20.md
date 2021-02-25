@@ -2,6 +2,7 @@
 title: "November brings anniversary celebrations for 20"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2050"
 sort_date: 1444929826000
+year: 2015
 pubDate: "15 Oct 2015 17:23:46 GMT"
 creator: "Ellen Schmidt"
 ---

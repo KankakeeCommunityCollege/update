@@ -2,6 +2,7 @@
 title: "Seeking innovation ideas"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2284"
 sort_date: 1473777409000
+year: 2016
 pubDate: "13 Sep 2016 14:36:49 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Recipients announced for the KCC Foundation &quot;Awards for Excellence&quot;"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1445"
 sort_date: 1395090806000
+year: 2014
 pubDate: "17 Mar 2014 21:13:26 GMT"
 creator: "Kari Nugent"
 ---

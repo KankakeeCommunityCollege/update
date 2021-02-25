@@ -2,6 +2,7 @@
 title: "It's time to get new decals"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=716"
 sort_date: 1337621229000
+year: 2012
 pubDate: "21 May 2012 17:27:09 GMT"
 creator: "Ellen Schmidt"
 ---

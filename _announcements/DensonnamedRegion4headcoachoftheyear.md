@@ -2,6 +2,7 @@
 title: "Denson named Region 4 head coach of the year"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1490"
 sort_date: 1398282199000
+year: 2014
 pubDate: "23 Apr 2014 19:43:19 GMT"
 creator: "Ellen Schmidt"
 ---

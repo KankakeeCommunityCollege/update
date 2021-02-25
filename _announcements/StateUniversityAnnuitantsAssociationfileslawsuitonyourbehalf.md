@@ -2,6 +2,7 @@
 title: "State University Annuitants Association files lawsuit on your behalf"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1442"
 sort_date: 1394648965000
+year: 2014
 pubDate: "12 Mar 2014 18:29:25 GMT"
 creator: "Kari Nugent"
 ---

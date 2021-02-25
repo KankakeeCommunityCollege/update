@@ -2,6 +2,7 @@
 title: "It’s back to YOU season!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1630"
 sort_date: 1410970869000
+year: 2014
 pubDate: "17 Sep 2014 16:21:09 GMT"
 creator: "Kari Nugent"
 ---

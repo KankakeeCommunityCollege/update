@@ -2,6 +2,7 @@
 title: "2 recent accolades for KCC employee"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=468"
 sort_date: 1317926487000
+year: 2011
 pubDate: "06 Oct 2011 18:41:27 GMT"
 creator: "Ellen Schmidt"
 ---

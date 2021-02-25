@@ -2,6 +2,7 @@
 title: "January anniversaries are celebrated by 32"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2358"
 sort_date: 1483735283000
+year: 2017
 pubDate: "06 Jan 2017 20:41:23 GMT"
 creator: "Ellen Schmidt"
 ---

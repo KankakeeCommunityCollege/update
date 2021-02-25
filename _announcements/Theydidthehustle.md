@@ -2,6 +2,7 @@
 title: "They did 'the hustle'"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1007"
 sort_date: 1361910324000
+year: 2013
 pubDate: "26 Feb 2013 20:25:24 GMT"
 creator: "Ellen Schmidt"
 ---

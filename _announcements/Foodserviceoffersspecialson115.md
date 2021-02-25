@@ -2,6 +2,7 @@
 title: "Food service offers specials on 1/15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1789"
 sort_date: 1421160166000
+year: 2015
 pubDate: "13 Jan 2015 14:42:46 GMT"
 creator: "Ellen Schmidt"
 ---

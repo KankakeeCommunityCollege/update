@@ -2,6 +2,7 @@
 title: "Free movie -- Homeless to Harvard&colon; 10/15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1670"
 sort_date: 1413309886000
+year: 2014
 pubDate: "14 Oct 2014 18:04:46 GMT"
 creator: "Ellen Schmidt"
 ---

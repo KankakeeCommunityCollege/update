@@ -2,6 +2,7 @@
 title: "United Way fundraiser at Ruby Tuesday will be 11/8"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=509"
 sort_date: 1320690116000
+year: 2011
 pubDate: "07 Nov 2011 18:21:56 GMT"
 creator: "Ellen Schmidt"
 ---

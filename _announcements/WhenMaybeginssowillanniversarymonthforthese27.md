@@ -2,6 +2,7 @@
 title: "When May begins, so will anniversary month for these 27"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2202"
 sort_date: 1460407859000
+year: 2016
 pubDate: "11 Apr 2016 20:50:59 GMT"
 creator: "Ellen Schmidt"
 ---

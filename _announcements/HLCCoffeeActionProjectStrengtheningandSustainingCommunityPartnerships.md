@@ -2,6 +2,7 @@
 title: "​HLC & Coffee – Action Project – Strengthening and Sustaining Community Partnerships"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2151"
 sort_date: 1453830058000
+year: 2016
 pubDate: "26 Jan 2016 17:40:58 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Kris Condon selected for Supreme Court Summer Institute"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1125"
 sort_date: 1369348160000
+year: 2013
 pubDate: "23 May 2013 22:29:20 GMT"
 creator: "Kari Nugent"
 ---

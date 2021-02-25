@@ -2,6 +2,7 @@
 title: "Massage Therapy advanced certificate now offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1267"
 sort_date: 1380724661000
+year: 2013
 pubDate: "02 Oct 2013 14:37:41 GMT"
 creator: "Elizabeth Becvar"
 ---

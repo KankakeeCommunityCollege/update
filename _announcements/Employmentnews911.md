@@ -2,6 +2,7 @@
 title: "Employment news&colon; 9/11"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1236"
 sort_date: 1378836662000
+year: 2013
 pubDate: "10 Sep 2013 18:11:02 GMT"
 creator: "Elizabeth Becvar"
 ---

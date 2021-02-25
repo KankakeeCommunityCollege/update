@@ -2,6 +2,7 @@
 title: "No mail service on Veterans Day"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=512"
 sort_date: 1320941738000
+year: 2011
 pubDate: "10 Nov 2011 16:15:38 GMT"
 creator: "Ellen Schmidt"
 ---

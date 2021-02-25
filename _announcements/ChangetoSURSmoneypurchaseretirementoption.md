@@ -2,6 +2,7 @@
 title: "Change to SURS money purchase retirement option"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=467"
 sort_date: 1317851001000
+year: 2011
 pubDate: "05 Oct 2011 21:43:21 GMT"
 creator: "Ellen Schmidt"
 ---

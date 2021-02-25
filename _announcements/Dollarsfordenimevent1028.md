@@ -2,6 +2,7 @@
 title: "Dollars for denim event&colon; 10/28"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=454"
 sort_date: 1316791897000
+year: 2011
 pubDate: "23 Sep 2011 15:31:37 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Thanks for event help"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=140"
 sort_date: 1298494764000
+year: 2011
 pubDate: "23 Feb 2011 20:59:24 GMT"
 creator: "Ellen Schmidt"
 ---

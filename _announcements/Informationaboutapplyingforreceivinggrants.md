@@ -2,6 +2,7 @@
 title: "Information about applying for/receiving grants"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=665"
 sort_date: 1334021450000
+year: 2012
 pubDate: "10 Apr 2012 01:30:50 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "17th annual Job Fair"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=176"
 sort_date: 1300730509000
+year: 2011
 pubDate: "21 Mar 2011 18:01:49 GMT"
 creator: "Elizabeth Becvar"
 ---

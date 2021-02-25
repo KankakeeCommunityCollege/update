@@ -2,6 +2,7 @@
 title: "Art exhibit reception&colon; 5/5 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=273"
 sort_date: 1304344131000
+year: 2011
 pubDate: "02 May 2011 13:48:51 GMT"
 creator: "Elizabeth Becvar"
 ---

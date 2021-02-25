@@ -2,6 +2,7 @@
 title: "Office 2013 upgrade information"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2066"
 sort_date: 1446143881000
+year: 2015
 pubDate: "29 Oct 2015 18:38:01 GMT"
 creator: "Ellen Schmidt"
 ---

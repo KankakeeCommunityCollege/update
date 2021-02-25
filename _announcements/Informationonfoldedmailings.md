@@ -2,6 +2,7 @@
 title: "Information on folded mailings"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=948"
 sort_date: 1357767215000
+year: 2013
 pubDate: "09 Jan 2013 21:33:35 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "53 health students participate in interprofessional simulation"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1507"
 sort_date: 1399401494000
+year: 2014
 pubDate: "06 May 2014 18:38:14 GMT"
 creator: "Ellen Schmidt"
 ---

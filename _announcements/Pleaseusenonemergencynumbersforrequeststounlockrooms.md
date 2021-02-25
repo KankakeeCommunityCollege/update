@@ -2,6 +2,7 @@
 title: "Please use non-emergency numbers for requests to unlock rooms"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1604"
 sort_date: 1409154377000
+year: 2014
 pubDate: "27 Aug 2014 15:46:17 GMT"
 creator: "Ellen Schmidt"
 ---

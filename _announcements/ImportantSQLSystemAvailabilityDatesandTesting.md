@@ -2,6 +2,7 @@
 title: "Important SQL System Availability Dates and Testing"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1762"
 sort_date: 1418229219000
+year: 2014
 pubDate: "10 Dec 2014 16:33:39 GMT"
 creator: "Kari Nugent"
 ---

@@ -2,6 +2,7 @@
 title: "Library has free book cases"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1740"
 sort_date: 1416583285000
+year: 2014
 pubDate: "21 Nov 2014 15:21:25 GMT"
 creator: "Ellen Schmidt"
 ---

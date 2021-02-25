@@ -2,6 +2,7 @@
 title: "KCC earns mention in White House document"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1518"
 sort_date: 1399918847000
+year: 2014
 pubDate: "12 May 2014 18:20:47 GMT"
 creator: "Ellen Schmidt"
 ---

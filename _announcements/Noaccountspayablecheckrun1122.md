@@ -2,6 +2,7 @@
 title: "No accounts payable check run&colon; 11/22"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=894"
 sort_date: 1352320053000
+year: 2012
 pubDate: "07 Nov 2012 20:27:33 GMT"
 creator: "Ellen Schmidt"
 ---

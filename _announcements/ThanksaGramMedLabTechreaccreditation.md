@@ -2,6 +2,7 @@
 title: "Thanks a Gram - Med Lab Tech reaccreditation "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=783"
 sort_date: 1345555216000
+year: 2012
 pubDate: "21 Aug 2012 13:20:16 GMT"
 creator: "Elizabeth Becvar"
 ---

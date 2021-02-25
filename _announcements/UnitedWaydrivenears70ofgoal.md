@@ -2,6 +2,7 @@
 title: "United Way drive nears 70% of goal"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=510"
 sort_date: 1320700898000
+year: 2011
 pubDate: "07 Nov 2011 21:21:38 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Thank you for contributions"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=457"
 sort_date: 1317063038000
+year: 2011
 pubDate: "26 Sep 2011 18:50:38 GMT"
 creator: "Nancy Schunke"
 ---

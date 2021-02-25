@@ -2,6 +2,7 @@
 title: "Food Service now under new management "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=809"
 sort_date: 1347030383000
+year: 2012
 pubDate: "07 Sep 2012 15:06:23 GMT"
 creator: "Ellen Schmidt"
 ---

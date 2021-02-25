@@ -2,6 +2,7 @@
 title: "Thanks-a-Grams&colon; Retirement cookout"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=742"
 sort_date: 1340199026000
+year: 2012
 pubDate: "20 Jun 2012 13:30:26 GMT"
 creator: "Elizabeth Becvar"
 ---

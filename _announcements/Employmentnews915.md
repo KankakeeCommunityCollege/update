@@ -2,6 +2,7 @@
 title: "Employment news&colon; 9/15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1627"
 sort_date: 1410816168000
+year: 2014
 pubDate: "15 Sep 2014 21:22:48 GMT"
 creator: "Ellen Schmidt"
 ---

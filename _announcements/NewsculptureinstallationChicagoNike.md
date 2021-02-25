@@ -2,6 +2,7 @@
 title: "New sculpture installation&colon; Chicago Nike"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1562"
 sort_date: 1405009863000
+year: 2014
 pubDate: "10 Jul 2014 16:31:03 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "2 complete online network certifications"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2273"
 sort_date: 1471981785000
+year: 2016
 pubDate: "23 Aug 2016 19:49:45 GMT"
 creator: "Ellen Schmidt"
 ---

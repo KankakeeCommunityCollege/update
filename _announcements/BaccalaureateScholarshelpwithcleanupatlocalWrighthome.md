@@ -2,6 +2,7 @@
 title: "Baccalaureate Scholars help with cleanup at local Wright home"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=831"
 sort_date: 1348667100000
+year: 2012
 pubDate: "26 Sep 2012 13:45:00 GMT"
 creator: "Elizabeth Becvar"
 ---

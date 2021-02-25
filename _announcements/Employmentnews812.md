@@ -2,6 +2,7 @@
 title: "Employment news - 8/12"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=403"
 sort_date: 1313180373000
+year: 2011
 pubDate: "12 Aug 2011 20:19:33 GMT"
 creator: "Elizabeth Becvar"
 ---

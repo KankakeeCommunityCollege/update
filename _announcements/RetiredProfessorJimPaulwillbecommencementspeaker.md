@@ -2,6 +2,7 @@
 title: "Retired Professor Jim Paul will be commencement speaker"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1100"
 sort_date: 1367422857000
+year: 2013
 pubDate: "01 May 2013 15:40:57 GMT"
 creator: "Elizabeth Becvar"
 ---

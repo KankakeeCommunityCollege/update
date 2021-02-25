@@ -2,6 +2,7 @@
 title: "​Summer Fun - Week 1"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2446"
 sort_date: 1496766631000
+year: 2017
 pubDate: "06 Jun 2017 16:30:31 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Phi Theta Kappa Regional convention Awards 2012"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=732"
 sort_date: 1339452772000
+year: 2012
 pubDate: "11 Jun 2012 22:12:52 GMT"
 creator: "Elizabeth Becvar"
 ---

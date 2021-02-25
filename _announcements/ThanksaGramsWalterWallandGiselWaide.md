@@ -2,6 +2,7 @@
 title: "Thanks-a-Grams - Walter Wall and Gisel Waide"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=877"
 sort_date: 1351715521000
+year: 2012
 pubDate: "31 Oct 2012 20:32:01 GMT"
 creator: "Elizabeth Becvar"
 ---

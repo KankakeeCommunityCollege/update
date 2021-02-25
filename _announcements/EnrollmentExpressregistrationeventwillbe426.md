@@ -2,6 +2,7 @@
 title: "Enrollment Express registration event will be 4/26"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1463"
 sort_date: 1396906860000
+year: 2014
 pubDate: "07 Apr 2014 21:41:00 GMT"
 creator: "Ellen Schmidt"
 ---

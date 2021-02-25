@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Lindsey Zerbian"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1177"
 sort_date: 1374703662000
+year: 2013
 pubDate: "24 Jul 2013 22:07:42 GMT"
 creator: "Elizabeth Becvar"
 ---

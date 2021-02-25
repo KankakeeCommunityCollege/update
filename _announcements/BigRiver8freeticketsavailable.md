@@ -2,6 +2,7 @@
 title: "Big River -- 8 free tickets available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=759"
 sort_date: 1342638039000
+year: 2012
 pubDate: "18 Jul 2012 19:00:39 GMT"
 creator: "Ellen Schmidt"
 ---

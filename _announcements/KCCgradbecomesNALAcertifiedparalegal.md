@@ -2,6 +2,7 @@
 title: "KCC grad becomes NALA certified paralegal"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1583"
 sort_date: 1407248471000
+year: 2014
 pubDate: "05 Aug 2014 14:21:11 GMT"
 creator: "Elizabeth Becvar"
 ---

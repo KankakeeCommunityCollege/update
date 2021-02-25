@@ -2,6 +2,7 @@
 title: "Decoration delivery info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2333"
 sort_date: 1479404928000
+year: 2016
 pubDate: "17 Nov 2016 17:48:48 GMT"
 creator: "Ellen Schmidt"
 ---

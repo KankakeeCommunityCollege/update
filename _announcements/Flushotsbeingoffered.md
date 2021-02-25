@@ -2,6 +2,7 @@
 title: "Flu shots being offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=448"
 sort_date: 1316622914000
+year: 2011
 pubDate: "21 Sep 2011 16:35:14 GMT"
 creator: "Ellen Schmidt"
 ---

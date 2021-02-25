@@ -2,6 +2,7 @@
 title: "SURS will visit for retirement planning appointments "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=52"
 sort_date: 1292942314000
+year: 2010
 pubDate: "21 Dec 2010 14:38:34 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Video of lieutenant governor's visit is now available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=458"
 sort_date: 1317242077000
+year: 2011
 pubDate: "28 Sep 2011 20:34:37 GMT"
 creator: "Ellen Schmidt"
 ---

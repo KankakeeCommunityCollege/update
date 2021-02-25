@@ -2,6 +2,7 @@
 title: "All employees invited&colon; 'Active Shooter' training offered "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=846"
 sort_date: 1349875529000
+year: 2012
 pubDate: "10 Oct 2012 13:25:29 GMT"
 creator: "Elizabeth Becvar"
 ---

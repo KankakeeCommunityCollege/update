@@ -2,6 +2,7 @@
 title: "Some reserved parking 'released' during ATEC construction "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1878"
 sort_date: 1428430485000
+year: 2015
 pubDate: "07 Apr 2015 18:14:45 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Thanks for kindness"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2498"
 sort_date: 1504102443000
+year: 2017
 pubDate: "30 Aug 2017 14:14:03 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "'Be the Change' campaign info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=874"
 sort_date: 1351688683000
+year: 2012
 pubDate: "31 Oct 2012 13:04:43 GMT"
 creator: "Ellen Schmidt"
 ---

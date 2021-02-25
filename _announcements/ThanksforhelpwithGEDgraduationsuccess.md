@@ -2,6 +2,7 @@
 title: "Thanks for help with GED graduation success"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=340"
 sort_date: 1307394046000
+year: 2011
 pubDate: "06 Jun 2011 21:00:46 GMT"
 creator: "Ellen Schmidt"
 ---

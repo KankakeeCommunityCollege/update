@@ -2,6 +2,7 @@
 title: "Free Regatta tickets available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=782"
 sort_date: 1345481548000
+year: 2012
 pubDate: "20 Aug 2012 16:52:28 GMT"
 creator: "Ellen Schmidt"
 ---

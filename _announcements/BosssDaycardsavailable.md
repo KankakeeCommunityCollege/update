@@ -2,6 +2,7 @@
 title: "Boss's Day cards available "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=480"
 sort_date: 1318526971000
+year: 2011
 pubDate: "13 Oct 2011 17:29:31 GMT"
 creator: "Ellen Schmidt"
 ---

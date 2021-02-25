@@ -2,6 +2,7 @@
 title: "WKCC show is now heard across the continent "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1149"
 sort_date: 1371667170000
+year: 2013
 pubDate: "19 Jun 2013 18:39:30 GMT"
 creator: "Ellen Schmidt"
 ---

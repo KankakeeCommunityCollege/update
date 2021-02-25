@@ -2,6 +2,7 @@
 title: "Nominate your colleague for the KCC Outstanding Faculty Award!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1794"
 sort_date: 1421418795000
+year: 2015
 pubDate: "16 Jan 2015 14:33:15 GMT"
 creator: "Ellen Schmidt"
 ---

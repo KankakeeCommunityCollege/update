@@ -2,6 +2,7 @@
 title: "United Way drive is just $186 from $20K "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=190"
 sort_date: 1301344472000
+year: 2011
 pubDate: "28 Mar 2011 20:34:32 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "ANGEL upgrade success!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=314"
 sort_date: 1305733593000
+year: 2011
 pubDate: "18 May 2011 15:46:33 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Weight Watchers info session"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=447"
 sort_date: 1316545124000
+year: 2011
 pubDate: "20 Sep 2011 18:58:44 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Summer Fun schedule"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2455"
 sort_date: 1497357816000
+year: 2017
 pubDate: "13 Jun 2017 12:43:36 GMT"
 creator: "Elizabeth Becvar"
 ---

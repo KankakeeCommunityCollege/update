@@ -2,6 +2,7 @@
 title: "Congratulations -- Officer of the Year"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2440"
 sort_date: 1495118121000
+year: 2017
 pubDate: "18 May 2017 14:35:21 GMT"
 creator: "Ellen Schmidt"
 ---

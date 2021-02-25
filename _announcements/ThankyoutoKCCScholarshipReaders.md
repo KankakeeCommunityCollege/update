@@ -2,6 +2,7 @@
 title: "Thank you to KCC Scholarship Readers!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1882"
 sort_date: 1428686623000
+year: 2015
 pubDate: "10 Apr 2015 17:23:43 GMT"
 creator: "Ellen Schmidt"
 ---

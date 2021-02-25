@@ -2,6 +2,7 @@
 title: "ATEC construction begins 3/30"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1863"
 sort_date: 1427203436000
+year: 2015
 pubDate: "24 Mar 2015 13:23:56 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "*New deadlines* ​Info on annual evaluations"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2376"
 sort_date: 1486675516000
+year: 2017
 pubDate: "09 Feb 2017 21:25:16 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Thank you"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=645"
 sort_date: 1332522816000
+year: 2012
 pubDate: "23 Mar 2012 17:13:36 GMT"
 creator: "Ellen Schmidt"
 ---

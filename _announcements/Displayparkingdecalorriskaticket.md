@@ -2,6 +2,7 @@
 title: "Display parking decal or risk a ticket ..."
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2289"
 sort_date: 1473795826000
+year: 2016
 pubDate: "13 Sep 2016 19:43:46 GMT"
 creator: "Ellen Schmidt"
 ---

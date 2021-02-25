@@ -2,6 +2,7 @@
 title: "Building smart, Green Happenings event&colon; 4/26"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=217"
 sort_date: 1302529333000
+year: 2011
 pubDate: "11 Apr 2011 13:42:13 GMT"
 creator: "Elizabeth Becvar"
 ---

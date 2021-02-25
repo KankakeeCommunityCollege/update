@@ -2,6 +2,7 @@
 title: "Free play -- A Midsummer Night's Dream&colon; 4/26 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=160"
 sort_date: 1299873562000
+year: 2011
 pubDate: "11 Mar 2011 19:59:22 GMT"
 creator: "Elizabeth Becvar"
 ---

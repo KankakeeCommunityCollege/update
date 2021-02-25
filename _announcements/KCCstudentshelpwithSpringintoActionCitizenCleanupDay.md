@@ -2,6 +2,7 @@
 title: "KCC students help with &quot;Spring into Action Citizen Cleanup Day&quot; "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=230"
 sort_date: 1303149116000
+year: 2011
 pubDate: "18 Apr 2011 17:51:56 GMT"
 creator: "Elizabeth Becvar"
 ---

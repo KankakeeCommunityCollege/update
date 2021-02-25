@@ -2,6 +2,7 @@
 title: "Summer Fun photos"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2500"
 sort_date: 1504116858000
+year: 2017
 pubDate: "30 Aug 2017 18:14:18 GMT"
 creator: "Elizabeth Becvar"
 ---

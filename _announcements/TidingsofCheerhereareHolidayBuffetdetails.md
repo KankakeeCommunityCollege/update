@@ -2,6 +2,7 @@
 title: "Tidings of Cheer! here are Holiday Buffet details"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1363"
 sort_date: 1386714487000
+year: 2013
 pubDate: "10 Dec 2013 22:28:07 GMT"
 creator: "Ellen Schmidt"
 ---

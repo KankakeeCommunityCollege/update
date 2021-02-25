@@ -2,6 +2,7 @@
 title: "Hammes Bookstore offers Valentine's treats and bargains"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1413"
 sort_date: 1392143122000
+year: 2014
 pubDate: "11 Feb 2014 18:25:22 GMT"
 creator: "Ellen Schmidt"
 ---

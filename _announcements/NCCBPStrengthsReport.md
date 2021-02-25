@@ -2,6 +2,7 @@
 title: "NCCBP Strengths Report "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=856"
 sort_date: 1350399623000
+year: 2012
 pubDate: "16 Oct 2012 15:00:23 GMT"
 creator: "Ellen Schmidt"
 ---

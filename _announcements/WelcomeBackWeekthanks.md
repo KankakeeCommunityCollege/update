@@ -2,6 +2,7 @@
 title: "Welcome Back Week thanks"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2013"
 sort_date: 1440442372000
+year: 2015
 pubDate: "24 Aug 2015 18:52:52 GMT"
 creator: "Elizabeth Becvar"
 ---

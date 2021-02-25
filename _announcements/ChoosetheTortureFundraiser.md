@@ -2,6 +2,7 @@
 title: "Choose the Torture Fundraiser"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1880"
 sort_date: 1428603260000
+year: 2015
 pubDate: "09 Apr 2015 18:14:20 GMT"
 creator: "Elizabeth Becvar"
 ---

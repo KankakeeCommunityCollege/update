@@ -2,6 +2,7 @@
 title: "3-D art will be on display for brief exhibit"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1494"
 sort_date: 1398695558000
+year: 2014
 pubDate: "28 Apr 2014 14:32:38 GMT"
 creator: "Ellen Schmidt"
 ---

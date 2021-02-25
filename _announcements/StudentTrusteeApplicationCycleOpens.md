@@ -2,6 +2,7 @@
 title: "Student Trustee Application Cycle Opens"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1392"
 sort_date: 1389385291000
+year: 2014
 pubDate: "10 Jan 2014 20:21:31 GMT"
 creator: "Nancy Schunke"
 ---

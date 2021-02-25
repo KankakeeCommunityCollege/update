@@ -2,6 +2,7 @@
 title: "In-Service Information for Spring 2013"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=929"
 sort_date: 1354833755000
+year: 2012
 pubDate: "06 Dec 2012 22:42:35 GMT"
 creator: "Ellen Schmidt"
 ---

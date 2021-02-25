@@ -2,6 +2,7 @@
 title: "Special raffle offered for United Way Prairie Lot parking"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1076"
 sort_date: 1365797367000
+year: 2013
 pubDate: "12 Apr 2013 20:09:27 GMT"
 creator: "Ellen Schmidt"
 ---

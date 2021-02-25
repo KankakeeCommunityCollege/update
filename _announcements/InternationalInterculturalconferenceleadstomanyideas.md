@@ -2,6 +2,7 @@
 title: "International/Intercultural conference leads to many ideas"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1499"
 sort_date: 1398804044000
+year: 2014
 pubDate: "29 Apr 2014 20:40:44 GMT"
 creator: "Ellen Schmidt"
 ---

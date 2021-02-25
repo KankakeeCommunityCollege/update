@@ -2,6 +2,7 @@
 title: "Retiree's book is published"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=775"
 sort_date: 1344625001000
+year: 2012
 pubDate: "10 Aug 2012 18:56:41 GMT"
 creator: "Ellen Schmidt"
 ---

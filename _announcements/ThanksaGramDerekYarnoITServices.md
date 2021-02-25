@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram - Derek Yarno, IT Services"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=694"
 sort_date: 1335883377000
+year: 2012
 pubDate: "01 May 2012 14:42:57 GMT"
 creator: "Elizabeth Becvar"
 ---

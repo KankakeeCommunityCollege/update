@@ -2,6 +2,7 @@
 title: "H.E.L.P. program has some revisions"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1955"
 sort_date: 1434644847000
+year: 2015
 pubDate: "18 Jun 2015 16:27:27 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Updates from the Miner Memorial Library"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2127"
 sort_date: 1452200197000
+year: 2016
 pubDate: "07 Jan 2016 20:56:37 GMT"
 creator: "Ellen Schmidt"
 ---

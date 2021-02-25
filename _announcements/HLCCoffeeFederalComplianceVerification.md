@@ -2,6 +2,7 @@
 title: "​HLC & Coffee - Federal Compliance Verification"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2101"
 sort_date: 1449007957000
+year: 2015
 pubDate: "01 Dec 2015 22:12:37 GMT"
 creator: "Elizabeth Becvar"
 ---

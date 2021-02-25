@@ -2,6 +2,7 @@
 title: "Thank you to the Black History Month team!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=218"
 sort_date: 1302529426000
+year: 2011
 pubDate: "11 Apr 2011 13:43:46 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "​2015 Outstanding Faculty Award winners have been selected"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1872"
 sort_date: 1427907587000
+year: 2015
 pubDate: "01 Apr 2015 16:59:47 GMT"
 creator: "Ellen Schmidt"
 ---

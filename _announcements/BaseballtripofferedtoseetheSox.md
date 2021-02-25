@@ -2,6 +2,7 @@
 title: "Baseball trip offered to see the Sox"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1467"
 sort_date: 1397224173000
+year: 2014
 pubDate: "11 Apr 2014 13:49:33 GMT"
 creator: "Ellen Schmidt"
 ---

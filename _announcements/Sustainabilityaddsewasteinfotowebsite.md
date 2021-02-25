@@ -2,6 +2,7 @@
 title: "Sustainability adds e-waste info to website"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=568"
 sort_date: 1325859435000
+year: 2012
 pubDate: "06 Jan 2012 14:17:15 GMT"
 creator: "Ellen Schmidt"
 ---

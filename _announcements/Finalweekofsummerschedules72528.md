@@ -2,6 +2,7 @@
 title: "Final week of summer schedules&colon; 7/25-28"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=387"
 sort_date: 1311252935000
+year: 2011
 pubDate: "21 Jul 2011 12:55:35 GMT"
 creator: "Elizabeth Becvar"
 ---

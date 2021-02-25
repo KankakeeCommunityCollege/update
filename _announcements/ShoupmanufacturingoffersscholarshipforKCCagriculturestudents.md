@@ -2,6 +2,7 @@
 title: "Shoup manufacturing offers scholarship for KCC agriculture students"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1060"
 sort_date: 1365537503000
+year: 2013
 pubDate: "09 Apr 2013 19:58:23 GMT"
 creator: "Ellen Schmidt"
 ---

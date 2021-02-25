@@ -2,6 +2,7 @@
 title: "Information on mail service during winter break"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=932"
 sort_date: 1355257931000
+year: 2012
 pubDate: "11 Dec 2012 20:32:11 GMT"
 creator: "Ellen Schmidt"
 ---

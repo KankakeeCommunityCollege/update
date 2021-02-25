@@ -2,6 +2,7 @@
 title: "Employee Satisfaction Survey will be sent 2/2"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1802"
 sort_date: 1422049355000
+year: 2015
 pubDate: "23 Jan 2015 21:42:35 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

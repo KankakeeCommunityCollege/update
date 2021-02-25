@@ -2,6 +2,7 @@
 title: "Prairie Fire is available "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=307"
 sort_date: 1305552920000
+year: 2011
 pubDate: "16 May 2011 13:35:20 GMT"
 creator: "Elizabeth Becvar"
 ---

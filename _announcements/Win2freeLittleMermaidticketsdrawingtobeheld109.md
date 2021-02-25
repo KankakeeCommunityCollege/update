@@ -2,6 +2,7 @@
 title: "Win 2 free &quot;Little Mermaid&quot; tickets - drawing to be held 10/9"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=838"
 sort_date: 1349277591000
+year: 2012
 pubDate: "03 Oct 2012 15:19:51 GMT"
 creator: "Ellen Schmidt"
 ---

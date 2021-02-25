@@ -2,6 +2,7 @@
 title: "Spider Princess will be on display at GSU"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=630"
 sort_date: 1331153701000
+year: 2012
 pubDate: "07 Mar 2012 20:55:01 GMT"
 creator: "Ellen Schmidt"
 ---

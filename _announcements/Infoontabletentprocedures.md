@@ -2,6 +2,7 @@
 title: "Info on table tent procedures "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=196"
 sort_date: 1301924625000
+year: 2011
 pubDate: "04 Apr 2011 13:43:45 GMT"
 creator: "Elizabeth Becvar"
 ---

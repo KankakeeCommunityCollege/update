@@ -2,6 +2,7 @@
 title: "Food Service Inc. now runs the Hammes Café, too"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=64"
 sort_date: 1294427951000
+year: 2011
 pubDate: "07 Jan 2011 19:19:11 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Recognition event nears -- please return RSVPs by Sept. 30"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=435"
 sort_date: 1315591376000
+year: 2011
 pubDate: "09 Sep 2011 18:02:56 GMT"
 creator: "Elizabeth Becvar"
 ---

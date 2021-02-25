@@ -2,6 +2,7 @@
 title: "Employee giving campaigns are underway!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1631"
 sort_date: 1410983310000
+year: 2014
 pubDate: "17 Sep 2014 19:48:30 GMT"
 creator: "Ellen Schmidt"
 ---

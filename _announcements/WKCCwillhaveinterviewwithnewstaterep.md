@@ -2,6 +2,7 @@
 title: "WKCC will have interview with new state rep"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=973"
 sort_date: 1359391698000
+year: 2013
 pubDate: "28 Jan 2013 16:48:18 GMT"
 creator: "Ellen Schmidt"
 ---

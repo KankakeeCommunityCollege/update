@@ -2,6 +2,7 @@
 title: "Energy conservation ideas"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=153"
 sort_date: 1299517447000
+year: 2011
 pubDate: "07 Mar 2011 17:04:07 GMT"
 creator: "Elizabeth Becvar"
 ---

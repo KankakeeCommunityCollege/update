@@ -2,6 +2,7 @@
 title: "EnterpriseU Competition in full swing"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1837"
 sort_date: 1424708054000
+year: 2015
 pubDate: "23 Feb 2015 16:14:14 GMT"
 creator: "Kari Nugent"
 ---

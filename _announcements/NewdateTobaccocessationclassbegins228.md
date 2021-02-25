@@ -2,6 +2,7 @@
 title: "New date&colon; Tobacco cessation class begins 2/28 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=134"
 sort_date: 1298065827000
+year: 2011
 pubDate: "18 Feb 2011 21:50:27 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Arena's new catering menu is posted"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2365"
 sort_date: 1484318253000
+year: 2017
 pubDate: "13 Jan 2017 14:37:33 GMT"
 creator: "Ellen Schmidt"
 ---

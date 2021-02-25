@@ -2,6 +2,7 @@
 title: "Tobacco cessation course -- new dates and times"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=113"
 sort_date: 1297453028000
+year: 2011
 pubDate: "11 Feb 2011 19:37:08 GMT"
 creator: "Ellen Schmidt"
 ---

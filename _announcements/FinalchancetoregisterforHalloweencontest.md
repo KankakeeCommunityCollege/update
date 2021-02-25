@@ -2,6 +2,7 @@
 title: "Final chance to register for Halloween contest"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2056"
 sort_date: 1445446184000
+year: 2015
 pubDate: "21 Oct 2015 16:49:44 GMT"
 creator: "Ellen Schmidt"
 ---

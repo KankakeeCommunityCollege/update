@@ -2,6 +2,7 @@
 title: "Information from the human resources and business offices"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=539"
 sort_date: 1322780293000
+year: 2011
 pubDate: "01 Dec 2011 22:58:13 GMT"
 creator: "Ellen Schmidt"
 ---

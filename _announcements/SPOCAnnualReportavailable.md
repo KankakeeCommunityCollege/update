@@ -2,6 +2,7 @@
 title: "SPOC Annual Report available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=419"
 sort_date: 1314625103000
+year: 2011
 pubDate: "29 Aug 2011 13:38:23 GMT"
 creator: "Elizabeth Becvar"
 ---

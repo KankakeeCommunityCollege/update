@@ -2,6 +2,7 @@
 title: "Course contest finalists are celebrated"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1102"
 sort_date: 1367589062000
+year: 2013
 pubDate: "03 May 2013 13:51:02 GMT"
 creator: "Ellen Schmidt"
 ---

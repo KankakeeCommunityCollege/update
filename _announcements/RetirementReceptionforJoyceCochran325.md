@@ -2,6 +2,7 @@
 title: "Retirement Reception for Joyce Cochran&colon; 3/25"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1408"
 sort_date: 1391698120000
+year: 2014
 pubDate: "06 Feb 2014 14:48:40 GMT"
 creator: "Elizabeth Becvar"
 ---

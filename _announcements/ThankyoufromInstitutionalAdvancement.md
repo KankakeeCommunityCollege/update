@@ -2,6 +2,7 @@
 title: "Thank you from Institutional Advancement"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1717"
 sort_date: 1415376366000
+year: 2014
 pubDate: "07 Nov 2014 16:06:06 GMT"
 creator: "Ellen Schmidt"
 ---

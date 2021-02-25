@@ -2,6 +2,7 @@
 title: "Behavioral intervention and threat assessment information"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=137"
 sort_date: 1298484790000
+year: 2011
 pubDate: "23 Feb 2011 18:13:10 GMT"
 creator: "Ellen Schmidt"
 ---

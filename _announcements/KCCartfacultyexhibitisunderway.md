@@ -2,6 +2,7 @@
 title: "KCC art faculty exhibit is underway"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1689"
 sort_date: 1414082486000
+year: 2014
 pubDate: "23 Oct 2014 16:41:26 GMT"
 creator: "Ellen Schmidt"
 ---

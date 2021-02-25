@@ -2,6 +2,7 @@
 title: "KCC North Extension Center earns LEED gold"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1585"
 sort_date: 1407509801000
+year: 2014
 pubDate: "08 Aug 2014 14:56:41 GMT"
 creator: "Ellen Schmidt"
 ---

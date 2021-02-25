@@ -2,6 +2,7 @@
 title: "SUAA picks a KCC prize winner"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=861"
 sort_date: 1350999627000
+year: 2012
 pubDate: "23 Oct 2012 13:40:27 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Congratulations on birth of baby"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2472"
 sort_date: 1501092161000
+year: 2017
 pubDate: "26 Jul 2017 18:02:41 GMT"
 creator: "Ellen Schmidt"
 ---

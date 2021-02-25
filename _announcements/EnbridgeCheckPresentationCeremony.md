@@ -2,6 +2,7 @@
 title: "Enbridge Check Presentation Ceremony"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2108"
 sort_date: 1449513326000
+year: 2015
 pubDate: "07 Dec 2015 18:35:26 GMT"
 creator: "Ellen Schmidt"
 ---

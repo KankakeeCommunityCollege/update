@@ -2,6 +2,7 @@
 title: "KCC student artwork on display until 5/3"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=666"
 sort_date: 1334343189000
+year: 2012
 pubDate: "13 Apr 2012 18:53:09 GMT"
 creator: "Ellen Schmidt"
 ---

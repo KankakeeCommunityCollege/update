@@ -2,6 +2,7 @@
 title: "Bookstore summer hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=729"
 sort_date: 1339098791000
+year: 2012
 pubDate: "07 Jun 2012 19:53:11 GMT"
 creator: "Ellen Schmidt"
 ---

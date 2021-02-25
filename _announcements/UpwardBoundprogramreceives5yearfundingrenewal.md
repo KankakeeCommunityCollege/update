@@ -2,6 +2,7 @@
 title: "Upward Bound program receives 5-year funding renewal"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=726"
 sort_date: 1338404538000
+year: 2012
 pubDate: "30 May 2012 19:02:18 GMT"
 creator: "Ellen Schmidt"
 ---

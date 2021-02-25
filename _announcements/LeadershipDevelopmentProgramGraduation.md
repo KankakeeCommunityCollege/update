@@ -2,6 +2,7 @@
 title: "Leadership Development Program Graduation"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=720"
 sort_date: 1337811681000
+year: 2012
 pubDate: "23 May 2012 22:21:21 GMT"
 creator: "Elizabeth Becvar"
 ---

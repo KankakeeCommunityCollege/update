@@ -2,6 +2,7 @@
 title: "Denim week opportunity -- wear jeans, help United Way, maybe win a big prize"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=136"
 sort_date: 1298407737000
+year: 2011
 pubDate: "22 Feb 2011 20:48:57 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Plan now for SURS Retiree Health Insurance Informational Meeting"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1302"
 sort_date: 1382723495000
+year: 2013
 pubDate: "25 Oct 2013 17:51:35 GMT"
 creator: "Ellen Schmidt"
 ---

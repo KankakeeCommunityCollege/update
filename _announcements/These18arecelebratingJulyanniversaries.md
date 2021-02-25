@@ -2,6 +2,7 @@
 title: "These 18 are celebrating July anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2240"
 sort_date: 1467222797000
+year: 2016
 pubDate: "29 Jun 2016 17:53:17 GMT"
 creator: "Ellen Schmidt"
 ---

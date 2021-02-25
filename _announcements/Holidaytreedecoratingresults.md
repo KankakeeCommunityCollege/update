@@ -2,6 +2,7 @@
 title: "Holiday tree decorating results "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=930"
 sort_date: 1354891685000
+year: 2012
 pubDate: "07 Dec 2012 14:48:05 GMT"
 creator: "Elizabeth Becvar"
 ---

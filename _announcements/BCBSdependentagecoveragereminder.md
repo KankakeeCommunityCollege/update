@@ -2,6 +2,7 @@
 title: "BCBS dependent age coverage reminder"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=561"
 sort_date: 1323808525000
+year: 2011
 pubDate: "13 Dec 2011 20:35:25 GMT"
 creator: "Ellen Schmidt"
 ---

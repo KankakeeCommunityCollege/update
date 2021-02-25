@@ -2,6 +2,7 @@
 title: "Student Nurses' Association sponsors drive to benefit Harbor House"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=431"
 sort_date: 1315325910000
+year: 2011
 pubDate: "06 Sep 2011 16:18:30 GMT"
 creator: "Nancy Schunke"
 ---

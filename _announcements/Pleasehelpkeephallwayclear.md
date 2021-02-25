@@ -2,6 +2,7 @@
 title: "Please help keep hallway clear"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1495"
 sort_date: 1398701369000
+year: 2014
 pubDate: "28 Apr 2014 16:09:29 GMT"
 creator: "Ellen Schmidt"
 ---

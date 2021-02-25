@@ -2,6 +2,7 @@
 title: "CNA program is now eligible for financial aid "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=741"
 sort_date: 1340121669000
+year: 2012
 pubDate: "19 Jun 2012 16:01:09 GMT"
 creator: "Ellen Schmidt"
 ---

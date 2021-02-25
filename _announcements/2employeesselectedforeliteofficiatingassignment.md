@@ -2,6 +2,7 @@
 title: "2 employees selected for elite officiating assignment"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2322"
 sort_date: 1477934973000
+year: 2016
 pubDate: "31 Oct 2016 17:29:33 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Bowling for Bonnie fundraiser&colon; 11/4"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2526"
 sort_date: 1507144048000
+year: 2017
 pubDate: "04 Oct 2017 19:07:28 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Summer reading series starts June 2"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1936"
 sort_date: 1432153937000
+year: 2015
 pubDate: "20 May 2015 20:32:17 GMT"
 creator: "Ellen Schmidt"
 ---

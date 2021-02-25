@@ -2,6 +2,7 @@
 title: "LRC offers 30-volume encyclopedia from 2004 -- FREE"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=70"
 sort_date: 1294859374000
+year: 2011
 pubDate: "12 Jan 2011 19:09:34 GMT"
 creator: "Ellen Schmidt"
 ---

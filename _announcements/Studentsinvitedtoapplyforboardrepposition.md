@@ -2,6 +2,7 @@
 title: "Students invited to apply for board rep position "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=98"
 sort_date: 1296486271000
+year: 2011
 pubDate: "31 Jan 2011 15:04:31 GMT"
 creator: "Elizabeth Becvar"
 ---

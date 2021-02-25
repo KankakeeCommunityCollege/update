@@ -2,6 +2,7 @@
 title: "Experience the #PowerOfHello "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1805"
 sort_date: 1422455295000
+year: 2015
 pubDate: "28 Jan 2015 14:28:15 GMT"
 creator: "Elizabeth Becvar"
 ---

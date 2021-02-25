@@ -2,6 +2,7 @@
 title: "Transition begins from campus security to police department "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=826"
 sort_date: 1347986951000
+year: 2012
 pubDate: "18 Sep 2012 16:49:11 GMT"
 creator: "Ellen Schmidt"
 ---

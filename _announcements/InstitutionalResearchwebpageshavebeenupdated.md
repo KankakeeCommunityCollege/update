@@ -2,6 +2,7 @@
 title: "Institutional Research webpages have been updated"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=631"
 sort_date: 1331154258000
+year: 2012
 pubDate: "07 Mar 2012 21:04:18 GMT"
 creator: "Ellen Schmidt"
 ---

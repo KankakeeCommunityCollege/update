@@ -2,6 +2,7 @@
 title: "Program offers registration of student vehicles"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=504"
 sort_date: 1320153339000
+year: 2011
 pubDate: "01 Nov 2011 13:15:39 GMT"
 creator: "Ellen Schmidt"
 ---

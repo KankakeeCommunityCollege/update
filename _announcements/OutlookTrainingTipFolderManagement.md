@@ -2,6 +2,7 @@
 title: "Outlook Training Tip&colon; Folder management  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=232"
 sort_date: 1303155459000
+year: 2011
 pubDate: "18 Apr 2011 19:37:39 GMT"
 creator: "Elizabeth Becvar"
 ---

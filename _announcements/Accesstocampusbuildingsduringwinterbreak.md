@@ -2,6 +2,7 @@
 title: "Access to campus buildings during winter break"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=931"
 sort_date: 1355257657000
+year: 2012
 pubDate: "11 Dec 2012 20:27:37 GMT"
 creator: "Ellen Schmidt"
 ---

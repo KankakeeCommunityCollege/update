@@ -2,6 +2,7 @@
 title: "Steps to return decorations to storage"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2353"
 sort_date: 1482338451000
+year: 2016
 pubDate: "21 Dec 2016 16:40:51 GMT"
 creator: "Ellen Schmidt"
 ---

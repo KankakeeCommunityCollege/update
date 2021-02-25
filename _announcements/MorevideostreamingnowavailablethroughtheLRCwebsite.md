@@ -2,6 +2,7 @@
 title: "More video streaming now available through the LRC website"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1233"
 sort_date: 1378739795000
+year: 2013
 pubDate: "09 Sep 2013 15:16:35 GMT"
 creator: "Ellen Schmidt"
 ---

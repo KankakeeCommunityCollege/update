@@ -2,6 +2,7 @@
 title: "Holiday decorations available for pick-up&colon; 11/18-11/26 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1322"
 sort_date: 1384287020000
+year: 2013
 pubDate: "12 Nov 2013 20:10:20 GMT"
 creator: "Ellen Schmidt"
 ---

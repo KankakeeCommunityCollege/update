@@ -2,6 +2,7 @@
 title: "2013 Student Sustainability Summit"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1021"
 sort_date: 1363272516000
+year: 2013
 pubDate: "14 Mar 2013 14:48:36 GMT"
 creator: "Ellen Schmidt"
 ---

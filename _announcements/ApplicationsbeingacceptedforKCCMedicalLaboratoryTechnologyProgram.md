@@ -2,6 +2,7 @@
 title: "Applications being accepted for KCC Medical Laboratory Technology Program"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=626"
 sort_date: 1330707145000
+year: 2012
 pubDate: "02 Mar 2012 16:52:25 GMT"
 creator: "Ellen Schmidt"
 ---

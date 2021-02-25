@@ -2,6 +2,7 @@
 title: "Cardboard recycling information"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1563"
 sort_date: 1405514792000
+year: 2014
 pubDate: "16 Jul 2014 12:46:32 GMT"
 creator: "Ellen Schmidt"
 ---

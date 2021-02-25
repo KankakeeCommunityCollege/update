@@ -2,6 +2,7 @@
 title: "Recycling plastic at KCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1749"
 sort_date: 1417017821000
+year: 2014
 pubDate: "26 Nov 2014 16:03:41 GMT"
 creator: "Ellen Schmidt"
 ---

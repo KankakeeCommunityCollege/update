@@ -2,6 +2,7 @@
 title: "New Courtyard Look"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=402"
 sort_date: 1313180275000
+year: 2011
 pubDate: "12 Aug 2011 20:17:55 GMT"
 creator: "Elizabeth Becvar"
 ---

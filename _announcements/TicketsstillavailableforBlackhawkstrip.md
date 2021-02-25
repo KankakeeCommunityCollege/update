@@ -2,6 +2,7 @@
 title: "Tickets still available for Blackhawks trip"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1629"
 sort_date: 1410901728000
+year: 2014
 pubDate: "16 Sep 2014 21:08:48 GMT"
 creator: "Ellen Schmidt"
 ---

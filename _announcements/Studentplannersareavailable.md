@@ -2,6 +2,7 @@
 title: "Student planners are available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=779"
 sort_date: 1344979120000
+year: 2012
 pubDate: "14 Aug 2012 21:18:40 GMT"
 creator: "Elizabeth Becvar"
 ---

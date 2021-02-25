@@ -2,6 +2,7 @@
 title: "Outlook Training Tip&colon; Calendar sharing"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=179"
 sort_date: 1300730956000
+year: 2011
 pubDate: "21 Mar 2011 18:09:16 GMT"
 creator: "Elizabeth Becvar"
 ---

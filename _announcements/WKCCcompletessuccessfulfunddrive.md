@@ -2,6 +2,7 @@
 title: "WKCC completes successful fund drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1773"
 sort_date: 1418421513000
+year: 2014
 pubDate: "12 Dec 2014 21:58:33 GMT"
 creator: "Ellen Schmidt"
 ---

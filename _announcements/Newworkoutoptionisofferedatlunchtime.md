@@ -2,6 +2,7 @@
 title: "New workout option is offered at lunchtime"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1172"
 sort_date: 1374588259000
+year: 2013
 pubDate: "23 Jul 2013 14:04:19 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "KCC expands social media options&colon; Facebook, YouTube, Blogs, Twitter"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=192"
 sort_date: 1301422133000
+year: 2011
 pubDate: "29 Mar 2011 18:08:53 GMT"
 creator: "Kari Nugent"
 ---

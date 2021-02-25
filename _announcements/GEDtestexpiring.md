@@ -2,6 +2,7 @@
 title: "GED test expiring"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=903"
 sort_date: 1352929800000
+year: 2012
 pubDate: "14 Nov 2012 21:50:00 GMT"
 creator: "Elizabeth Becvar"
 ---

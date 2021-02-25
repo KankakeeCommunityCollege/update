@@ -2,6 +2,7 @@
 title: "Food service summer hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=316"
 sort_date: 1306181133000
+year: 2011
 pubDate: "23 May 2011 20:05:33 GMT"
 creator: "Ellen Schmidt"
 ---

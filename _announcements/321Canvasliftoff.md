@@ -2,6 +2,7 @@
 title: "3...  2... 1...  Canvas lift off!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1502"
 sort_date: 1399045764000
+year: 2014
 pubDate: "02 May 2014 15:49:24 GMT"
 creator: "Ellen Schmidt"
 ---

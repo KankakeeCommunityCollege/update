@@ -2,6 +2,7 @@
 title: "Thanks-a-gram&colon; Law week"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2219"
 sort_date: 1463668385000
+year: 2016
 pubDate: "19 May 2016 14:33:05 GMT"
 creator: "Ellen Schmidt"
 ---

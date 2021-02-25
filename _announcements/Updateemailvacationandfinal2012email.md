@@ -2,6 +2,7 @@
 title: "Update email vacation and final 2012 email"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=912"
 sort_date: 1353014442000
+year: 2012
 pubDate: "15 Nov 2012 21:20:42 GMT"
 creator: "Ellen Schmidt"
 ---

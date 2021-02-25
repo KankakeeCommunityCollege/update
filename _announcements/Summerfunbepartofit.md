@@ -2,6 +2,7 @@
 title: "Summer fun -- be part of it!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2438"
 sort_date: 1494620852000
+year: 2017
 pubDate: "12 May 2017 20:27:32 GMT"
 creator: "Ellen Schmidt"
 ---

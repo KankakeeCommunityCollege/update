@@ -2,6 +2,7 @@
 title: "Spring 2011 tutor schedules and workshops now available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=63"
 sort_date: 1294423665000
+year: 2011
 pubDate: "07 Jan 2011 18:07:45 GMT"
 creator: "Ellen Schmidt"
 ---

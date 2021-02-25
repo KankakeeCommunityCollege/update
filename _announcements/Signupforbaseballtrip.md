@@ -2,6 +2,7 @@
 title: "Sign up for baseball trip "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=115"
 sort_date: 1297723449000
+year: 2011
 pubDate: "14 Feb 2011 22:44:09 GMT"
 creator: "Ellen Schmidt"
 ---

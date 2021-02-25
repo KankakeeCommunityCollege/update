@@ -2,6 +2,7 @@
 title: "Learn about Windows 7 rollout at focus group sessions"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1053"
 sort_date: 1365093262000
+year: 2013
 pubDate: "04 Apr 2013 16:34:22 GMT"
 creator: "Ellen Schmidt"
 ---

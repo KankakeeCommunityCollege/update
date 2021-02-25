@@ -2,6 +2,7 @@
 title: "Orr gets appointed to the KCC board"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1416"
 sort_date: 1392226453000
+year: 2014
 pubDate: "12 Feb 2014 17:34:13 GMT"
 creator: "Ellen Schmidt"
 ---

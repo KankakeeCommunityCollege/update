@@ -2,6 +2,7 @@
 title: "WKCC program changes add tech ad"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=339"
 sort_date: 1307376683000
+year: 2011
 pubDate: "06 Jun 2011 16:11:23 GMT"
 creator: "Ellen Schmidt"
 ---

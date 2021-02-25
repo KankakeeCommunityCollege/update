@@ -2,6 +2,7 @@
 title: "​Numerous fitness classes are being offered for Spring 2015 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1777"
 sort_date: 1418763201000
+year: 2014
 pubDate: "16 Dec 2014 20:53:21 GMT"
 creator: "Ellen Schmidt"
 ---

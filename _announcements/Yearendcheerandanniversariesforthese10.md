@@ -2,6 +2,7 @@
 title: "Year-end cheer and anniversaries for these 10"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2340"
 sort_date: 1480348432000
+year: 2016
 pubDate: "28 Nov 2016 15:53:52 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "GirlSTEM at KCC offers fun and learning in June"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1856"
 sort_date: 1426274114000
+year: 2015
 pubDate: "13 Mar 2015 19:15:14 GMT"
 creator: "Elizabeth Becvar"
 ---

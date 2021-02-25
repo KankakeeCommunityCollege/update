@@ -2,6 +2,7 @@
 title: "Mini-grant application deadline is 10/31"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1668"
 sort_date: 1412951626000
+year: 2014
 pubDate: "10 Oct 2014 14:33:46 GMT"
 creator: "Ellen Schmidt"
 ---

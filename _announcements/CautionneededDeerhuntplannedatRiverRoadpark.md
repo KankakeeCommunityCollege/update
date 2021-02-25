@@ -2,6 +2,7 @@
 title: "Caution needed&colon; Deer hunt planned at River Road park"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1390"
 sort_date: 1389382818000
+year: 2014
 pubDate: "10 Jan 2014 19:40:18 GMT"
 creator: "Ellen Schmidt"
 ---

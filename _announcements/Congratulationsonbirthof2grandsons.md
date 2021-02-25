@@ -2,6 +2,7 @@
 title: "Congratulations on birth of 2 grandsons"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=618"
 sort_date: 1330441352000
+year: 2012
 pubDate: "28 Feb 2012 15:02:32 GMT"
 creator: "Ellen Schmidt"
 ---

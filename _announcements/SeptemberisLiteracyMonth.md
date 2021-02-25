@@ -2,6 +2,7 @@
 title: "September is Literacy Month"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=421"
 sort_date: 1314719163000
+year: 2011
 pubDate: "30 Aug 2011 15:46:03 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Volunteer opportunities available for Cavs Classic golf outing"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1960"
 sort_date: 1435253327000
+year: 2015
 pubDate: "25 Jun 2015 17:28:47 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "​Red Flag campaign"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1620"
 sort_date: 1410358105000
+year: 2014
 pubDate: "10 Sep 2014 14:08:25 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Free tickets are available -- Singing for Stars"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1708"
 sort_date: 1415114521000
+year: 2014
 pubDate: "04 Nov 2014 15:22:01 GMT"
 creator: "Ellen Schmidt"
 ---

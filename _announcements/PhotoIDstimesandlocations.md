@@ -2,6 +2,7 @@
 title: "Photo IDs times and locations "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=66"
 sort_date: 1294668947000
+year: 2011
 pubDate: "10 Jan 2011 14:15:47 GMT"
 creator: "Ellen Schmidt"
 ---

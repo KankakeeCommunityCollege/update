@@ -2,6 +2,7 @@
 title: "Weight Watchers At-Work"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1204"
 sort_date: 1377102127000
+year: 2013
 pubDate: "21 Aug 2013 16:22:07 GMT"
 creator: "Kari Nugent"
 ---

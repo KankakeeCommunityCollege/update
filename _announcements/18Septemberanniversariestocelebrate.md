@@ -2,6 +2,7 @@
 title: "18 September anniversaries to celebrate"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2501"
 sort_date: 1504283469000
+year: 2017
 pubDate: "01 Sep 2017 16:31:09 GMT"
 creator: "Ellen Schmidt"
 ---

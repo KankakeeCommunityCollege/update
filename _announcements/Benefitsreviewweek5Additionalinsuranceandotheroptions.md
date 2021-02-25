@@ -2,6 +2,7 @@
 title: "Benefits review week 5&colon; Additional insurance and other options"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2320"
 sort_date: 1477670645000
+year: 2016
 pubDate: "28 Oct 2016 16:04:05 GMT"
 creator: "Ellen Schmidt"
 ---

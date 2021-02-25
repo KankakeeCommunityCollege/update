@@ -2,6 +2,7 @@
 title: "Thanks for help at beginning of semester"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=584"
 sort_date: 1326986700000
+year: 2012
 pubDate: "19 Jan 2012 15:25:00 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Commencement thanks"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1112"
 sort_date: 1368134178000
+year: 2013
 pubDate: "09 May 2013 21:16:18 GMT"
 creator: "Ellen Schmidt"
 ---

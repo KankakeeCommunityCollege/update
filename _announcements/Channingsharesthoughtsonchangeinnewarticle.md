@@ -2,6 +2,7 @@
 title: "Channing shares thoughts on change in new article "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2204"
 sort_date: 1460730414000
+year: 2016
 pubDate: "15 Apr 2016 14:26:54 GMT"
 creator: "Ellen Schmidt"
 ---

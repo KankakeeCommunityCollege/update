@@ -2,6 +2,7 @@
 title: "Thank you from M. Boyd, candidate for vice president"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1457"
 sort_date: 1396039487000
+year: 2014
 pubDate: "28 Mar 2014 20:44:47 GMT"
 creator: "Ellen Schmidt"
 ---

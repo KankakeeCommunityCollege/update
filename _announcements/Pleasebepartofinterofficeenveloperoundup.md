@@ -2,6 +2,7 @@
 title: "Please be part of interoffice envelope roundup"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1274"
 sort_date: 1381169888000
+year: 2013
 pubDate: "07 Oct 2013 18:18:08 GMT"
 creator: "Ellen Schmidt"
 ---

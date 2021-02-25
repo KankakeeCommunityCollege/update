@@ -2,6 +2,7 @@
 title: "HLC & Coffee – Action Projects"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2135"
 sort_date: 1452637742000
+year: 2016
 pubDate: "12 Jan 2016 22:29:02 GMT"
 creator: "Elizabeth Becvar"
 ---

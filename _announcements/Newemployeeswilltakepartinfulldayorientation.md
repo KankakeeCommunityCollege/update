@@ -2,6 +2,7 @@
 title: "New employees will take part in full-day orientation"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=960"
 sort_date: 1358365770000
+year: 2013
 pubDate: "16 Jan 2013 19:49:30 GMT"
 creator: "Ellen Schmidt"
 ---

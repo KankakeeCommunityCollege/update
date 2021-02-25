@@ -2,6 +2,7 @@
 title: "From Joyce Cochran&colon; 'Thanks for the memories'"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1453"
 sort_date: 1395955710000
+year: 2014
 pubDate: "27 Mar 2014 21:28:30 GMT"
 creator: "Ellen Schmidt"
 ---

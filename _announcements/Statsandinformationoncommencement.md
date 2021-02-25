@@ -2,6 +2,7 @@
 title: "Stats and information on commencement "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=702"
 sort_date: 1336143695000
+year: 2012
 pubDate: "04 May 2012 15:01:35 GMT"
 creator: "Ellen Schmidt"
 ---

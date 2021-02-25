@@ -2,6 +2,7 @@
 title: "Youth symphony tickets available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1325"
 sort_date: 1384528976000
+year: 2013
 pubDate: "15 Nov 2013 15:22:56 GMT"
 creator: "Ellen Schmidt"
 ---

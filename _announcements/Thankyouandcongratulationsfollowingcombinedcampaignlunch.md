@@ -2,6 +2,7 @@
 title: "Thank you -- and congratulations -- following combined campaign lunch"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1701"
 sort_date: 1414789967000
+year: 2014
 pubDate: "31 Oct 2014 21:12:47 GMT"
 creator: "Ellen Schmidt"
 ---

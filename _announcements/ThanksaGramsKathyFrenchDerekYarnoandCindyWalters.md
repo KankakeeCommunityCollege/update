@@ -2,6 +2,7 @@
 title: "Thanks-a-Grams&colon; Kathy French, Derek Yarno and Cindy Walters"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=961"
 sort_date: 1358367284000
+year: 2013
 pubDate: "16 Jan 2013 20:14:44 GMT"
 creator: "Elizabeth Becvar"
 ---

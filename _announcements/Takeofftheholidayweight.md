@@ -2,6 +2,7 @@
 title: "Take off the holiday weight"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1394"
 sort_date: 1389625162000
+year: 2014
 pubDate: "13 Jan 2014 14:59:22 GMT"
 creator: "Kari Nugent"
 ---

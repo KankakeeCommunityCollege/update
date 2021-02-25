@@ -2,6 +2,7 @@
 title: "Be sustainable – Be part of the Office Materials Exchange&colon; 4/21"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=158"
 sort_date: 1299781937000
+year: 2011
 pubDate: "10 Mar 2011 18:32:17 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: " HLC & coffee"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2071"
 sort_date: 1446757990000
+year: 2015
 pubDate: "05 Nov 2015 21:13:10 GMT"
 creator: "Elizabeth Becvar"
 ---

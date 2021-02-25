@@ -2,6 +2,7 @@
 title: "​Parking lot repairs scheduled"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2464"
 sort_date: 1498161283000
+year: 2017
 pubDate: "22 Jun 2017 19:54:43 GMT"
 creator: "Elizabeth Becvar"
 ---

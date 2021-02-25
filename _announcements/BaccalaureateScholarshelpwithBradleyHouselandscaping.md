@@ -2,6 +2,7 @@
 title: "Baccalaureate Scholars help with Bradley House landscaping"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1304"
 sort_date: 1382972926000
+year: 2013
 pubDate: "28 Oct 2013 15:08:46 GMT"
 creator: "Ellen Schmidt"
 ---

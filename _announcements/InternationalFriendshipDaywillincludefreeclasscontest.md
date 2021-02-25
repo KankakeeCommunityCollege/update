@@ -2,6 +2,7 @@
 title: "International Friendship Day will include free class contest"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=551"
 sort_date: 1323444443000
+year: 2011
 pubDate: "09 Dec 2011 15:27:23 GMT"
 creator: "Ellen Schmidt"
 ---

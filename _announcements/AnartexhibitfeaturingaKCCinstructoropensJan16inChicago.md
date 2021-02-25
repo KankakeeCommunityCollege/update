@@ -2,6 +2,7 @@
 title: "An art exhibit featuring a KCC instructor opens Jan. 16 in Chicago"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1391"
 sort_date: 1389384733000
+year: 2014
 pubDate: "10 Jan 2014 20:12:13 GMT"
 creator: "Ellen Schmidt"
 ---

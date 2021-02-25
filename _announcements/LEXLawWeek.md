@@ -2,6 +2,7 @@
 title: "LEX Law Week"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1052"
 sort_date: 1365087006000
+year: 2013
 pubDate: "04 Apr 2013 14:50:06 GMT"
 creator: "Elizabeth Becvar"
 ---

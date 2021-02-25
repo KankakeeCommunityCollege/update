@@ -2,6 +2,7 @@
 title: "Child Development Center Halloween parade route"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1292"
 sort_date: 1382378641000
+year: 2013
 pubDate: "21 Oct 2013 18:04:01 GMT"
 creator: "Ellen Schmidt"
 ---

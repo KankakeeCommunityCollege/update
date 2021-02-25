@@ -2,6 +2,7 @@
 title: "Horticulture Club offers Wednesday markets "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=264"
 sort_date: 1304343311000
+year: 2011
 pubDate: "02 May 2011 13:35:11 GMT"
 creator: "Elizabeth Becvar"
 ---

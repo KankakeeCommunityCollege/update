@@ -2,6 +2,7 @@
 title: "Congratulations on scholarship"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1858"
 sort_date: 1426524227000
+year: 2015
 pubDate: "16 Mar 2015 16:43:47 GMT"
 creator: "Ellen Schmidt"
 ---

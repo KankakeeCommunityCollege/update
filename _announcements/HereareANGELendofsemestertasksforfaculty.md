@@ -2,6 +2,7 @@
 title: "Here are ANGEL end-of-semester tasks for faculty"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=528"
 sort_date: 1322513219000
+year: 2011
 pubDate: "28 Nov 2011 20:46:59 GMT"
 creator: "Ellen Schmidt"
 ---

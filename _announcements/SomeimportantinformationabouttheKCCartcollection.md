@@ -2,6 +2,7 @@
 title: "Some important information about the KCC art collection."
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1947"
 sort_date: 1433451005000
+year: 2015
 pubDate: "04 Jun 2015 20:50:05 GMT"
 creator: "Ellen Schmidt"
 ---

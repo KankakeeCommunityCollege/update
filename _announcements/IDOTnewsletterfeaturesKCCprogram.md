@@ -2,6 +2,7 @@
 title: "IDOT newsletter features KCC program"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=832"
 sort_date: 1348667657000
+year: 2012
 pubDate: "26 Sep 2012 13:54:17 GMT"
 creator: "Ellen Schmidt"
 ---

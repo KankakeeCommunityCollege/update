@@ -2,6 +2,7 @@
 title: "Information on night administrative duty for Fall 2015"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2001"
 sort_date: 1439560737000
+year: 2015
 pubDate: "14 Aug 2015 13:58:57 GMT"
 creator: "Ellen Schmidt"
 ---

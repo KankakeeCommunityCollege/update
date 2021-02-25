@@ -2,6 +2,7 @@
 title: "Food service information for 8/1 - 8/22"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1580"
 sort_date: 1406841593000
+year: 2014
 pubDate: "31 Jul 2014 21:19:53 GMT"
 creator: "Ellen Schmidt"
 ---

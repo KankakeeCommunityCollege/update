@@ -2,6 +2,7 @@
 title: "Phi Theta Kappa celebrates 'every body' 2/23 - 2/27"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1816"
 sort_date: 1423765410000
+year: 2015
 pubDate: "12 Feb 2015 18:23:30 GMT"
 creator: "Ellen Schmidt"
 ---

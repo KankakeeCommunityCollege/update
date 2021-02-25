@@ -2,6 +2,7 @@
 title: "Child Care Services are offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=803"
 sort_date: 1346443066000
+year: 2012
 pubDate: "31 Aug 2012 19:57:46 GMT"
 creator: "Ellen Schmidt"
 ---

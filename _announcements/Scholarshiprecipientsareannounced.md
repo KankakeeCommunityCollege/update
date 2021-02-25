@@ -2,6 +2,7 @@
 title: "Scholarship recipients are announced"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1926"
 sort_date: 1431534879000
+year: 2015
 pubDate: "13 May 2015 16:34:39 GMT"
 creator: "Ellen Schmidt"
 ---

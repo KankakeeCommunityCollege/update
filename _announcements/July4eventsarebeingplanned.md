@@ -2,6 +2,7 @@
 title: "July 4 events are being planned "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=327"
 sort_date: 1306446315000
+year: 2011
 pubDate: "26 May 2011 21:45:15 GMT"
 creator: "Elizabeth Becvar"
 ---

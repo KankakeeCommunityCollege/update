@@ -2,6 +2,7 @@
 title: "Fitness Center offers extra workout time for employees"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=384"
 sort_date: 1311087170000
+year: 2011
 pubDate: "19 Jul 2011 14:52:50 GMT"
 creator: "Ellen Schmidt"
 ---

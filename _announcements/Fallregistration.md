@@ -2,6 +2,7 @@
 title: "Fall registration"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1557"
 sort_date: 1404406514000
+year: 2014
 pubDate: "03 Jul 2014 16:55:14 GMT"
 creator: "Elizabeth Becvar"
 ---

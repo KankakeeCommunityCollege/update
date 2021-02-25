@@ -2,6 +2,7 @@
 title: "Thank you from WKCC membership drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=44"
 sort_date: 1292279553000
+year: 2010
 pubDate: "13 Dec 2010 22:32:33 GMT"
 creator: "Ellen Schmidt"
 ---

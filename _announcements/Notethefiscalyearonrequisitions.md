@@ -2,6 +2,7 @@
 title: " Note the fiscal year on requisitions"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=334"
 sort_date: 1307127044000
+year: 2011
 pubDate: "03 Jun 2011 18:50:44 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

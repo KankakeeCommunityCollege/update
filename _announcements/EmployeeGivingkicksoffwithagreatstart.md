@@ -2,6 +2,7 @@
 title: "Employee Giving kicks off with a great start!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1246"
 sort_date: 1379104169000
+year: 2013
 pubDate: "13 Sep 2013 20:29:29 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Honors list for Spring 2015"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1949"
 sort_date: 1433771266000
+year: 2015
 pubDate: "08 Jun 2015 13:47:46 GMT"
 creator: "Elizabeth Becvar"
 ---

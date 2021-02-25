@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Rick Elliott and Mike O'Connor"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1176"
 sort_date: 1374703112000
+year: 2013
 pubDate: "24 Jul 2013 21:58:32 GMT"
 creator: "Elizabeth Becvar"
 ---

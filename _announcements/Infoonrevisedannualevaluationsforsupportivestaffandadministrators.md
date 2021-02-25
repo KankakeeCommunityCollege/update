@@ -2,6 +2,7 @@
 title: "Info on revised annual evaluations for supportive staff and administrators "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=159"
 sort_date: 1299873489000
+year: 2011
 pubDate: "11 Mar 2011 19:58:09 GMT"
 creator: "Elizabeth Becvar"
 ---

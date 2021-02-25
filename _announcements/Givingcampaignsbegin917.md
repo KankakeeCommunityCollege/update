@@ -2,6 +2,7 @@
 title: "Giving campaigns begin 9/17"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1623"
 sort_date: 1410455700000
+year: 2014
 pubDate: "11 Sep 2014 17:15:00 GMT"
 creator: "Ellen Schmidt"
 ---

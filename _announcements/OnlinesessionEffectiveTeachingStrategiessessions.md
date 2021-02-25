@@ -2,6 +2,7 @@
 title: "Online session&colon; ​Effective Teaching Strategies sessions"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2133"
 sort_date: 1452637487000
+year: 2016
 pubDate: "12 Jan 2016 22:24:47 GMT"
 creator: "Ellen Schmidt"
 ---

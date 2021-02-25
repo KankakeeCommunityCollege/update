@@ -2,6 +2,7 @@
 title: "Become a scholarship reader and help award scholarships"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2140"
 sort_date: 1452793193000
+year: 2016
 pubDate: "14 Jan 2016 17:39:53 GMT"
 creator: "Ellen Schmidt"
 ---

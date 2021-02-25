@@ -2,6 +2,7 @@
 title: "Fall hours at South Extension Center"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1201"
 sort_date: 1377019324000
+year: 2013
 pubDate: "20 Aug 2013 17:22:04 GMT"
 creator: "Ellen Schmidt"
 ---

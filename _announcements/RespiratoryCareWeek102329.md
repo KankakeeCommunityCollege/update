@@ -2,6 +2,7 @@
 title: "Respiratory Care Week&colon; 10/23-29"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=489"
 sort_date: 1319130404000
+year: 2011
 pubDate: "20 Oct 2011 17:06:44 GMT"
 creator: "Ellen Schmidt"
 ---

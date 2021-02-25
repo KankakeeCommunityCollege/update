@@ -2,6 +2,7 @@
 title: "Trivia Night events raised $3,685"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=212"
 sort_date: 1302195241000
+year: 2011
 pubDate: "07 Apr 2011 16:54:01 GMT"
 creator: "Elizabeth Becvar"
 ---

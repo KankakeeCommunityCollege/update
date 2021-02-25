@@ -2,6 +2,7 @@
 title: "Brother 2 Brother holds food drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=854"
 sort_date: 1350396476000
+year: 2012
 pubDate: "16 Oct 2012 14:07:56 GMT"
 creator: "Ellen Schmidt"
 ---

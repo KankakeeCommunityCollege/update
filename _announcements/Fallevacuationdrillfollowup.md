@@ -2,6 +2,7 @@
 title: "Fall evacuation drill follow-up"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2291"
 sort_date: 1474654854000
+year: 2016
 pubDate: "23 Sep 2016 18:20:54 GMT"
 creator: "Ellen Schmidt"
 ---

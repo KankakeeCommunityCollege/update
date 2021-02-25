@@ -2,6 +2,7 @@
 title: "WKCC membership drive is underway "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=318"
 sort_date: 1306351107000
+year: 2011
 pubDate: "25 May 2011 19:18:27 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

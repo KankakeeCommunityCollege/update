@@ -2,6 +2,7 @@
 title: "October anniversaries are listed ... here"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2033"
 sort_date: 1442927673000
+year: 2015
 pubDate: "22 Sep 2015 13:14:33 GMT"
 creator: "Ellen Schmidt"
 ---

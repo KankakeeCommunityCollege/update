@@ -2,6 +2,7 @@
 title: "Information on new marker stakes on campus"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=910"
 sort_date: 1353011090000
+year: 2012
 pubDate: "15 Nov 2012 20:24:50 GMT"
 creator: "Ellen Schmidt"
 ---

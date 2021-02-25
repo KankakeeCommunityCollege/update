@@ -2,6 +2,7 @@
 title: "Winners of ΦΘΚ C4 challenge raffle are announced"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1745"
 sort_date: 1416925523000
+year: 2014
 pubDate: "25 Nov 2014 14:25:23 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "WKCC heat reports air on NPR"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=385"
 sort_date: 1311197244000
+year: 2011
 pubDate: "20 Jul 2011 21:27:24 GMT"
 creator: "Ellen Schmidt"
 ---

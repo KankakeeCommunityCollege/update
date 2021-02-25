@@ -2,6 +2,7 @@
 title: "New data is on the Institutional Research webpage"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=505"
 sort_date: 1320157908000
+year: 2011
 pubDate: "01 Nov 2011 14:31:48 GMT"
 creator: "Ellen Schmidt"
 ---

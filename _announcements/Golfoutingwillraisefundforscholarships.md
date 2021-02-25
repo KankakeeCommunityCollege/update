@@ -2,6 +2,7 @@
 title: "Golf outing will raise fund for scholarships"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=371"
 sort_date: 1310070625000
+year: 2011
 pubDate: "07 Jul 2011 20:30:25 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Bookstore is piloting book rentals "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=695"
 sort_date: 1335986800000
+year: 2012
 pubDate: "02 May 2012 19:26:40 GMT"
 creator: "Ellen Schmidt"
 ---

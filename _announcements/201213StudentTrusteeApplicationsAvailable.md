@@ -2,6 +2,7 @@
 title: "2012-13 Student Trustee Applications Available "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=588"
 sort_date: 1327337478000
+year: 2012
 pubDate: "23 Jan 2012 16:51:18 GMT"
 creator: "Nancy Schunke"
 ---

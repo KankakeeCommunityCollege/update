@@ -2,6 +2,7 @@
 title: "Friendship Day photo wrap-up  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=258"
 sort_date: 1303836201000
+year: 2011
 pubDate: "26 Apr 2011 16:43:21 GMT"
 creator: "Elizabeth Becvar"
 ---

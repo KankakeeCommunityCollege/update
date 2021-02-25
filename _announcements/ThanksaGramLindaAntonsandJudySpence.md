@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Linda Antons and Judy Spence"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=750"
 sort_date: 1340891928000
+year: 2012
 pubDate: "28 Jun 2012 13:58:48 GMT"
 creator: "Elizabeth Becvar"
 ---

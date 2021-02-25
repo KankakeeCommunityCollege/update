@@ -2,6 +2,7 @@
 title: "Look to the ‘writing on the wall’ for more ideas "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2513"
 sort_date: 1505493198000
+year: 2017
 pubDate: "15 Sep 2017 16:33:18 GMT"
 creator: "Ellen Schmidt"
 ---

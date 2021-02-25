@@ -2,6 +2,7 @@
 title: "Recognition wrap-up"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2088"
 sort_date: 1448037064000
+year: 2015
 pubDate: "20 Nov 2015 16:31:04 GMT"
 creator: "Ellen Schmidt"
 ---

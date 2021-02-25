@@ -2,6 +2,7 @@
 title: "Art will be 'borrowed' from around campus for new exhibit"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=805"
 sort_date: 1346783340000
+year: 2012
 pubDate: "04 Sep 2012 18:29:00 GMT"
 creator: "Ellen Schmidt"
 ---

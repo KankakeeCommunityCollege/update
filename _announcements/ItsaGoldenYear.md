@@ -2,6 +2,7 @@
 title: "​It’s a Golden Year"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2274"
 sort_date: 1471984951000
+year: 2016
 pubDate: "23 Aug 2016 20:42:31 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Latest info on the pond restoration project"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=469"
 sort_date: 1318002993000
+year: 2011
 pubDate: "07 Oct 2011 15:56:33 GMT"
 creator: "Ellen Schmidt"
 ---

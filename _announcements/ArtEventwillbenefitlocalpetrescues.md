@@ -2,6 +2,7 @@
 title: "Art Event will benefit local pet rescues "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1419"
 sort_date: 1392670811000
+year: 2014
 pubDate: "17 Feb 2014 21:00:11 GMT"
 creator: "Ellen Schmidt"
 ---

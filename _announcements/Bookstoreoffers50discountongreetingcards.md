@@ -2,6 +2,7 @@
 title: "Bookstore offers 50% discount on greeting cards"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=280"
 sort_date: 1304453243000
+year: 2011
 pubDate: "03 May 2011 20:07:23 GMT"
 creator: "Elizabeth Becvar"
 ---

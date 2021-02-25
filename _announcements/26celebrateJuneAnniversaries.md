@@ -2,6 +2,7 @@
 title: "26 celebrate June Anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=713"
 sort_date: 1337008579000
+year: 2012
 pubDate: "14 May 2012 15:16:19 GMT"
 creator: "Elizabeth Becvar"
 ---

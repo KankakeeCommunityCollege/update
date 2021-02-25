@@ -2,6 +2,7 @@
 title: "Drop the 9 to get an outside line"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=781"
 sort_date: 1345058612000
+year: 2012
 pubDate: "15 Aug 2012 19:23:32 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Giving campaigns continue"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2064"
 sort_date: 1446057005000
+year: 2015
 pubDate: "28 Oct 2015 18:30:05 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: " Outlook Training Tip&colon; Creating signature files "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=274"
 sort_date: 1304344281000
+year: 2011
 pubDate: "02 May 2011 13:51:21 GMT"
 creator: "Elizabeth Becvar"
 ---

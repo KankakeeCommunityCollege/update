@@ -2,6 +2,7 @@
 title: "Carts no longer available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1005"
 sort_date: 1361889537000
+year: 2013
 pubDate: "26 Feb 2013 14:38:57 GMT"
 creator: "Ellen Schmidt"
 ---

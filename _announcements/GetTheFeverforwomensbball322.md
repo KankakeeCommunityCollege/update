@@ -2,6 +2,7 @@
 title: "Get 'The Fever' for women's bball&colon; 3/22"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2398"
 sort_date: 1489778435000
+year: 2017
 pubDate: "17 Mar 2017 19:20:35 GMT"
 creator: "Ellen Schmidt"
 ---

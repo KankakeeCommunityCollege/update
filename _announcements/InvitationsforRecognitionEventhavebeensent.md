@@ -2,6 +2,7 @@
 title: "Invitations for Recognition Event have been sent"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1612"
 sort_date: 1409686197000
+year: 2014
 pubDate: "02 Sep 2014 19:29:57 GMT"
 creator: "Ellen Schmidt"
 ---

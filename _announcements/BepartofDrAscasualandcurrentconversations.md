@@ -2,6 +2,7 @@
 title: "Be part of 'Dr. A’s casual and current conversations'"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2190"
 sort_date: 1458923590000
+year: 2016
 pubDate: "25 Mar 2016 16:33:10 GMT"
 creator: "Ellen Schmidt"
 ---

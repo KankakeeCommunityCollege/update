@@ -2,6 +2,7 @@
 title: "Power reduction on Thursday, June 23"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2231"
 sort_date: 1465939344000
+year: 2016
 pubDate: "14 Jun 2016 21:22:24 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Faculty to represent KCC at ICCTA Awards Banquet"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=661"
 sort_date: 1333721738000
+year: 2012
 pubDate: "06 Apr 2012 14:15:38 GMT"
 creator: "Ellen Schmidt"
 ---

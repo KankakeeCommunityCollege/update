@@ -2,6 +2,7 @@
 title: "Teaching Squares Kickoff Meeting&colon; 2/16"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2137"
 sort_date: 1452696529000
+year: 2016
 pubDate: "13 Jan 2016 14:48:49 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "KCC listed as a military friendly school"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=897"
 sort_date: 1352477090000
+year: 2012
 pubDate: "09 Nov 2012 16:04:50 GMT"
 creator: "Ellen Schmidt"
 ---

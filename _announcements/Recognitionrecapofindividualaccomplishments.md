@@ -2,6 +2,7 @@
 title: "Recognition recap of individual accomplishments"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1283"
 sort_date: 1381872657000
+year: 2013
 pubDate: "15 Oct 2013 21:30:57 GMT"
 creator: "Ellen Schmidt"
 ---

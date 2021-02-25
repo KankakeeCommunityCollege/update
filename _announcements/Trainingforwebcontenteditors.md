@@ -2,6 +2,7 @@
 title: "Training for web content editors"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1822"
 sort_date: 1424115431000
+year: 2015
 pubDate: "16 Feb 2015 19:37:11 GMT"
 creator: "Ellen Schmidt"
 ---

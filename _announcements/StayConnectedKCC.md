@@ -2,6 +2,7 @@
 title: "Stay Connected @ KCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=579"
 sort_date: 1326830027000
+year: 2012
 pubDate: "17 Jan 2012 19:53:47 GMT"
 creator: "Nancy Schunke"
 ---

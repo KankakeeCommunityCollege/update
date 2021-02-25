@@ -2,6 +2,7 @@
 title: "Staff member named Professional of the Year"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=873"
 sort_date: 1351616339000
+year: 2012
 pubDate: "30 Oct 2012 16:58:59 GMT"
 creator: "Elizabeth Becvar"
 ---

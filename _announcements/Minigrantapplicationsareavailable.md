@@ -2,6 +2,7 @@
 title: "Mini-grant applications are available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1590"
 sort_date: 1407959729000
+year: 2014
 pubDate: "13 Aug 2014 19:55:29 GMT"
 creator: "Ellen Schmidt"
 ---

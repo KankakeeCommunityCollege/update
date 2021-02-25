@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Dr. Frederick Cooper"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1174"
 sort_date: 1374668277000
+year: 2013
 pubDate: "24 Jul 2013 12:17:57 GMT"
 creator: "Elizabeth Becvar"
 ---

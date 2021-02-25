@@ -2,6 +2,7 @@
 title: "In-service follow-up information"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=72"
 sort_date: 1294933677000
+year: 2011
 pubDate: "13 Jan 2011 15:47:57 GMT"
 creator: "Ellen Schmidt"
 ---

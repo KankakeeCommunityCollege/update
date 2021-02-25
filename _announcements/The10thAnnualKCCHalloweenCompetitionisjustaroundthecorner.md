@@ -2,6 +2,7 @@
 title: "The 10th Annual KCC Halloween Competition is just around the corner! "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2523"
 sort_date: 1506536408000
+year: 2017
 pubDate: "27 Sep 2017 18:20:08 GMT"
 creator: "Elizabeth Becvar"
 ---

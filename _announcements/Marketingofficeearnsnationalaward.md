@@ -2,6 +2,7 @@
 title: "Marketing office earns national award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1032"
 sort_date: 1363884216000
+year: 2013
 pubDate: "21 Mar 2013 16:43:36 GMT"
 creator: "Kari Nugent"
 ---

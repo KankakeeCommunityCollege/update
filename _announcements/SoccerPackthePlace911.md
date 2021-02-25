@@ -2,6 +2,7 @@
 title: "Soccer Pack the Place&colon; 9/11"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2495"
 sort_date: 1503517715000
+year: 2017
 pubDate: "23 Aug 2017 19:48:35 GMT"
 creator: "Elizabeth Becvar"
 ---

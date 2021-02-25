@@ -2,6 +2,7 @@
 title: "44 students enter academic honor society "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=174"
 sort_date: 1300725137000
+year: 2011
 pubDate: "21 Mar 2011 16:32:17 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "TRiO hands out ‘Spectacular Awards’"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1483"
 sort_date: 1398106464000
+year: 2014
 pubDate: "21 Apr 2014 18:54:24 GMT"
 creator: "Ellen Schmidt"
 ---

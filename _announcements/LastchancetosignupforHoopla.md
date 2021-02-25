@@ -2,6 +2,7 @@
 title: "Last chance to sign up for Hoopla"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=473"
 sort_date: 1318339582000
+year: 2011
 pubDate: "11 Oct 2011 13:26:22 GMT"
 creator: "Ellen Schmidt"
 ---

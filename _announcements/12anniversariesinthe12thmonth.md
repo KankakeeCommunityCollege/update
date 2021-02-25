@@ -2,6 +2,7 @@
 title: "12 anniversaries in the 12th month"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=5"
 sort_date: 1291312630000
+year: 2010
 pubDate: "02 Dec 2010 17:57:10 GMT"
 creator: "Ellen Schmidt"
 ---

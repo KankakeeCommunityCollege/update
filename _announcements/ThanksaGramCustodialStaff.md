@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Custodial Staff"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1294"
 sort_date: 1382385500000
+year: 2013
 pubDate: "21 Oct 2013 19:58:20 GMT"
 creator: "Elizabeth Becvar"
 ---

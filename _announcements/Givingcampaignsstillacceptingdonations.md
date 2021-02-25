@@ -2,6 +2,7 @@
 title: "Giving campaigns still accepting donations "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1647"
 sort_date: 1412009743000
+year: 2014
 pubDate: "29 Sep 2014 16:55:43 GMT"
 creator: "Ellen Schmidt"
 ---

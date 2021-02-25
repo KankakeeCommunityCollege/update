@@ -2,6 +2,7 @@
 title: "Copyright and handouts"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=12"
 sort_date: 1291325448000
+year: 2010
 pubDate: "02 Dec 2010 21:30:48 GMT"
 creator: "Elizabeth Becvar"
 ---

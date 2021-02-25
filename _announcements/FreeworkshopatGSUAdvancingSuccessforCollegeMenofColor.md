@@ -2,6 +2,7 @@
 title: "Free workshop at GSU&colon; Advancing Success for College Men of Color"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2180"
 sort_date: 1457623756000
+year: 2016
 pubDate: "10 Mar 2016 15:29:16 GMT"
 creator: "Ellen Schmidt"
 ---

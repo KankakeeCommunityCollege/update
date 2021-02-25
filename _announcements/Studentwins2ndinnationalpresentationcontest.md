@@ -2,6 +2,7 @@
 title: "Student wins 2nd in national presentation contest"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1254"
 sort_date: 1379685483000
+year: 2013
 pubDate: "20 Sep 2013 13:58:03 GMT"
 creator: "Ellen Schmidt"
 ---

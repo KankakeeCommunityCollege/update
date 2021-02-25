@@ -2,6 +2,7 @@
 title: "​Trivia night follow-up"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2189"
 sort_date: 1458671318000
+year: 2016
 pubDate: "22 Mar 2016 18:28:38 GMT"
 creator: "Elizabeth Becvar"
 ---

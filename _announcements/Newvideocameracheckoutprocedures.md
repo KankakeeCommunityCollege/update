@@ -2,6 +2,7 @@
 title: "New video camera check-out procedures"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1934"
 sort_date: 1432065717000
+year: 2015
 pubDate: "19 May 2015 20:01:57 GMT"
 creator: "Ellen Schmidt"
 ---

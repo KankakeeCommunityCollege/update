@@ -2,6 +2,7 @@
 title: "Chair Massages are back (pun intended) "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=131"
 sort_date: 1298065381000
+year: 2011
 pubDate: "18 Feb 2011 21:43:01 GMT"
 creator: "Elizabeth Becvar"
 ---

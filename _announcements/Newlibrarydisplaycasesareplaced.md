@@ -2,6 +2,7 @@
 title: "​New library display cases are placed"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1943"
 sort_date: 1433347498000
+year: 2015
 pubDate: "03 Jun 2015 16:04:58 GMT"
 creator: "Ellen Schmidt"
 ---

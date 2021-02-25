@@ -2,6 +2,7 @@
 title: "Concierge services include sending/receiving packages"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=531"
 sort_date: 1322594445000
+year: 2011
 pubDate: "29 Nov 2011 19:20:45 GMT"
 creator: "Ellen Schmidt"
 ---

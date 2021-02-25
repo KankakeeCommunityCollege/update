@@ -2,6 +2,7 @@
 title: "Homeless to Harvard&colon; Meet Liz Murray 11/5"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1671"
 sort_date: 1413310624000
+year: 2014
 pubDate: "14 Oct 2014 18:17:04 GMT"
 creator: "Ellen Schmidt"
 ---

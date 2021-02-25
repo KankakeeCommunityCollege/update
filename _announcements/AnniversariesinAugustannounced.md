@@ -2,6 +2,7 @@
 title: "Anniversaries in August announced"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2478"
 sort_date: 1501678272000
+year: 2017
 pubDate: "02 Aug 2017 12:51:12 GMT"
 creator: "Elizabeth Becvar"
 ---

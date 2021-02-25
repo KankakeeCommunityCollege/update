@@ -2,6 +2,7 @@
 title: "Notes from the LRC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=126"
 sort_date: 1298063775000
+year: 2011
 pubDate: "18 Feb 2011 21:16:15 GMT"
 creator: "Elizabeth Becvar"
 ---

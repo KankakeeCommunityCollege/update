@@ -2,6 +2,7 @@
 title: "Congratulations on baby's birth"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2536"
 sort_date: 1508360145000
+year: 2017
 pubDate: "18 Oct 2017 20:55:45 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Watch comp time totals"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=744"
 sort_date: 1340287860000
+year: 2012
 pubDate: "21 Jun 2012 14:11:00 GMT"
 creator: "Ellen Schmidt"
 ---

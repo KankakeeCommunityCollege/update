@@ -2,6 +2,7 @@
 title: "Seeking contributors for NEW college blog"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=798"
 sort_date: 1346181788000
+year: 2012
 pubDate: "28 Aug 2012 19:23:08 GMT"
 creator: "Nancy Schunke"
 ---

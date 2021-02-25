@@ -2,6 +2,7 @@
 title: "Bookstore offers holiday sale"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1761"
 sort_date: 1418220916000
+year: 2014
 pubDate: "10 Dec 2014 14:15:16 GMT"
 creator: "Ellen Schmidt"
 ---

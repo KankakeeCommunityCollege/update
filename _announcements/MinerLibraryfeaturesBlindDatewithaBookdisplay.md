@@ -2,6 +2,7 @@
 title: "Miner Library features “Blind Date with a Book” display"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1409"
 sort_date: 1391709498000
+year: 2014
 pubDate: "06 Feb 2014 17:58:18 GMT"
 creator: "Ellen Schmidt"
 ---

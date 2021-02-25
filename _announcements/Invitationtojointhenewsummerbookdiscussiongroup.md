@@ -2,6 +2,7 @@
 title: "Invitation to join the new summer book discussion group"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=673"
 sort_date: 1334860661000
+year: 2012
 pubDate: "19 Apr 2012 18:37:41 GMT"
 creator: "Ellen Schmidt"
 ---

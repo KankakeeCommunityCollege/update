@@ -2,6 +2,7 @@
 title: "Let's get cookin' -- books are just $10"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1343"
 sort_date: 1385152095000
+year: 2013
 pubDate: "22 Nov 2013 20:28:15 GMT"
 creator: "Ellen Schmidt"
 ---

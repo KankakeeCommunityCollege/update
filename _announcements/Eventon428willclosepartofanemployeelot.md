@@ -2,6 +2,7 @@
 title: "Event on 4/28 will close part of an employee lot"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1489"
 sort_date: 1398278870000
+year: 2014
 pubDate: "23 Apr 2014 18:47:50 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "48 inducted into PTK honor society"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1013"
 sort_date: 1362152912000
+year: 2013
 pubDate: "01 Mar 2013 15:48:32 GMT"
 creator: "Ellen Schmidt"
 ---

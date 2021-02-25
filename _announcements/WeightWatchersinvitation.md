@@ -2,6 +2,7 @@
 title: "Weight Watchers invitation "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=291"
 sort_date: 1304712789000
+year: 2011
 pubDate: "06 May 2011 20:13:09 GMT"
 creator: "Elizabeth Becvar"
 ---

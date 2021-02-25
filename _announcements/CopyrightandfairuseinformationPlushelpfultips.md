@@ -2,6 +2,7 @@
 title: "Copyright and fair use information -- Plus helpful tips"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=616"
 sort_date: 1330117208000
+year: 2012
 pubDate: "24 Feb 2012 21:00:08 GMT"
 creator: "Ellen Schmidt"
 ---

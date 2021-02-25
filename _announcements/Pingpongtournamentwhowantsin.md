@@ -2,6 +2,7 @@
 title: "Ping pong tournament -- who wants in? "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2113"
 sort_date: 1449869886000
+year: 2015
 pubDate: "11 Dec 2015 21:38:06 GMT"
 creator: "Ellen Schmidt"
 ---

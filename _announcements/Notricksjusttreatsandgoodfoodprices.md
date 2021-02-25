@@ -2,6 +2,7 @@
 title: "No tricks -- just treats and good food prices"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1685"
 sort_date: 1413907194000
+year: 2014
 pubDate: "21 Oct 2014 15:59:54 GMT"
 creator: "Ellen Schmidt"
 ---

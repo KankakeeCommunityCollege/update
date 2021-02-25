@@ -2,6 +2,7 @@
 title: "Paralegal ABA re-approval and LEX induction"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=799"
 sort_date: 1346351123000
+year: 2012
 pubDate: "30 Aug 2012 18:25:23 GMT"
 creator: "Elizabeth Becvar"
 ---

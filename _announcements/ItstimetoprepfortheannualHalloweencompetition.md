@@ -2,6 +2,7 @@
 title: "It's time to prep for the annual Halloween competition"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=840"
 sort_date: 1349282623000
+year: 2012
 pubDate: "03 Oct 2012 16:43:43 GMT"
 creator: "Ellen Schmidt"
 ---

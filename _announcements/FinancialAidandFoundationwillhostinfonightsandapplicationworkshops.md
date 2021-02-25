@@ -2,6 +2,7 @@
 title: "​Financial Aid and Foundation will host info nights and application workshops "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1707"
 sort_date: 1415053311000
+year: 2014
 pubDate: "03 Nov 2014 22:21:51 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Details&colon; A Gala Q & A"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2402"
 sort_date: 1490383127000
+year: 2017
 pubDate: "24 Mar 2017 19:18:47 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Upcoming Hammes Bookstore closures announced"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=858"
 sort_date: 1350502355000
+year: 2012
 pubDate: "17 Oct 2012 19:32:35 GMT"
 creator: "Ellen Schmidt"
 ---

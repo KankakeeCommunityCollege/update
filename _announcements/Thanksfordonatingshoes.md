@@ -2,6 +2,7 @@
 title: "Thanks for donating shoes"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=690"
 sort_date: 1335811451000
+year: 2012
 pubDate: "30 Apr 2012 18:44:11 GMT"
 creator: "Ellen Schmidt"
 ---

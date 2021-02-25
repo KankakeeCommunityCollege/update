@@ -2,6 +2,7 @@
 title: "Casual day&colon; 11/23 for holiday decorating"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=520"
 sort_date: 1321569281000
+year: 2011
 pubDate: "17 Nov 2011 22:34:41 GMT"
 creator: "Ellen Schmidt"
 ---

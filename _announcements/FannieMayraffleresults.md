@@ -2,6 +2,7 @@
 title: "Fannie May raffle results"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=994"
 sort_date: 1360949451000
+year: 2013
 pubDate: "15 Feb 2013 17:30:51 GMT"
 creator: "Ellen Schmidt"
 ---

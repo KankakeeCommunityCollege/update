@@ -2,6 +2,7 @@
 title: "Congratulations Brian Yeoman -- 40 years as a KCC employee!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1418"
 sort_date: 1392415354000
+year: 2014
 pubDate: "14 Feb 2014 22:02:34 GMT"
 creator: "Ellen Schmidt"
 ---

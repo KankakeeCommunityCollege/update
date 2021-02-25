@@ -2,6 +2,7 @@
 title: "Graduation information "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=269"
 sort_date: 1304343830000
+year: 2011
 pubDate: "02 May 2011 13:43:50 GMT"
 creator: "Elizabeth Becvar"
 ---

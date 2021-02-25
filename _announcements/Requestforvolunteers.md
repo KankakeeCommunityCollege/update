@@ -2,6 +2,7 @@
 title: "Request for volunteers "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=288"
 sort_date: 1304712580000
+year: 2011
 pubDate: "06 May 2011 20:09:40 GMT"
 creator: "Elizabeth Becvar"
 ---

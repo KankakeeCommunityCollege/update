@@ -2,6 +2,7 @@
 title: "25 are celebrating employment anniversaries in September"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2018"
 sort_date: 1441042135000
+year: 2015
 pubDate: "31 Aug 2015 17:28:55 GMT"
 creator: "Ellen Schmidt"
 ---

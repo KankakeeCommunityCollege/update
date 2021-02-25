@@ -2,6 +2,7 @@
 title: "United Way campaign update and giving opportunities"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1342"
 sort_date: 1385151645000
+year: 2013
 pubDate: "22 Nov 2013 20:20:45 GMT"
 creator: "Ellen Schmidt"
 ---

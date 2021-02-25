@@ -2,6 +2,7 @@
 title: "Business Office procedures training offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1337"
 sort_date: 1385053717000
+year: 2013
 pubDate: "21 Nov 2013 17:08:37 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "One-day art exhibit at KCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=696"
 sort_date: 1336050652000
+year: 2012
 pubDate: "03 May 2012 13:10:52 GMT"
 creator: "Ellen Schmidt"
 ---

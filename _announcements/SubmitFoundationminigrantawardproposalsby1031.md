@@ -2,6 +2,7 @@
 title: "Submit Foundation mini-grant award proposals by 10/31"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1276"
 sort_date: 1381412085000
+year: 2013
 pubDate: "10 Oct 2013 13:34:45 GMT"
 creator: "Ellen Schmidt"
 ---

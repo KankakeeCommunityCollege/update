@@ -2,6 +2,7 @@
 title: "Clarification of employee lot regulation"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1827"
 sort_date: 1424270789000
+year: 2015
 pubDate: "18 Feb 2015 14:46:29 GMT"
 creator: "Ellen Schmidt"
 ---

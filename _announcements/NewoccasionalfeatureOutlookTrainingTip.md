@@ -2,6 +2,7 @@
 title: "New occasional feature&colon; 'Outlook Training Tip' "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=141"
 sort_date: 1298668061000
+year: 2011
 pubDate: "25 Feb 2011 21:07:41 GMT"
 creator: "Elizabeth Becvar"
 ---

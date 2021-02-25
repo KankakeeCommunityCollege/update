@@ -2,6 +2,7 @@
 title: "Commencement celebration will be May 17"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1503"
 sort_date: 1399046954000
+year: 2014
 pubDate: "02 May 2014 16:09:14 GMT"
 creator: "Ellen Schmidt"
 ---

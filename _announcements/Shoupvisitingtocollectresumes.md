@@ -2,6 +2,7 @@
 title: "Shoup visiting to collect resumes"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1679"
 sort_date: 1413559240000
+year: 2014
 pubDate: "17 Oct 2014 15:20:40 GMT"
 creator: "Ellen Schmidt"
 ---

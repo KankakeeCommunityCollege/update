@@ -2,6 +2,7 @@
 title: "Presidents list for Spring 2015"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1948"
 sort_date: 1433770850000
+year: 2015
 pubDate: "08 Jun 2015 13:40:50 GMT"
 creator: "Elizabeth Becvar"
 ---

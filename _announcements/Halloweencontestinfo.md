@@ -2,6 +2,7 @@
 title: "Halloween contest info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=867"
 sort_date: 1351105877000
+year: 2012
 pubDate: "24 Oct 2012 19:11:17 GMT"
 creator: "Ellen Schmidt"
 ---

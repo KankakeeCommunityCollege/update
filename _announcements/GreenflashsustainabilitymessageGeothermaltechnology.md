@@ -2,6 +2,7 @@
 title: "Green Flash Sustainability Message&colon; Geothermal Technology"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=108"
 sort_date: 1297111807000
+year: 2011
 pubDate: "07 Feb 2011 20:50:07 GMT"
 creator: "Ellen Schmidt"
 ---

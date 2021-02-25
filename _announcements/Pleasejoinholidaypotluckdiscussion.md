@@ -2,6 +2,7 @@
 title: "Please join holiday potluck discussion"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1640"
 sort_date: 1411597653000
+year: 2014
 pubDate: "24 Sep 2014 22:27:33 GMT"
 creator: "Ellen Schmidt"
 ---

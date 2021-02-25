@@ -2,6 +2,7 @@
 title: "Hoopla thanks"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=516"
 sort_date: 1321026310000
+year: 2011
 pubDate: "11 Nov 2011 15:45:10 GMT"
 creator: "Elizabeth Becvar"
 ---

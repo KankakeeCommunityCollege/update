@@ -2,6 +2,7 @@
 title: "Officiating class moves from lecture to live action "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=23"
 sort_date: 1291412673000
+year: 2010
 pubDate: "03 Dec 2010 21:44:33 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

@@ -2,6 +2,7 @@
 title: "Testing Center will be closed 6/21 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=728"
 sort_date: 1338931015000
+year: 2012
 pubDate: "05 Jun 2012 21:16:55 GMT"
 creator: "Ellen Schmidt"
 ---

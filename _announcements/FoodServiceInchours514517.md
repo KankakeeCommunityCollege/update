@@ -2,6 +2,7 @@
 title: "Food Service Inc. hours, 5/14 - 5/17"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=705"
 sort_date: 1336589945000
+year: 2012
 pubDate: "09 May 2012 18:59:05 GMT"
 creator: "Ellen Schmidt"
 ---

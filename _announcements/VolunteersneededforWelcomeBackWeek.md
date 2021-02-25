@@ -2,6 +2,7 @@
 title: "Volunteers Needed for Welcome Back Week "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1366"
 sort_date: 1386794823000
+year: 2013
 pubDate: "11 Dec 2013 20:47:03 GMT"
 creator: "Nancy Schunke"
 ---

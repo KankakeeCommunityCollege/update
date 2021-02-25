@@ -2,6 +2,7 @@
 title: "Congratulations on birth of granddaughter"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2359"
 sort_date: 1484059736000
+year: 2017
 pubDate: "10 Jan 2017 14:48:56 GMT"
 creator: "Ellen Schmidt"
 ---

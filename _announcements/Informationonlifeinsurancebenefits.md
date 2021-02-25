@@ -2,6 +2,7 @@
 title: "Information on life insurance benefits"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1362"
 sort_date: 1386622933000
+year: 2013
 pubDate: "09 Dec 2013 21:02:13 GMT"
 creator: "Ellen Schmidt"
 ---

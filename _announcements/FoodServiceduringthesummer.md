@@ -2,6 +2,7 @@
 title: "Food Service during the summer"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1539"
 sort_date: 1402425480000
+year: 2014
 pubDate: "10 Jun 2014 18:38:00 GMT"
 creator: "Ellen Schmidt"
 ---

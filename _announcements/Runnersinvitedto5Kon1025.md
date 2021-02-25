@@ -2,6 +2,7 @@
 title: "Runners invited to 5K on 10/25"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1657"
 sort_date: 1412353689000
+year: 2014
 pubDate: "03 Oct 2014 16:28:09 GMT"
 creator: "Ellen Schmidt"
 ---

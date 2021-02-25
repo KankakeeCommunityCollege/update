@@ -2,6 +2,7 @@
 title: "The week of 9/9, LRC items stored behind circulation desk will be unavailable"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1232"
 sort_date: 1378495328000
+year: 2013
 pubDate: "06 Sep 2013 19:22:08 GMT"
 creator: "Ellen Schmidt"
 ---

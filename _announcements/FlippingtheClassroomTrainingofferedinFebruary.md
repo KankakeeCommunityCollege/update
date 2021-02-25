@@ -2,6 +2,7 @@
 title: "Flipping the Classroom Training offered in February"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2136"
 sort_date: 1452696273000
+year: 2016
 pubDate: "13 Jan 2016 14:44:33 GMT"
 creator: "Ellen Schmidt"
 ---

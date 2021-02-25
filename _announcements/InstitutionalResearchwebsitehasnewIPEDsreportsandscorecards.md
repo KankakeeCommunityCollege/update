@@ -2,6 +2,7 @@
 title: "Institutional Research website has new IPEDs reports and scorecards"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=890"
 sort_date: 1352229482000
+year: 2012
 pubDate: "06 Nov 2012 19:18:02 GMT"
 creator: "Ellen Schmidt"
 ---

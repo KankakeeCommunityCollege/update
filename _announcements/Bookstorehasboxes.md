@@ -2,6 +2,7 @@
 title: "Bookstore has boxes"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=373"
 sort_date: 1310071916000
+year: 2011
 pubDate: "07 Jul 2011 20:51:56 GMT"
 creator: "Ellen Schmidt"
 ---

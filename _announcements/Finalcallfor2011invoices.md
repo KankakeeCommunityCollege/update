@@ -2,6 +2,7 @@
 title: "Final call for 2011 invoices"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=399"
 sort_date: 1312981843000
+year: 2011
 pubDate: "10 Aug 2011 13:10:43 GMT"
 creator: "Ellen Schmidt"
 ---

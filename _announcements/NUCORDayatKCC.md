@@ -2,6 +2,7 @@
 title: "NUCOR Day at KCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1018"
 sort_date: 1362770930000
+year: 2013
 pubDate: "08 Mar 2013 19:28:50 GMT"
 creator: "Kari Nugent"
 ---

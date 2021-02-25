@@ -2,6 +2,7 @@
 title: "KCC will host school district"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2255"
 sort_date: 1469035631000
+year: 2016
 pubDate: "20 Jul 2016 17:27:11 GMT"
 creator: "Ellen Schmidt"
 ---

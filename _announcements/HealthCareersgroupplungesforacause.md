@@ -2,6 +2,7 @@
 title: "Health Careers group plunges for a cause "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=187"
 sort_date: 1301343733000
+year: 2011
 pubDate: "28 Mar 2011 20:22:13 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "KCC and Kankakee police collaborate on training"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2129"
 sort_date: 1452263948000
+year: 2016
 pubDate: "08 Jan 2016 14:39:08 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Canvas training returns in September"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1600"
 sort_date: 1408723317000
+year: 2014
 pubDate: "22 Aug 2014 16:01:57 GMT"
 creator: "Ellen Schmidt"
 ---

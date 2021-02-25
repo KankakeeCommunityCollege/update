@@ -2,6 +2,7 @@
 title: "High School Art Show winners are announced"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1042"
 sort_date: 1364421470000
+year: 2013
 pubDate: "27 Mar 2013 21:57:50 GMT"
 creator: "Ellen Schmidt"
 ---

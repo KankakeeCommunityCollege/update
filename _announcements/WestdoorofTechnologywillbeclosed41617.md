@@ -2,6 +2,7 @@
 title: "West door of Technology will be closed 4/16-17"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1891"
 sort_date: 1429112067000
+year: 2015
 pubDate: "15 Apr 2015 15:34:27 GMT"
 creator: "Ellen Schmidt"
 ---

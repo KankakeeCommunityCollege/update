@@ -2,6 +2,7 @@
 title: "Flu shots offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2043"
 sort_date: 1444072817000
+year: 2015
 pubDate: "05 Oct 2015 19:20:17 GMT"
 creator: "Ellen Schmidt"
 ---

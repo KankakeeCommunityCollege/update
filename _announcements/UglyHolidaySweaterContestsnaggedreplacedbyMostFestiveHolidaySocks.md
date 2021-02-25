@@ -2,6 +2,7 @@
 title: "Ugly Holiday Sweater Contest snagged – replaced by 'Most Festive Holiday Socks'"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1339"
 sort_date: 1385149219000
+year: 2013
 pubDate: "22 Nov 2013 19:40:19 GMT"
 creator: "Ellen Schmidt"
 ---

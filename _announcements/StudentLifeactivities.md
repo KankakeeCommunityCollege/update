@@ -2,6 +2,7 @@
 title: "Student Life activities"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2004"
 sort_date: 1439833567000
+year: 2015
 pubDate: "17 Aug 2015 17:46:07 GMT"
 creator: "Elizabeth Becvar"
 ---

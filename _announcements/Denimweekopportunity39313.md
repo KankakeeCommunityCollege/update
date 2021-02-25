@@ -2,6 +2,7 @@
 title: "Denim week opportunity&colon; 3/9 - 3/13"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1824"
 sort_date: 1424187886000
+year: 2015
 pubDate: "17 Feb 2015 15:44:46 GMT"
 creator: "Ellen Schmidt"
 ---

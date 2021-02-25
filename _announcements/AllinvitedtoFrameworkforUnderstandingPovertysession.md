@@ -2,6 +2,7 @@
 title: "All invited to 'Framework for Understanding Poverty' session"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2337"
 sort_date: 1479504456000
+year: 2016
 pubDate: "18 Nov 2016 21:27:36 GMT"
 creator: "Ellen Schmidt"
 ---

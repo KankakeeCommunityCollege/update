@@ -2,6 +2,7 @@
 title: "Former KCC student will appear on TV design competition"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1551"
 sort_date: 1403640143000
+year: 2014
 pubDate: "24 Jun 2014 20:02:23 GMT"
 creator: "Ellen Schmidt"
 ---

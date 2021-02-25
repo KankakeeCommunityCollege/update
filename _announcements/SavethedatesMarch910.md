@@ -2,6 +2,7 @@
 title: "Save the dates&colon; March 9 & 10"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=102"
 sort_date: 1296853145000
+year: 2011
 pubDate: "04 Feb 2011 20:59:05 GMT"
 creator: "Elizabeth Becvar"
 ---

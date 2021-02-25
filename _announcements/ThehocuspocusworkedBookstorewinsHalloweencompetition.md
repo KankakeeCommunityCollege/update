@@ -2,6 +2,7 @@
 title: "The hocus pocus worked&colon; Bookstore wins Halloween competition"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1700"
 sort_date: 1414781237000
+year: 2014
 pubDate: "31 Oct 2014 18:47:17 GMT"
 creator: "Ellen Schmidt"
 ---

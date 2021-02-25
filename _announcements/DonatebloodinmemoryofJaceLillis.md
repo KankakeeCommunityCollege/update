@@ -2,6 +2,7 @@
 title: "Donate blood in memory of Jace Lillis"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2538"
 sort_date: 1508514602000
+year: 2017
 pubDate: "20 Oct 2017 15:50:02 GMT"
 creator: "Elizabeth Becvar"
 ---

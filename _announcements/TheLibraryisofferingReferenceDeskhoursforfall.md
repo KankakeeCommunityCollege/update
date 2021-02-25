@@ -2,6 +2,7 @@
 title: "The Library is offering Reference Desk hours for fall"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1248"
 sort_date: 1379361589000
+year: 2013
 pubDate: "16 Sep 2013 19:59:49 GMT"
 creator: "Ellen Schmidt"
 ---

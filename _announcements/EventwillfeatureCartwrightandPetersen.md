@@ -2,6 +2,7 @@
 title: "Event will feature Cartwright and Petersen"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1530"
 sort_date: 1401724480000
+year: 2014
 pubDate: "02 Jun 2014 15:54:40 GMT"
 creator: "Ellen Schmidt"
 ---

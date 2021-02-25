@@ -2,6 +2,7 @@
 title: "Fall book discussion series tackles topic of inequality"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1617"
 sort_date: 1409940656000
+year: 2014
 pubDate: "05 Sep 2014 18:10:56 GMT"
 creator: "Ellen Schmidt"
 ---

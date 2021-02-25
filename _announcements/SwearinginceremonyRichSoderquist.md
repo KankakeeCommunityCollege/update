@@ -2,6 +2,7 @@
 title: "Swearing in ceremony - Rich Soderquist"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1239"
 sort_date: 1378843280000
+year: 2013
 pubDate: "10 Sep 2013 20:01:20 GMT"
 creator: "Kari Nugent"
 ---

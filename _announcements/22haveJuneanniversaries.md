@@ -2,6 +2,7 @@
 title: "22 have June anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1939"
 sort_date: 1432660264000
+year: 2015
 pubDate: "26 May 2015 17:11:04 GMT"
 creator: "Ellen Schmidt"
 ---

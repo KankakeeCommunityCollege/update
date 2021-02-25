@@ -2,6 +2,7 @@
 title: "It's anniversary time in October for these employees"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2301"
 sort_date: 1475255388000
+year: 2016
 pubDate: "30 Sep 2016 17:09:48 GMT"
 creator: "Ellen Schmidt"
 ---

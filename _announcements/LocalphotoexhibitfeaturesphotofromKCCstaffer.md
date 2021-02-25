@@ -2,6 +2,7 @@
 title: "Local photo exhibit features photo from KCC staffer"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1404"
 sort_date: 1391026633000
+year: 2014
 pubDate: "29 Jan 2014 20:17:13 GMT"
 creator: "Ellen Schmidt"
 ---

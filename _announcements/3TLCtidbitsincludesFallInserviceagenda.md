@@ -2,6 +2,7 @@
 title: "3 TLC tidbits – includes Fall Inservice agenda"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=279"
 sort_date: 1304438274000
+year: 2011
 pubDate: "03 May 2011 15:57:54 GMT"
 creator: "Ellen Schmidt"
 ---

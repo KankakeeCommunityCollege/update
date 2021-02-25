@@ -2,6 +2,7 @@
 title: "July 4th Celebration Postponed"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1965"
 sort_date: 1435692962000
+year: 2015
 pubDate: "30 Jun 2015 19:36:02 GMT"
 creator: "Kari Nugent"
 ---

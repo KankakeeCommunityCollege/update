@@ -2,6 +2,7 @@
 title: "Thanks for making fundraiser successful"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1923"
 sort_date: 1431120295000
+year: 2015
 pubDate: "08 May 2015 21:24:55 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Busy time means some supply orders might be delayed "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1193"
 sort_date: 1376057439000
+year: 2013
 pubDate: "09 Aug 2013 14:10:39 GMT"
 creator: "Ellen Schmidt"
 ---

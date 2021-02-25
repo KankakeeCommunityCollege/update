@@ -2,6 +2,7 @@
 title: "Please share with students&colon; Shoup Manufacturing visiting to collect resumes"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1501"
 sort_date: 1398870123000
+year: 2014
 pubDate: "30 Apr 2014 15:02:03 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Supportive staff advocates available "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=362"
 sort_date: 1308867315000
+year: 2011
 pubDate: "23 Jun 2011 22:15:15 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

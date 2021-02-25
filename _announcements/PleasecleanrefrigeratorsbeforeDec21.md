@@ -2,6 +2,7 @@
 title: "Please clean refrigerators before Dec. 21"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=47"
 sort_date: 1292427027000
+year: 2010
 pubDate: "15 Dec 2010 15:30:27 GMT"
 creator: "Ellen Schmidt"
 ---

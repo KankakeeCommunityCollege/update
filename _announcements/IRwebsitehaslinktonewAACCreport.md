@@ -2,6 +2,7 @@
 title: "IR website has link to new AACC report"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=684"
 sort_date: 1335283862000
+year: 2012
 pubDate: "24 Apr 2012 16:11:02 GMT"
 creator: "Ellen Schmidt"
 ---

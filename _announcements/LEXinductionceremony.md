@@ -2,6 +2,7 @@
 title: "LEX induction ceremony"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1958"
 sort_date: 1435247994000
+year: 2015
 pubDate: "25 Jun 2015 15:59:54 GMT"
 creator: "Elizabeth Becvar"
 ---

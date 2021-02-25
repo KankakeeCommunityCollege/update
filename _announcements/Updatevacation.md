@@ -2,6 +2,7 @@
 title: "Update vacation "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=337"
 sort_date: 1307130012000
+year: 2011
 pubDate: "03 Jun 2011 19:40:12 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

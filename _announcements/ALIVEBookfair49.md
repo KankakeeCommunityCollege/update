@@ -2,6 +2,7 @@
 title: "ALIVE Bookfair&colon; 4/9"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=202"
 sort_date: 1301925101000
+year: 2011
 pubDate: "04 Apr 2011 13:51:41 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Strategic plan includes survey -- please return yours by Jan. 31"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=958"
 sort_date: 1358287159000
+year: 2013
 pubDate: "15 Jan 2013 21:59:19 GMT"
 creator: "Ellen Schmidt"
 ---

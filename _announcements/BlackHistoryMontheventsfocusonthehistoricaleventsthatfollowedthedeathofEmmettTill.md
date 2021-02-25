@@ -2,6 +2,7 @@
 title: "Black History Month events focus on the historical events that followed the death of Emmett Till."
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=91"
 sort_date: 1296159528000
+year: 2011
 pubDate: "27 Jan 2011 20:18:48 GMT"
 creator: "Kari Nugent"
 ---

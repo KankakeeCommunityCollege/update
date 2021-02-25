@@ -2,6 +2,7 @@
 title: "Hammes Bookstore offers 25% off most items"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1374"
 sort_date: 1386954675000
+year: 2013
 pubDate: "13 Dec 2013 17:11:15 GMT"
 creator: "Ellen Schmidt"
 ---

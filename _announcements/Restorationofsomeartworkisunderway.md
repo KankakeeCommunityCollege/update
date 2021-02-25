@@ -2,6 +2,7 @@
 title: "Restoration of some artwork is underway"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1797"
 sort_date: 1421964624000
+year: 2015
 pubDate: "22 Jan 2015 22:10:24 GMT"
 creator: "Elizabeth Becvar"
 ---

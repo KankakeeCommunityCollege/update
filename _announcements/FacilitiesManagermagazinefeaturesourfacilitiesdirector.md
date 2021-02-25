@@ -2,6 +2,7 @@
 title: "Facilities Manager magazine features our facilities director"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=171"
 sort_date: 1300724816000
+year: 2011
 pubDate: "21 Mar 2011 16:26:56 GMT"
 creator: "Elizabeth Becvar"
 ---

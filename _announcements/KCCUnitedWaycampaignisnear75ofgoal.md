@@ -2,6 +2,7 @@
 title: "KCC United Way campaign is near 75% of goal"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=543"
 sort_date: 1322838225000
+year: 2011
 pubDate: "02 Dec 2011 15:03:45 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Faculty websites get new look"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=193"
 sort_date: 1301433276000
+year: 2011
 pubDate: "29 Mar 2011 21:14:36 GMT"
 creator: "Elizabeth Becvar"
 ---

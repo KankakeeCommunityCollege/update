@@ -2,6 +2,7 @@
 title: "Bookstore sale"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=164"
 sort_date: 1299879739000
+year: 2011
 pubDate: "11 Mar 2011 21:42:19 GMT"
 creator: "Ellen Schmidt"
 ---

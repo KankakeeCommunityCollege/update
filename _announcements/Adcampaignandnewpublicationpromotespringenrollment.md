@@ -2,6 +2,7 @@
 title: "​Ad campaign and new publication promote spring enrollment"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2054"
 sort_date: 1445010455000
+year: 2015
 pubDate: "16 Oct 2015 15:47:35 GMT"
 creator: "Ellen Schmidt"
 ---

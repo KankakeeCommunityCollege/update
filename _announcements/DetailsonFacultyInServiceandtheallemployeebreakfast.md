@@ -2,6 +2,7 @@
 title: "Details on Faculty In-Service and the all-employee breakfast"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1975"
 sort_date: 1436480355000
+year: 2015
 pubDate: "09 Jul 2015 22:19:15 GMT"
 creator: "Ellen Schmidt"
 ---

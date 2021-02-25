@@ -2,6 +2,7 @@
 title: "Parking decals information"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=717"
 sort_date: 1337621601000
+year: 2012
 pubDate: "21 May 2012 17:33:21 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "SUAA annual dinner will be 10/28"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1290"
 sort_date: 1382102814000
+year: 2013
 pubDate: "18 Oct 2013 13:26:54 GMT"
 creator: "Ellen Schmidt"
 ---

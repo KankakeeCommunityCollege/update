@@ -2,6 +2,7 @@
 title: "Deadline for Innovation Grants is Oct. 30"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2048"
 sort_date: 1444771284000
+year: 2015
 pubDate: "13 Oct 2015 21:21:24 GMT"
 creator: "Ellen Schmidt"
 ---

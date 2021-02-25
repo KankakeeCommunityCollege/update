@@ -2,6 +2,7 @@
 title: "Symphony re-broadcast on WKCC 91.1 FM "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=290"
 sort_date: 1304712714000
+year: 2011
 pubDate: "06 May 2011 20:11:54 GMT"
 creator: "Elizabeth Becvar"
 ---

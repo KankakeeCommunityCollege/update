@@ -2,6 +2,7 @@
 title: "​Future college students visiting campus"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2448"
 sort_date: 1496852154000
+year: 2017
 pubDate: "07 Jun 2017 16:15:54 GMT"
 creator: "Elizabeth Becvar"
 ---

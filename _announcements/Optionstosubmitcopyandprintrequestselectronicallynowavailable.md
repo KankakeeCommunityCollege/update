@@ -2,6 +2,7 @@
 title: "Options to submit copy and print requests electronically now available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1259"
 sort_date: 1380059987000
+year: 2013
 pubDate: "24 Sep 2013 21:59:47 GMT"
 creator: "Kari Nugent"
 ---

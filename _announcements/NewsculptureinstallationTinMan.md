@@ -2,6 +2,7 @@
 title: "​New sculpture installation&colon; Tin Man"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1644"
 sort_date: 1411659828000
+year: 2014
 pubDate: "25 Sep 2014 15:43:48 GMT"
 creator: "Ellen Schmidt"
 ---

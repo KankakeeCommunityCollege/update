@@ -2,6 +2,7 @@
 title: "Coat found (Related note ... Another coat is missing)"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1751"
 sort_date: 1417034225000
+year: 2014
 pubDate: "26 Nov 2014 20:37:05 GMT"
 creator: "Ellen Schmidt"
 ---

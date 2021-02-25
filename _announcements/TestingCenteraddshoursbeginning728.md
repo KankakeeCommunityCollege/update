@@ -2,6 +2,7 @@
 title: "Testing Center adds hours beginning 7/28"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1542"
 sort_date: 1402597002000
+year: 2014
 pubDate: "12 Jun 2014 18:16:42 GMT"
 creator: "Ellen Schmidt"
 ---

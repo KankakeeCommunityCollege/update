@@ -2,6 +2,7 @@
 title: "17 celebrate May anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=712"
 sort_date: 1337005880000
+year: 2012
 pubDate: "14 May 2012 14:31:20 GMT"
 creator: "Ellen Schmidt"
 ---

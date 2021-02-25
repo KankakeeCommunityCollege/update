@@ -2,6 +2,7 @@
 title: "Disaster drill provides valuable experience "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1286"
 sort_date: 1382035686000
+year: 2013
 pubDate: "17 Oct 2013 18:48:06 GMT"
 creator: "Ellen Schmidt"
 ---

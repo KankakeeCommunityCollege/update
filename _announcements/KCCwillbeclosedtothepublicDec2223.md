@@ -2,6 +2,7 @@
 title: "KCC will be closed to the public Dec. 22-23"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1763"
 sort_date: 1418229959000
+year: 2014
 pubDate: "10 Dec 2014 16:45:59 GMT"
 creator: "Kari Nugent"
 ---

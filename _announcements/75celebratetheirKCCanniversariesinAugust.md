@@ -2,6 +2,7 @@
 title: "75 celebrate their KCC anniversaries in August"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1987"
 sort_date: 1437657391000
+year: 2015
 pubDate: "23 Jul 2015 13:16:31 GMT"
 creator: "Ellen Schmidt"
 ---

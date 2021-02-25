@@ -2,6 +2,7 @@
 title: "Thanks for help at WYSE event"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=118"
 sort_date: 1297779322000
+year: 2011
 pubDate: "15 Feb 2011 14:15:22 GMT"
 creator: "Elizabeth Becvar"
 ---

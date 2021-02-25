@@ -2,6 +2,7 @@
 title: "KCC student wins Illinois Community College Juried Art Exhibit"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1023"
 sort_date: 1363286590000
+year: 2013
 pubDate: "14 Mar 2013 18:43:10 GMT"
 creator: "Ellen Schmidt"
 ---

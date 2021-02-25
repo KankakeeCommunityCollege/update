@@ -2,6 +2,7 @@
 title: "Extended deadline for Medical Assistant program"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=644"
 sort_date: 1332514325000
+year: 2012
 pubDate: "23 Mar 2012 14:52:05 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Crite competes in Miss Illinois USA pageant"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2272"
 sort_date: 1471617834000
+year: 2016
 pubDate: "19 Aug 2016 14:43:54 GMT"
 creator: "Ellen Schmidt"
 ---

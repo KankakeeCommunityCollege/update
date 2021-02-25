@@ -2,6 +2,7 @@
 title: "Build Gingerbread House & help Harbor House"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1317"
 sort_date: 1383926092000
+year: 2013
 pubDate: "08 Nov 2013 15:54:52 GMT"
 creator: "Ellen Schmidt"
 ---

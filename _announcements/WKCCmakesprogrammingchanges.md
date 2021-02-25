@@ -2,6 +2,7 @@
 title: "WKCC makes programming changes"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=864"
 sort_date: 1351009360000
+year: 2012
 pubDate: "23 Oct 2012 16:22:40 GMT"
 creator: "Ellen Schmidt"
 ---

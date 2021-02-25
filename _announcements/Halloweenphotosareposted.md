@@ -2,6 +2,7 @@
 title: "Halloween photos are posted"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1704"
 sort_date: 1415033913000
+year: 2014
 pubDate: "03 Nov 2014 16:58:33 GMT"
 creator: "Ellen Schmidt"
 ---

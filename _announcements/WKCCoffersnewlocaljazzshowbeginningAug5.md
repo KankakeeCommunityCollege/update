@@ -2,6 +2,7 @@
 title: "WKCC offers new local jazz show beginning Aug. 5"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=378"
 sort_date: 1310486259000
+year: 2011
 pubDate: "12 Jul 2011 15:57:39 GMT"
 creator: "Ellen Schmidt"
 ---

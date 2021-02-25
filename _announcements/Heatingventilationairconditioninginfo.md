@@ -2,6 +2,7 @@
 title: "Heating, ventilation & air-conditioning info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=333"
 sort_date: 1307035379000
+year: 2011
 pubDate: "02 Jun 2011 17:22:59 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "3-D art to be on display in 19 locations"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1079"
 sort_date: 1366131434000
+year: 2013
 pubDate: "16 Apr 2013 16:57:14 GMT"
 creator: "Ellen Schmidt"
 ---

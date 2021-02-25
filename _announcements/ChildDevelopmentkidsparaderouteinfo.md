@@ -2,6 +2,7 @@
 title: "Child Development kids' parade route info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2055"
 sort_date: 1445012728000
+year: 2015
 pubDate: "16 Oct 2015 16:25:28 GMT"
 creator: "Ellen Schmidt"
 ---

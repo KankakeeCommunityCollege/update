@@ -2,6 +2,7 @@
 title: "Thanks-a-gram&colon; Jennifer Huggins"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2208"
 sort_date: 1461611794000
+year: 2016
 pubDate: "25 Apr 2016 19:16:34 GMT"
 creator: "Elizabeth Becvar"
 ---

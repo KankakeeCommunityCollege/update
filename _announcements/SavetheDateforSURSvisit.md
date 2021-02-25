@@ -2,6 +2,7 @@
 title: "​Save the Date for SURS visit"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2119"
 sort_date: 1450205975000
+year: 2015
 pubDate: "15 Dec 2015 18:59:35 GMT"
 creator: "Ellen Schmidt"
 ---

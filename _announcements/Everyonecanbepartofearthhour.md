@@ -2,6 +2,7 @@
 title: "Everyone can be part of earth hour "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=647"
 sort_date: 1332790279000
+year: 2012
 pubDate: "26 Mar 2012 19:31:19 GMT"
 creator: "Ellen Schmidt"
 ---

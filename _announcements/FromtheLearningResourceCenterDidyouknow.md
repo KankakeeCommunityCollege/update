@@ -2,6 +2,7 @@
 title: "From the Learning Resource Center&colon; Did you know?"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=515"
 sort_date: 1321022776000
+year: 2011
 pubDate: "11 Nov 2011 14:46:16 GMT"
 creator: "Ellen Schmidt"
 ---

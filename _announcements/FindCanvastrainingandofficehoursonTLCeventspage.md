@@ -2,6 +2,7 @@
 title: "Find Canvas training and office hours on TLC events page"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1681"
 sort_date: 1413562439000
+year: 2014
 pubDate: "17 Oct 2014 16:13:59 GMT"
 creator: "Ellen Schmidt"
 ---

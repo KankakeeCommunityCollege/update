@@ -2,6 +2,7 @@
 title: "Read for scholarships"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1411"
 sort_date: 1391783796000
+year: 2014
 pubDate: "07 Feb 2014 14:36:36 GMT"
 creator: "Ellen Schmidt"
 ---

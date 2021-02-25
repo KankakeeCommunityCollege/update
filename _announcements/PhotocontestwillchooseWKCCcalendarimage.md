@@ -2,6 +2,7 @@
 title: "Photo contest will choose WKCC calendar image "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=816"
 sort_date: 1347569968000
+year: 2012
 pubDate: "13 Sep 2012 20:59:28 GMT"
 creator: "Ellen Schmidt"
 ---

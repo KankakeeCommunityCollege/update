@@ -2,6 +2,7 @@
 title: "Denim day&colon; 8/3"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=767"
 sort_date: 1343768464000
+year: 2012
 pubDate: "31 Jul 2012 21:01:04 GMT"
 creator: "Ellen Schmidt"
 ---

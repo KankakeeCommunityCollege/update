@@ -2,6 +2,7 @@
 title: "Remote file access now available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=573"
 sort_date: 1326301730000
+year: 2012
 pubDate: "11 Jan 2012 17:08:50 GMT"
 creator: "Ellen Schmidt"
 ---

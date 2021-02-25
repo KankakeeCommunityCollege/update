@@ -2,6 +2,7 @@
 title: "Ice Cream Social&colon; 8/18"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2486"
 sort_date: 1502803172000
+year: 2017
 pubDate: "15 Aug 2017 13:19:32 GMT"
 creator: "Elizabeth Becvar"
 ---

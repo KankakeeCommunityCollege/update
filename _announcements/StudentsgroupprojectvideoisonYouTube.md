@@ -2,6 +2,7 @@
 title: "Students’ group project video is on YouTube"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=699"
 sort_date: 1336075408000
+year: 2012
 pubDate: "03 May 2012 20:03:28 GMT"
 creator: "Ellen Schmidt"
 ---

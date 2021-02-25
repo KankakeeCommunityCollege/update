@@ -2,6 +2,7 @@
 title: "Area talent gets ready for Welding Rodeo&colon; 4/16  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=222"
 sort_date: 1302530133000
+year: 2011
 pubDate: "11 Apr 2011 13:55:33 GMT"
 creator: "Elizabeth Becvar"
 ---

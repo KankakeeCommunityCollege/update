@@ -2,6 +2,7 @@
 title: "Gearing up for the Gala"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2387"
 sort_date: 1487695629000
+year: 2017
 pubDate: "21 Feb 2017 16:47:09 GMT"
 creator: "Ellen Schmidt"
 ---

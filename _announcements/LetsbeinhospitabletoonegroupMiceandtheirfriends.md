@@ -2,6 +2,7 @@
 title: "Let’s be inhospitable to one group&colon; Mice and their friends"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=497"
 sort_date: 1319663034000
+year: 2011
 pubDate: "26 Oct 2011 21:03:54 GMT"
 creator: "Ellen Schmidt"
 ---

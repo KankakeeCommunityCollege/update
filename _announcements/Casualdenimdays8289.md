@@ -2,6 +2,7 @@
 title: "Casual/denim days&colon; 8/2 & 8/9"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1186"
 sort_date: 1375383138000
+year: 2013
 pubDate: "01 Aug 2013 18:52:18 GMT"
 creator: "Ellen Schmidt"
 ---

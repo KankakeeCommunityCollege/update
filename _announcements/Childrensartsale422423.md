@@ -2,6 +2,7 @@
 title: "Children's art sale 4/22 & 4/23"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1897"
 sort_date: 1429652122000
+year: 2015
 pubDate: "21 Apr 2015 21:35:22 GMT"
 creator: "Ellen Schmidt"
 ---

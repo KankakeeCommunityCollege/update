@@ -2,6 +2,7 @@
 title: "Concierge services include cell discounts and campus dry cleaning"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=494"
 sort_date: 1319549581000
+year: 2011
 pubDate: "25 Oct 2011 13:33:01 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Ugly holiday sweaters to impress us all"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2114"
 sort_date: 1449871674000
+year: 2015
 pubDate: "11 Dec 2015 22:07:54 GMT"
 creator: "Ellen Schmidt"
 ---

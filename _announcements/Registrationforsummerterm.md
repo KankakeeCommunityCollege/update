@@ -2,6 +2,7 @@
 title: "Registration for summer term"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1448"
 sort_date: 1395262921000
+year: 2014
 pubDate: "19 Mar 2014 21:02:01 GMT"
 creator: "Elizabeth Becvar"
 ---

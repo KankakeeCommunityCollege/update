@@ -2,6 +2,7 @@
 title: "Faculty have opportunity for summer grant-funded workshops"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1106"
 sort_date: 1367610416000
+year: 2013
 pubDate: "03 May 2013 19:46:56 GMT"
 creator: "Ellen Schmidt"
 ---

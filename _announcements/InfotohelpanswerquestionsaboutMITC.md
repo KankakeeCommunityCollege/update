@@ -2,6 +2,7 @@
 title: "Info to help answer questions about MITC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1384"
 sort_date: 1389200996000
+year: 2014
 pubDate: "08 Jan 2014 17:09:56 GMT"
 creator: "Ellen Schmidt"
 ---

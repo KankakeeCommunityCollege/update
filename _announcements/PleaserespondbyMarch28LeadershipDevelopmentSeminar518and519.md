@@ -2,6 +2,7 @@
 title: "Please respond by March 28&colon; Leadership Development Seminar&colon; 5/18 and 5/19"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=155"
 sort_date: 1299710887000
+year: 2011
 pubDate: "09 Mar 2011 22:48:07 GMT"
 creator: "Ellen Schmidt"
 ---

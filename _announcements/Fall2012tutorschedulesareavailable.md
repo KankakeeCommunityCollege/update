@@ -2,6 +2,7 @@
 title: "Fall 2012 tutor schedules are available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=769"
 sort_date: 1343932885000
+year: 2012
 pubDate: "02 Aug 2012 18:41:25 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Annual KCC Halloween Competition is just around the corner!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2305"
 sort_date: 1475614021000
+year: 2016
 pubDate: "04 Oct 2016 20:47:01 GMT"
 creator: "Ellen Schmidt"
 ---

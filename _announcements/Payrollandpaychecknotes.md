@@ -2,6 +2,7 @@
 title: "Payroll and paycheck notes"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2346"
 sort_date: 1481208355000
+year: 2016
 pubDate: "08 Dec 2016 14:45:55 GMT"
 creator: "Ellen Schmidt"
 ---

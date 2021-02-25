@@ -2,6 +2,7 @@
 title: "Job Fair Boot Camp offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=82"
 sort_date: 1295977708000
+year: 2011
 pubDate: "25 Jan 2011 17:48:28 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

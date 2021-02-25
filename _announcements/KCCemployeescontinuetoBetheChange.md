@@ -2,6 +2,7 @@
 title: "KCC employees continue to “Be the Change”"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1009"
 sort_date: 1362065362000
+year: 2013
 pubDate: "28 Feb 2013 15:29:22 GMT"
 creator: "Ellen Schmidt"
 ---

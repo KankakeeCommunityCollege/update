@@ -2,6 +2,7 @@
 title: "GED orientations offered Fall 2015"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1968"
 sort_date: 1435785945000
+year: 2015
 pubDate: "01 Jul 2015 21:25:45 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Oxygen Bar&colon; 12/16"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1637"
 sort_date: 1411138035000
+year: 2014
 pubDate: "19 Sep 2014 14:47:15 GMT"
 creator: "Elizabeth Becvar"
 ---

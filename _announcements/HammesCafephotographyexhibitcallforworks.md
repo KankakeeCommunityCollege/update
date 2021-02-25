@@ -2,6 +2,7 @@
 title: "Hammes Cafe photography exhibit call for works"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1905"
 sort_date: 1430229519000
+year: 2015
 pubDate: "28 Apr 2015 13:58:39 GMT"
 creator: "Kari Nugent"
 ---

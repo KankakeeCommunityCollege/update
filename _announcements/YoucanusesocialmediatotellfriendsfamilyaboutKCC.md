@@ -2,6 +2,7 @@
 title: "You can use social media to tell friends/family about KCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2477"
 sort_date: 1501592587000
+year: 2017
 pubDate: "01 Aug 2017 13:03:07 GMT"
 creator: "Elizabeth Becvar"
 ---

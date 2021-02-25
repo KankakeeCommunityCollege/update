@@ -2,6 +2,7 @@
 title: "National Radiologic Technology Week is 11/2-8"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1693"
 sort_date: 1414172984000
+year: 2014
 pubDate: "24 Oct 2014 17:49:44 GMT"
 creator: "Ellen Schmidt"
 ---

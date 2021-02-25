@@ -2,6 +2,7 @@
 title: "Retirement party thank-you"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=691"
 sort_date: 1335814324000
+year: 2012
 pubDate: "30 Apr 2012 19:32:04 GMT"
 creator: "Ellen Schmidt"
 ---

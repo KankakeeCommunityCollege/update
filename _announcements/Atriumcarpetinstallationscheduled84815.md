@@ -2,6 +2,7 @@
 title: "Atrium carpet installation scheduled 8/4-8/15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1579"
 sort_date: 1406822959000
+year: 2014
 pubDate: "31 Jul 2014 16:09:19 GMT"
 creator: "Ellen Schmidt"
 ---

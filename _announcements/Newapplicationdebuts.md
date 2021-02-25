@@ -2,6 +2,7 @@
 title: "New application debuts"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2389"
 sort_date: 1487966670000
+year: 2017
 pubDate: "24 Feb 2017 20:04:30 GMT"
 creator: "Ellen Schmidt"
 ---

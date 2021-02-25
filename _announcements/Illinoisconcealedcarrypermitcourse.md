@@ -2,6 +2,7 @@
 title: "Illinois concealed carry permit course"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1385"
 sort_date: 1389214101000
+year: 2014
 pubDate: "08 Jan 2014 20:48:21 GMT"
 creator: "Elizabeth Becvar"
 ---

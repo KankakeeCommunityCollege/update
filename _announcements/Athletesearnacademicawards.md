@@ -2,6 +2,7 @@
 title: "Athletes earn academic awards"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1561"
 sort_date: 1404999182000
+year: 2014
 pubDate: "10 Jul 2014 13:33:02 GMT"
 creator: "Elizabeth Becvar"
 ---

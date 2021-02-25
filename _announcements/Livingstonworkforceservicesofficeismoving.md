@@ -2,6 +2,7 @@
 title: "Livingston workforce services office is moving"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1738"
 sort_date: 1416493761000
+year: 2014
 pubDate: "20 Nov 2014 14:29:21 GMT"
 creator: "Elizabeth Becvar"
 ---

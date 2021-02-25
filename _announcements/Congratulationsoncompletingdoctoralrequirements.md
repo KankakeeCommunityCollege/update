@@ -2,6 +2,7 @@
 title: "Congratulations on completing doctoral requirements"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1452"
 sort_date: 1395760185000
+year: 2014
 pubDate: "25 Mar 2014 15:09:45 GMT"
 creator: "Ellen Schmidt"
 ---

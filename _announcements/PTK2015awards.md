@@ -2,6 +2,7 @@
 title: "PTK 2015 awards"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1985"
 sort_date: 1436963983000
+year: 2015
 pubDate: "15 Jul 2015 12:39:43 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Green Tips from KCC students – 9/26"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=432"
 sort_date: 1315339318000
+year: 2011
 pubDate: "06 Sep 2011 20:01:58 GMT"
 creator: "Ellen Schmidt"
 ---

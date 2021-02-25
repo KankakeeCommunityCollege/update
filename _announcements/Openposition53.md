@@ -2,6 +2,7 @@
 title: "Open position&colon; 5/3"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1104"
 sort_date: 1367600708000
+year: 2013
 pubDate: "03 May 2013 17:05:08 GMT"
 creator: "Ellen Schmidt"
 ---

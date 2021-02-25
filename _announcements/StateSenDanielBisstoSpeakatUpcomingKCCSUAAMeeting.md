@@ -2,6 +2,7 @@
 title: "​State Sen. Daniel Biss to Speak at Upcoming KCC SUAA Meeting"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2482"
 sort_date: 1502720609000
+year: 2017
 pubDate: "14 Aug 2017 14:23:29 GMT"
 creator: "Ellen Schmidt"
 ---

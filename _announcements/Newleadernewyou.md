@@ -2,6 +2,7 @@
 title: "New leader, new you"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1222"
 sort_date: 1377892499000
+year: 2013
 pubDate: "30 Aug 2013 19:54:59 GMT"
 creator: "Kari Nugent"
 ---

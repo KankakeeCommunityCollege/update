@@ -2,6 +2,7 @@
 title: "More information about South Extension Center "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1184"
 sort_date: 1375284311000
+year: 2013
 pubDate: "31 Jul 2013 15:25:11 GMT"
 creator: "Ellen Schmidt"
 ---

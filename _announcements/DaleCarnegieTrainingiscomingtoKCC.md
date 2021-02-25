@@ -2,6 +2,7 @@
 title: "Dale Carnegie Training is coming to KCC "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=186"
 sort_date: 1301343677000
+year: 2011
 pubDate: "28 Mar 2011 20:21:17 GMT"
 creator: "Elizabeth Becvar"
 ---

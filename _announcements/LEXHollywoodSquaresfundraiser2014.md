@@ -2,6 +2,7 @@
 title: "​LEX Hollywood Squares fundraiser 2014"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1621"
 sort_date: 1410362040000
+year: 2014
 pubDate: "10 Sep 2014 15:14:00 GMT"
 creator: "Elizabeth Becvar"
 ---

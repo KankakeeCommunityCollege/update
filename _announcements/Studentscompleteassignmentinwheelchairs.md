@@ -2,6 +2,7 @@
 title: "Students complete assignment in wheelchairs"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=841"
 sort_date: 1349367859000
+year: 2012
 pubDate: "04 Oct 2012 16:24:19 GMT"
 creator: "Ellen Schmidt"
 ---

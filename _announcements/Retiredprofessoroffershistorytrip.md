@@ -2,6 +2,7 @@
 title: "Retired professor offers history trip"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1661"
 sort_date: 1412697379000
+year: 2014
 pubDate: "07 Oct 2014 15:56:19 GMT"
 creator: "Ellen Schmidt"
 ---

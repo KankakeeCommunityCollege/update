@@ -2,6 +2,7 @@
 title: "Info on '360-degree evaluations'"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1001"
 sort_date: 1361549781000
+year: 2013
 pubDate: "22 Feb 2013 16:16:21 GMT"
 creator: "Ellen Schmidt"
 ---

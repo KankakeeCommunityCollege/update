@@ -2,6 +2,7 @@
 title: "Tutor labs are relocated during HVAC project"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=325"
 sort_date: 1306446101000
+year: 2011
 pubDate: "26 May 2011 21:41:41 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "2 trees still available for holiday decorating contest"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1349"
 sort_date: 1385571825000
+year: 2013
 pubDate: "27 Nov 2013 17:03:45 GMT"
 creator: "Ellen Schmidt"
 ---

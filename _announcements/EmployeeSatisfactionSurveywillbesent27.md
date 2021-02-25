@@ -2,6 +2,7 @@
 title: "Employee Satisfaction Survey will be sent 2/7 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=106"
 sort_date: 1296858583000
+year: 2011
 pubDate: "04 Feb 2011 22:29:43 GMT"
 creator: "Ellen Schmidt"
 ---

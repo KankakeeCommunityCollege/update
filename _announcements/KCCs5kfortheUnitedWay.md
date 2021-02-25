@@ -2,6 +2,7 @@
 title: "KCC's 5k for the United Way"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=788"
 sort_date: 1345663780000
+year: 2012
 pubDate: "22 Aug 2012 19:29:40 GMT"
 creator: "Elizabeth Becvar"
 ---

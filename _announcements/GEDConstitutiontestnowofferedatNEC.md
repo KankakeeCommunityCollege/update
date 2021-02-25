@@ -2,6 +2,7 @@
 title: "GED Constitution test now offered at NEC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1857"
 sort_date: 1426522264000
+year: 2015
 pubDate: "16 Mar 2015 16:11:04 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "March Madness in Hammes Bookstore&colon; 3/12-3/30"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=632"
 sort_date: 1331242146000
+year: 2012
 pubDate: "08 Mar 2012 21:29:06 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "KCC student chosen for student leadership program"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1456"
 sort_date: 1396033279000
+year: 2014
 pubDate: "28 Mar 2014 19:01:19 GMT"
 creator: "Ellen Schmidt"
 ---

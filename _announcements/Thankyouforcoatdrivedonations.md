@@ -2,6 +2,7 @@
 title: "Thank you for coat drive donations"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1328"
 sort_date: 1384801843000
+year: 2013
 pubDate: "18 Nov 2013 19:10:43 GMT"
 creator: "Elizabeth Becvar"
 ---

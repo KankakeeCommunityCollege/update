@@ -2,6 +2,7 @@
 title: "Students encouraged to attend CQR Forum"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2155"
 sort_date: 1454608072000
+year: 2016
 pubDate: "04 Feb 2016 17:47:52 GMT"
 creator: "Elizabeth Becvar"
 ---

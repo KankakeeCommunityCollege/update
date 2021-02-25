@@ -2,6 +2,7 @@
 title: "United Way wrap-up"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2412"
 sort_date: 1491512088000
+year: 2017
 pubDate: "06 Apr 2017 20:54:48 GMT"
 creator: "Ellen Schmidt"
 ---

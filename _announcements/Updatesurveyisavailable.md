@@ -2,6 +2,7 @@
 title: "Update survey is available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2100"
 sort_date: 1449002404000
+year: 2015
 pubDate: "01 Dec 2015 20:40:04 GMT"
 creator: "Ellen Schmidt"
 ---

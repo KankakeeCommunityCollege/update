@@ -2,6 +2,7 @@
 title: "Congratulations on U.S. citizenship!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1027"
 sort_date: 1363623718000
+year: 2013
 pubDate: "18 Mar 2013 16:21:58 GMT"
 creator: "Ellen Schmidt"
 ---

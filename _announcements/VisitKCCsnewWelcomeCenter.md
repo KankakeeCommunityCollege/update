@@ -2,6 +2,7 @@
 title: "​Visit KCC’s new Welcome Center! "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2197"
 sort_date: 1459955901000
+year: 2016
 pubDate: "06 Apr 2016 15:18:21 GMT"
 creator: "Ellen Schmidt"
 ---

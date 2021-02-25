@@ -2,6 +2,7 @@
 title: "Notice to SURS members regarding upcoming board election"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=542"
 sort_date: 1322837179000
+year: 2011
 pubDate: "02 Dec 2011 14:46:19 GMT"
 creator: "Ellen Schmidt"
 ---

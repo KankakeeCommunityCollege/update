@@ -2,6 +2,7 @@
 title: "Instructor receives community service award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1569"
 sort_date: 1406120361000
+year: 2014
 pubDate: "23 Jul 2014 12:59:21 GMT"
 creator: "Ellen Schmidt"
 ---

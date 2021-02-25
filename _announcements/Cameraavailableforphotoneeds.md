@@ -2,6 +2,7 @@
 title: "Camera available for photo needs "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=275"
 sort_date: 1304344376000
+year: 2011
 pubDate: "02 May 2011 13:52:56 GMT"
 creator: "Elizabeth Becvar"
 ---

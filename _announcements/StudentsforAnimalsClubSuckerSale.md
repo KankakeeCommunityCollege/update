@@ -2,6 +2,7 @@
 title: "Students for Animals Club Sucker Sale"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=862"
 sort_date: 1351004380000
+year: 2012
 pubDate: "23 Oct 2012 14:59:40 GMT"
 creator: "Nancy Schunke"
 ---

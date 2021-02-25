@@ -2,6 +2,7 @@
 title: "In-service survey results are posted"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=808"
 sort_date: 1346942146000
+year: 2012
 pubDate: "06 Sep 2012 14:35:46 GMT"
 creator: "Ellen Schmidt"
 ---

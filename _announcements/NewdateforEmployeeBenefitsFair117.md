@@ -2,6 +2,7 @@
 title: "​New date for Employee Benefits Fair&colon; 11/7"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2316"
 sort_date: 1476994598000
+year: 2016
 pubDate: "20 Oct 2016 20:16:38 GMT"
 creator: "Ellen Schmidt"
 ---

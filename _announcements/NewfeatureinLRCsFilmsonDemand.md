@@ -2,6 +2,7 @@
 title: "New feature in LRC's &quot;Films on Demand&quot;"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=674"
 sort_date: 1334871523000
+year: 2012
 pubDate: "19 Apr 2012 21:38:43 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Deadline extended for history trip"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1732"
 sort_date: 1416235350000
+year: 2014
 pubDate: "17 Nov 2014 14:42:30 GMT"
 creator: "Ellen Schmidt"
 ---

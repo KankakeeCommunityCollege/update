@@ -2,6 +2,7 @@
 title: "SUAA executive director will speak at Employee Benefits Fair"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2070"
 sort_date: 1446733715000
+year: 2015
 pubDate: "05 Nov 2015 14:28:35 GMT"
 creator: "Ellen Schmidt"
 ---

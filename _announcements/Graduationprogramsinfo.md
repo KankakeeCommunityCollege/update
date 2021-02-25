@@ -2,6 +2,7 @@
 title: "Graduation programs info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1919"
 sort_date: 1431094650000
+year: 2015
 pubDate: "08 May 2015 14:17:30 GMT"
 creator: "Ellen Schmidt"
 ---

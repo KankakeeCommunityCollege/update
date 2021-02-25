@@ -2,6 +2,7 @@
 title: "Retirement reception for Lyn Earls&colon; 4/27"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=660"
 sort_date: 1333720824000
+year: 2012
 pubDate: "06 Apr 2012 14:00:24 GMT"
 creator: "Ellen Schmidt"
 ---

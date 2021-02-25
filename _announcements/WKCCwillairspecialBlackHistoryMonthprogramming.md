@@ -2,6 +2,7 @@
 title: "WKCC will air special Black History Month programming"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=576"
 sort_date: 1326467844000
+year: 2012
 pubDate: "13 Jan 2012 15:17:24 GMT"
 creator: "Ellen Schmidt"
 ---

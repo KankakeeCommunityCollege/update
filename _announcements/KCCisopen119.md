@@ -2,6 +2,7 @@
 title: "KCC is open 1/19"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=959"
 sort_date: 1358346333000
+year: 2013
 pubDate: "16 Jan 2013 14:25:33 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "KCC Iroquois County satellite new hours begin Feb. 1"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=78"
 sort_date: 1295372286000
+year: 2011
 pubDate: "18 Jan 2011 17:38:06 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Master lists are on O drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=148"
 sort_date: 1299266932000
+year: 2011
 pubDate: "04 Mar 2011 19:28:52 GMT"
 creator: "Elizabeth Becvar"
 ---

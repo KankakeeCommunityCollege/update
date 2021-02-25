@@ -2,6 +2,7 @@
 title: "MLT student featured in publication"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=34"
 sort_date: 1291929103000
+year: 2010
 pubDate: "09 Dec 2010 21:11:43 GMT"
 creator: "Ellen Schmidt"
 ---

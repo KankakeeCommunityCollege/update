@@ -2,6 +2,7 @@
 title: "Completion pledge drive nets almost 700 signatures"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=503"
 sort_date: 1320096781000
+year: 2011
 pubDate: "31 Oct 2011 21:33:01 GMT"
 creator: "Ellen Schmidt"
 ---

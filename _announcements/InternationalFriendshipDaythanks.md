@@ -2,6 +2,7 @@
 title: "International Friendship Day thanks  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=252"
 sort_date: 1303750530000
+year: 2011
 pubDate: "25 Apr 2011 16:55:30 GMT"
 creator: "Elizabeth Becvar"
 ---

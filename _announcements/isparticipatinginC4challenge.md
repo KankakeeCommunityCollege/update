@@ -2,6 +2,7 @@
 title: "ΦΘΚ is participating in C4 challenge"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1699"
 sort_date: 1414594769000
+year: 2014
 pubDate: "29 Oct 2014 14:59:29 GMT"
 creator: "Ellen Schmidt"
 ---

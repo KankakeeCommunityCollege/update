@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Student Services/Admissions & Registration & the whole  KCC organization"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1107"
 sort_date: 1367934258000
+year: 2013
 pubDate: "07 May 2013 13:44:18 GMT"
 creator: "Elizabeth Becvar"
 ---

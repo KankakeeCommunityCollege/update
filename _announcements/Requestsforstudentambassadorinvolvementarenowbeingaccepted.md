@@ -2,6 +2,7 @@
 title: "Requests for student ambassador involvement are now being accepted"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1164"
 sort_date: 1373494862000
+year: 2013
 pubDate: "10 Jul 2013 22:21:02 GMT"
 creator: "Ellen Schmidt"
 ---

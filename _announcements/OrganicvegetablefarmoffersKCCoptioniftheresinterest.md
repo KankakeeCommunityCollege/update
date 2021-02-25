@@ -2,6 +2,7 @@
 title: "Organic vegetable farm offers KCC option if there's interest"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=693"
 sort_date: 1335881333000
+year: 2012
 pubDate: "01 May 2012 14:08:53 GMT"
 creator: "Ellen Schmidt"
 ---

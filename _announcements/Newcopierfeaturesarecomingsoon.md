@@ -2,6 +2,7 @@
 title: "New copier features are coming soon"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1957"
 sort_date: 1435175744000
+year: 2015
 pubDate: "24 Jun 2015 19:55:44 GMT"
 creator: "Ellen Schmidt"
 ---

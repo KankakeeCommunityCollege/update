@@ -2,6 +2,7 @@
 title: "Sports camps offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=213"
 sort_date: 1302195348000
+year: 2011
 pubDate: "07 Apr 2011 16:55:48 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Thanks for digging pink "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=501"
 sort_date: 1319836079000
+year: 2011
 pubDate: "28 Oct 2011 21:07:59 GMT"
 creator: "Ellen Schmidt"
 ---

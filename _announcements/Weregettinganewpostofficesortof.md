@@ -2,6 +2,7 @@
 title: "We're getting a new post office … sort of"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=36"
 sort_date: 1291935688000
+year: 2010
 pubDate: "09 Dec 2010 23:01:28 GMT"
 creator: "Ellen Schmidt"
 ---

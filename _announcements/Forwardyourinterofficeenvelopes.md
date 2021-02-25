@@ -2,6 +2,7 @@
 title: "Forward your interoffice envelopes"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1991"
 sort_date: 1438206321000
+year: 2015
 pubDate: "29 Jul 2015 21:45:21 GMT"
 creator: "Kari Nugent"
 ---

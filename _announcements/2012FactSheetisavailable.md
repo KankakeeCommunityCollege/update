@@ -2,6 +2,7 @@
 title: "2012 Fact Sheet is available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=724"
 sort_date: 1338396167000
+year: 2012
 pubDate: "30 May 2012 16:42:47 GMT"
 creator: "Ellen Schmidt"
 ---

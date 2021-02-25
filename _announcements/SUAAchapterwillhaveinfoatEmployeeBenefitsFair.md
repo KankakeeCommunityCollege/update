@@ -2,6 +2,7 @@
 title: "SUAA chapter will have info at Employee Benefits Fair"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=511"
 sort_date: 1320937905000
+year: 2011
 pubDate: "10 Nov 2011 15:11:45 GMT"
 creator: "Ellen Schmidt"
 ---

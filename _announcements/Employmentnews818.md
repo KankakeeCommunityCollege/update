@@ -2,6 +2,7 @@
 title: "Employment news - 8/18"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=408"
 sort_date: 1313760176000
+year: 2011
 pubDate: "19 Aug 2011 13:22:56 GMT"
 creator: "Ellen Schmidt"
 ---

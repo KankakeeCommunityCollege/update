@@ -2,6 +2,7 @@
 title: "Discounts on vision care and hearing aids"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2063"
 sort_date: 1445957862000
+year: 2015
 pubDate: "27 Oct 2015 14:57:42 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Viewing events on R25"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=852"
 sort_date: 1350056785000
+year: 2012
 pubDate: "12 Oct 2012 15:46:25 GMT"
 creator: "Ellen Schmidt"
 ---

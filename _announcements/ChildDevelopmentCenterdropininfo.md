@@ -2,6 +2,7 @@
 title: "Child Development Center 'drop-in' info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=916"
 sort_date: 1353518309000
+year: 2012
 pubDate: "21 Nov 2012 17:18:29 GMT"
 creator: "Ellen Schmidt"
 ---

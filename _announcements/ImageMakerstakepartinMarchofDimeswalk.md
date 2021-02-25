@@ -2,6 +2,7 @@
 title: "Image Makers take part in March of Dimes walk "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=257"
 sort_date: 1303751446000
+year: 2011
 pubDate: "25 Apr 2011 17:10:46 GMT"
 creator: "Elizabeth Becvar"
 ---

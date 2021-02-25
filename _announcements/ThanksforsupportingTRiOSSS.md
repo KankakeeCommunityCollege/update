@@ -2,6 +2,7 @@
 title: "Thanks for supporting TRiO SSS"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1673"
 sort_date: 1413379700000
+year: 2014
 pubDate: "15 Oct 2014 13:28:20 GMT"
 creator: "Ellen Schmidt"
 ---

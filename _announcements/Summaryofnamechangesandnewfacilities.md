@@ -2,6 +2,7 @@
 title: "Summary of name changes and new facilities"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1272"
 sort_date: 1380914403000
+year: 2013
 pubDate: "04 Oct 2013 19:20:03 GMT"
 creator: "Ellen Schmidt"
 ---

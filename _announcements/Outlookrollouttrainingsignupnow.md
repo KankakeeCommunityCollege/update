@@ -2,6 +2,7 @@
 title: "Outlook rollout training -- sign up now"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=76"
 sort_date: 1295360556000
+year: 2011
 pubDate: "18 Jan 2011 14:22:36 GMT"
 creator: "Elizabeth Becvar"
 ---

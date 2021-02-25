@@ -2,6 +2,7 @@
 title: "KCC celebrates 23 years with radio license  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=308"
 sort_date: 1305552985000
+year: 2011
 pubDate: "16 May 2011 13:36:25 GMT"
 creator: "Elizabeth Becvar"
 ---

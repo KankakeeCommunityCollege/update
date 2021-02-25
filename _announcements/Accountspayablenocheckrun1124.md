@@ -2,6 +2,7 @@
 title: "Accounts payable&colon; no check run 11/24"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=484"
 sort_date: 1318602071000
+year: 2011
 pubDate: "14 Oct 2011 14:21:11 GMT"
 creator: "Elizabeth Becvar"
 ---

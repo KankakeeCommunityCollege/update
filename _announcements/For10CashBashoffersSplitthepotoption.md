@@ -2,6 +2,7 @@
 title: "For $10 -- Cash Bash offers 'Split the pot' option "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=998"
 sort_date: 1361217405000
+year: 2013
 pubDate: "18 Feb 2013 19:56:45 GMT"
 creator: "Ellen Schmidt"
 ---

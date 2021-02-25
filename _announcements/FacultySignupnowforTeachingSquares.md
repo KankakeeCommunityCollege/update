@@ -2,6 +2,7 @@
 title: "Faculty&colon; Sign up now for Teaching Squares"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2361"
 sort_date: 1484078045000
+year: 2017
 pubDate: "10 Jan 2017 19:54:05 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Details on lost and found procedures"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=940"
 sort_date: 1355934591000
+year: 2012
 pubDate: "19 Dec 2012 16:29:51 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Some people have moved offices"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1597"
 sort_date: 1408631884000
+year: 2014
 pubDate: "21 Aug 2014 14:38:04 GMT"
 creator: "Ellen Schmidt"
 ---

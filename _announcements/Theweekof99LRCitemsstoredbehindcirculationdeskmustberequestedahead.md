@@ -2,6 +2,7 @@
 title: "The week of 9/9, LRC items stored behind circulation desk must be requested ahead"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1225"
 sort_date: 1378237413000
+year: 2013
 pubDate: "03 Sep 2013 19:43:33 GMT"
 creator: "Ellen Schmidt"
 ---

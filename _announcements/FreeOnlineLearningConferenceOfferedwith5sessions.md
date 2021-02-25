@@ -2,6 +2,7 @@
 title: "Free Online Learning Conference Offered with 5 sessions "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1810"
 sort_date: 1422991505000
+year: 2015
 pubDate: "03 Feb 2015 19:25:05 GMT"
 creator: "Ellen Schmidt"
 ---

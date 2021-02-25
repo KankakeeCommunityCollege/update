@@ -2,6 +2,7 @@
 title: "2 dozen celebrate November anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=463"
 sort_date: 1317409492000
+year: 2011
 pubDate: "30 Sep 2011 19:04:52 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

@@ -2,6 +2,7 @@
 title: "'Run.Hide.Fight.' video is available online"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=896"
 sort_date: 1352389557000
+year: 2012
 pubDate: "08 Nov 2012 15:45:57 GMT"
 creator: "Ellen Schmidt"
 ---

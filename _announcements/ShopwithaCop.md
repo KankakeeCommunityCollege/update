@@ -2,6 +2,7 @@
 title: "Shop with a Cop"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1769"
 sort_date: 1418397192000
+year: 2014
 pubDate: "12 Dec 2014 15:13:12 GMT"
 creator: "Elizabeth Becvar"
 ---

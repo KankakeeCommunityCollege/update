@@ -2,6 +2,7 @@
 title: "WYSE competition is 2/4"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1397"
 sort_date: 1389985551000
+year: 2014
 pubDate: "17 Jan 2014 19:05:51 GMT"
 creator: "Ellen Schmidt"
 ---

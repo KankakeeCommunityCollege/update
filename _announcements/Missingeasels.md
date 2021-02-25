@@ -2,6 +2,7 @@
 title: "​Missing easels"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2539"
 sort_date: 1508526695000
+year: 2017
 pubDate: "20 Oct 2017 19:11:35 GMT"
 creator: "Elizabeth Becvar"
 ---

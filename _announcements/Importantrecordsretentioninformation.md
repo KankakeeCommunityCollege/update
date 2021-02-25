@@ -2,6 +2,7 @@
 title: "Important records retention information"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1084"
 sort_date: 1366216171000
+year: 2013
 pubDate: "17 Apr 2013 16:29:31 GMT"
 creator: "Ellen Schmidt"
 ---

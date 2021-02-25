@@ -2,6 +2,7 @@
 title: "Retirement reception for Kathy Weber&colon; 5/15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=698"
 sort_date: 1336070303000
+year: 2012
 pubDate: "03 May 2012 18:38:23 GMT"
 creator: "Ellen Schmidt"
 ---

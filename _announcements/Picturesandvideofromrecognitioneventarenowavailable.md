@@ -2,6 +2,7 @@
 title: "Pictures and video from recognition event are now available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=876"
 sort_date: 1351701598000
+year: 2012
 pubDate: "31 Oct 2012 16:39:58 GMT"
 creator: "Ellen Schmidt"
 ---

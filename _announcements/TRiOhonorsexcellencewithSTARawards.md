@@ -2,6 +2,7 @@
 title: "TRiO honors excellence with S.T.A.R. awards  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=240"
 sort_date: 1303738404000
+year: 2011
 pubDate: "25 Apr 2011 13:33:24 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "ITS releasing new email features"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=842"
 sort_date: 1349380062000
+year: 2012
 pubDate: "04 Oct 2012 19:47:42 GMT"
 creator: "Ellen Schmidt"
 ---

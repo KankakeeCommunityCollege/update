@@ -2,6 +2,7 @@
 title: "​Calling all KCC golfers"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1907"
 sort_date: 1430251299000
+year: 2015
 pubDate: "28 Apr 2015 20:01:39 GMT"
 creator: "Ellen Schmidt"
 ---

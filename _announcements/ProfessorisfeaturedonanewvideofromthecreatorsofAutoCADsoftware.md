@@ -2,6 +2,7 @@
 title: "Professor is featured on a new video from the creators of AutoCAD software"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=466"
 sort_date: 1317821422000
+year: 2011
 pubDate: "05 Oct 2011 13:30:22 GMT"
 creator: "Elizabeth Becvar"
 ---

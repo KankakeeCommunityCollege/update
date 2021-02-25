@@ -2,6 +2,7 @@
 title: "KCC student earns juried art exhibit award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1444"
 sort_date: 1394743415000
+year: 2014
 pubDate: "13 Mar 2014 20:43:35 GMT"
 creator: "Elizabeth Becvar"
 ---

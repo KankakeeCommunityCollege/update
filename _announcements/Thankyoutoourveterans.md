@@ -2,6 +2,7 @@
 title: "Thank you to our veterans"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=893"
 sort_date: 1352308861000
+year: 2012
 pubDate: "07 Nov 2012 17:21:01 GMT"
 creator: "Elizabeth Becvar"
 ---

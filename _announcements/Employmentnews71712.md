@@ -2,6 +2,7 @@
 title: "Employment news – 7/17/12 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=758"
 sort_date: 1342618985000
+year: 2012
 pubDate: "18 Jul 2012 13:43:05 GMT"
 creator: "Ellen Schmidt"
 ---

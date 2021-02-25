@@ -2,6 +2,7 @@
 title: "Casual day&colon; 7/6"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=752"
 sort_date: 1341339914000
+year: 2012
 pubDate: "03 Jul 2012 18:25:14 GMT"
 creator: "Ellen Schmidt"
 ---

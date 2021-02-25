@@ -2,6 +2,7 @@
 title: "Notes on using ANGEL"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=506"
 sort_date: 1320261213000
+year: 2011
 pubDate: "02 Nov 2011 19:13:33 GMT"
 creator: "Ellen Schmidt"
 ---

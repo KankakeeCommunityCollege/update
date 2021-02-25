@@ -2,6 +2,7 @@
 title: "In-service agenda is posted"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2216"
 sort_date: 1463162738000
+year: 2016
 pubDate: "13 May 2016 18:05:38 GMT"
 creator: "Ellen Schmidt"
 ---

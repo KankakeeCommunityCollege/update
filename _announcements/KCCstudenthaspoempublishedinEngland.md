@@ -2,6 +2,7 @@
 title: "KCC student has poem published in England"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=35"
 sort_date: 1291930377000
+year: 2010
 pubDate: "09 Dec 2010 21:32:57 GMT"
 creator: "Ellen Schmidt"
 ---

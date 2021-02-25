@@ -2,6 +2,7 @@
 title: "SQL Migration Completion Celebration Postponed"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1813"
 sort_date: 1423244790000
+year: 2015
 pubDate: "06 Feb 2015 17:46:30 GMT"
 creator: "Ellen Schmidt"
 ---

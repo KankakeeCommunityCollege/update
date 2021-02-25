@@ -2,6 +2,7 @@
 title: "Videos featuring graduates are on YouTube channel"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=487"
 sort_date: 1318964374000
+year: 2011
 pubDate: "18 Oct 2011 18:59:34 GMT"
 creator: "Ellen Schmidt"
 ---

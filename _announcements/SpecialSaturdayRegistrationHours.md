@@ -2,6 +2,7 @@
 title: "Special Saturday Registration Hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1994"
 sort_date: 1438785482000
+year: 2015
 pubDate: "05 Aug 2015 14:38:02 GMT"
 creator: "Elizabeth Becvar"
 ---

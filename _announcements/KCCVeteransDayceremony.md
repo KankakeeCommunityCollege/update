@@ -2,6 +2,7 @@
 title: "KCC Veterans Day ceremony"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=898"
 sort_date: 1352477223000
+year: 2012
 pubDate: "09 Nov 2012 16:07:03 GMT"
 creator: "Elizabeth Becvar"
 ---

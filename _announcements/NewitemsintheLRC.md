@@ -2,6 +2,7 @@
 title: "New items in the LRC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=455"
 sort_date: 1316805147000
+year: 2011
 pubDate: "23 Sep 2011 19:12:27 GMT"
 creator: "Ellen Schmidt"
 ---

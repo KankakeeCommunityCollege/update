@@ -2,6 +2,7 @@
 title: "Nominate someone for 'under 40' accolades"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2296"
 sort_date: 1475082112000
+year: 2016
 pubDate: "28 Sep 2016 17:01:52 GMT"
 creator: "Ellen Schmidt"
 ---

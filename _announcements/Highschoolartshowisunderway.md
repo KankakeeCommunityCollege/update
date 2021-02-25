@@ -2,6 +2,7 @@
 title: "High school art show is underway"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1426"
 sort_date: 1393451721000
+year: 2014
 pubDate: "26 Feb 2014 21:55:21 GMT"
 creator: "Ellen Schmidt"
 ---

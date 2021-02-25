@@ -2,6 +2,7 @@
 title: "Inventory taskforce participants needed"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2405"
 sort_date: 1490637391000
+year: 2017
 pubDate: "27 Mar 2017 17:56:31 GMT"
 creator: "Elizabeth Becvar"
 ---

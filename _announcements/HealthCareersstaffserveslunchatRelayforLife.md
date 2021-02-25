@@ -2,6 +2,7 @@
 title: "Health Careers staff serves lunch at Relay for Life"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=739"
 sort_date: 1340055018000
+year: 2012
 pubDate: "18 Jun 2012 21:30:18 GMT"
 creator: "Elizabeth Becvar"
 ---

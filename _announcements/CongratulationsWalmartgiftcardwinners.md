@@ -2,6 +2,7 @@
 title: "Congratulations Walmart gift card winners"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=639"
 sort_date: 1331922843000
+year: 2012
 pubDate: "16 Mar 2012 18:34:03 GMT"
 creator: "Ellen Schmidt"
 ---

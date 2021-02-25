@@ -2,6 +2,7 @@
 title: "WKCC holiday celebrations will fill airwaves"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1770"
 sort_date: 1418398640000
+year: 2014
 pubDate: "12 Dec 2014 15:37:20 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "It's time--students need to petition"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=95"
 sort_date: 1296253530000
+year: 2011
 pubDate: "28 Jan 2011 22:25:30 GMT"
 creator: "Elizabeth Becvar"
 ---

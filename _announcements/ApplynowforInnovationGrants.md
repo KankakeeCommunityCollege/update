@@ -2,6 +2,7 @@
 title: "​Apply now for Innovation Grants!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2014"
 sort_date: 1440517776000
+year: 2015
 pubDate: "25 Aug 2015 15:49:36 GMT"
 creator: "Ellen Schmidt"
 ---

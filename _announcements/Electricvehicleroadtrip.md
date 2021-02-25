@@ -2,6 +2,7 @@
 title: "Electric vehicle road trip"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1534"
 sort_date: 1401893585000
+year: 2014
 pubDate: "04 Jun 2014 14:53:05 GMT"
 creator: "Elizabeth Becvar"
 ---

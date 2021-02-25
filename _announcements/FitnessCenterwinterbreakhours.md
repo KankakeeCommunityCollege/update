@@ -2,6 +2,7 @@
 title: "Fitness Center winter break hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=39"
 sort_date: 1292011670000
+year: 2010
 pubDate: "10 Dec 2010 20:07:50 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

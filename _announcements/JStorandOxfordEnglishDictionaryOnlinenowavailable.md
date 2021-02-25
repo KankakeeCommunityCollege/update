@@ -2,6 +2,7 @@
 title: "J-Stor and Oxford English Dictionary Online now available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1332"
 sort_date: 1384969699000
+year: 2013
 pubDate: "20 Nov 2013 17:48:19 GMT"
 creator: "Ellen Schmidt"
 ---

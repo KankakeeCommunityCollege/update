@@ -2,6 +2,7 @@
 title: "Celebrate with Dennis Clark – T-shirts available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=641"
 sort_date: 1331936062000
+year: 2012
 pubDate: "16 Mar 2012 22:14:22 GMT"
 creator: "Ellen Schmidt"
 ---

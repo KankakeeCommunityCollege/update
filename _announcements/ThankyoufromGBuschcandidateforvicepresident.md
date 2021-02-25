@@ -2,6 +2,7 @@
 title: "Thank you from G. Busch, candidate for vice president"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1459"
 sort_date: 1396283043000
+year: 2014
 pubDate: "31 Mar 2014 16:24:03 GMT"
 creator: "Ellen Schmidt"
 ---

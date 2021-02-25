@@ -2,6 +2,7 @@
 title: "Public safety message"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2123"
 sort_date: 1450362822000
+year: 2015
 pubDate: "17 Dec 2015 14:33:42 GMT"
 creator: "Elizabeth Becvar"
 ---

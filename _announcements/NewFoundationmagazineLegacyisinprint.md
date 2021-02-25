@@ -2,6 +2,7 @@
 title: "New Foundation magazine -- Legacy -- is in print"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=602"
 sort_date: 1329172194000
+year: 2012
 pubDate: "13 Feb 2012 22:29:54 GMT"
 creator: "Ellen Schmidt"
 ---

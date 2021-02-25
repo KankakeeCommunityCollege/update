@@ -2,6 +2,7 @@
 title: "73 are celebrating August employment anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=393"
 sort_date: 1312312371000
+year: 2011
 pubDate: "02 Aug 2011 19:12:51 GMT"
 creator: "Ellen Schmidt"
 ---

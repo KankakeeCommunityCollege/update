@@ -2,6 +2,7 @@
 title: "2 students join All-Illinois team"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1979"
 sort_date: 1436820743000
+year: 2015
 pubDate: "13 Jul 2015 20:52:23 GMT"
 creator: "Elizabeth Becvar"
 ---

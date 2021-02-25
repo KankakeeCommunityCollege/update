@@ -2,6 +2,7 @@
 title: "Please review office supplies – place orders soon"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1906"
 sort_date: 1430249898000
+year: 2015
 pubDate: "28 Apr 2015 19:38:18 GMT"
 creator: "Ellen Schmidt"
 ---

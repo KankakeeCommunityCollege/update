@@ -2,6 +2,7 @@
 title: "Great Teacher Mini Seminar - 1/26"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2134"
 sort_date: 1452637701000
+year: 2016
 pubDate: "12 Jan 2016 22:28:21 GMT"
 creator: "Ellen Schmidt"
 ---

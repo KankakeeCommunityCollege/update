@@ -2,6 +2,7 @@
 title: "There’s still time to give to United Way and KCC Foundation"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2325"
 sort_date: 1478805928000
+year: 2016
 pubDate: "10 Nov 2016 19:25:28 GMT"
 creator: "Ellen Schmidt"
 ---

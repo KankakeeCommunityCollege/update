@@ -2,6 +2,7 @@
 title: "Final 2015 Update email  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2093"
 sort_date: 1448292740000
+year: 2015
 pubDate: "23 Nov 2015 15:32:20 GMT"
 creator: "Ellen Schmidt"
 ---

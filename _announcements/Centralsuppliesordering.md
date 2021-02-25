@@ -2,6 +2,7 @@
 title: "Central supplies ordering"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2106"
 sort_date: 1449243718000
+year: 2015
 pubDate: "04 Dec 2015 15:41:58 GMT"
 creator: "Ellen Schmidt"
 ---

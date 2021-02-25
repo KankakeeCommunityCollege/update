@@ -2,6 +2,7 @@
 title: "HLC & Coffee – Key points to know for CQR"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2158"
 sort_date: 1454945131000
+year: 2016
 pubDate: "08 Feb 2016 15:25:31 GMT"
 creator: "Elizabeth Becvar"
 ---

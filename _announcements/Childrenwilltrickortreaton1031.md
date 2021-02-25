@@ -2,6 +2,7 @@
 title: "Children will trick-or-treat on 10/31"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=865"
 sort_date: 1351093408000
+year: 2012
 pubDate: "24 Oct 2012 15:43:28 GMT"
 creator: "Ellen Schmidt"
 ---

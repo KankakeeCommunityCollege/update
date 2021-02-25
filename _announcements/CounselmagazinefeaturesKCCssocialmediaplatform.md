@@ -2,6 +2,7 @@
 title: "Counsel magazine features KCC’s social media platform"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1182"
 sort_date: 1375215419000
+year: 2013
 pubDate: "30 Jul 2013 20:16:59 GMT"
 creator: "Kari Nugent"
 ---

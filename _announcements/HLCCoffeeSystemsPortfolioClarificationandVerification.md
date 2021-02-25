@@ -2,6 +2,7 @@
 title: "HLC & Coffee - Systems Portfolio Clarification and Verification"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2109"
 sort_date: 1449519187000
+year: 2015
 pubDate: "07 Dec 2015 20:13:07 GMT"
 creator: "Elizabeth Becvar"
 ---

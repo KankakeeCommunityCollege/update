@@ -2,6 +2,7 @@
 title: "Thanks to all who participated in the Cavaliers Classic!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1605"
 sort_date: 1409160015000
+year: 2014
 pubDate: "27 Aug 2014 17:20:15 GMT"
 creator: "Ellen Schmidt"
 ---

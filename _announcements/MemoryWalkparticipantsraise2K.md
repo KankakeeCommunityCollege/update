@@ -2,6 +2,7 @@
 title: "Memory Walk participants raise $2K"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=477"
 sort_date: 1318347390000
+year: 2011
 pubDate: "11 Oct 2011 15:36:30 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

@@ -2,6 +2,7 @@
 title: "Area students will visit March 10"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2174"
 sort_date: 1456858689000
+year: 2016
 pubDate: "01 Mar 2016 18:58:09 GMT"
 creator: "Ellen Schmidt"
 ---

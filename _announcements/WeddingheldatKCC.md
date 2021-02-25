@@ -2,6 +2,7 @@
 title: "Wedding held at KCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1546"
 sort_date: 1403118169000
+year: 2014
 pubDate: "18 Jun 2014 19:02:49 GMT"
 creator: "Ellen Schmidt"
 ---

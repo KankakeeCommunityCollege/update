@@ -2,6 +2,7 @@
 title: "WYSE event will be 2/7"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2370"
 sort_date: 1484923814000
+year: 2017
 pubDate: "20 Jan 2017 14:50:14 GMT"
 creator: "Ellen Schmidt"
 ---

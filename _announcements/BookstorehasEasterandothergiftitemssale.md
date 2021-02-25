@@ -2,6 +2,7 @@
 title: "Bookstore has Easter and other gift items sale"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1474"
 sort_date: 1397744927000
+year: 2014
 pubDate: "17 Apr 2014 14:28:47 GMT"
 creator: "Ellen Schmidt"
 ---

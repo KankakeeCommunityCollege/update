@@ -2,6 +2,7 @@
 title: "Heating, ventilation, air-conditioning (HVAC) project "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=302"
 sort_date: 1305552549000
+year: 2011
 pubDate: "16 May 2011 13:29:09 GMT"
 creator: "Elizabeth Becvar"
 ---

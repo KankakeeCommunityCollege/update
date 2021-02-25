@@ -2,6 +2,7 @@
 title: "Thanks-a-gram -- in letter form"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=389"
 sort_date: 1311692831000
+year: 2011
 pubDate: "26 Jul 2011 15:07:11 GMT"
 creator: "Ellen Schmidt"
 ---

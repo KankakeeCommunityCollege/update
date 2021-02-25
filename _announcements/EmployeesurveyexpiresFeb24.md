@@ -2,6 +2,7 @@
 title: "Employee survey expires Feb. 24"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=604"
 sort_date: 1329340118000
+year: 2012
 pubDate: "15 Feb 2012 21:08:38 GMT"
 creator: "Ellen Schmidt"
 ---

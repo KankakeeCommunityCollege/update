@@ -2,6 +2,7 @@
 title: "Feedback icon is indicator that input is always welcome "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=813"
 sort_date: 1347540630000
+year: 2012
 pubDate: "13 Sep 2012 12:50:30 GMT"
 creator: "Elizabeth Becvar"
 ---

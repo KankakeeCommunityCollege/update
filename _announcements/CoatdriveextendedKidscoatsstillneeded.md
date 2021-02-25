@@ -2,6 +2,7 @@
 title: "Coat drive extended -- Kids coats still needed"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=507"
 sort_date: 1320331492000
+year: 2011
 pubDate: "03 Nov 2011 14:44:52 GMT"
 creator: "Ellen Schmidt"
 ---

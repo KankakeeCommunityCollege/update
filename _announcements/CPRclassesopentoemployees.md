@@ -2,6 +2,7 @@
 title: "CPR classes open to employees"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2343"
 sort_date: 1480707326000
+year: 2016
 pubDate: "02 Dec 2016 19:35:26 GMT"
 creator: "Ellen Schmidt"
 ---

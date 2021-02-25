@@ -2,6 +2,7 @@
 title: "Hammes Bookstore has graduation & Mother’s Day greeting cards "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=700"
 sort_date: 1336075606000
+year: 2012
 pubDate: "03 May 2012 20:06:46 GMT"
 creator: "Ellen Schmidt"
 ---

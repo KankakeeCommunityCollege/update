@@ -2,6 +2,7 @@
 title: "42nd annual commencement&colon; 5/14 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=227"
 sort_date: 1303145250000
+year: 2011
 pubDate: "18 Apr 2011 16:47:30 GMT"
 creator: "Elizabeth Becvar"
 ---

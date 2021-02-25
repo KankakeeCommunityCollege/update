@@ -2,6 +2,7 @@
 title: "WKCC Public Radio launches new locally produced program"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=51"
 sort_date: 1292617064000
+year: 2010
 pubDate: "17 Dec 2010 20:17:44 GMT"
 creator: "Elizabeth Becvar"
 ---

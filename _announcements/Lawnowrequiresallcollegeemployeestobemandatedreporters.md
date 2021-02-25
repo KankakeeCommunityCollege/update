@@ -2,6 +2,7 @@
 title: "Law now requires all college employees to be mandated reporters"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=845"
 sort_date: 1349458421000
+year: 2012
 pubDate: "05 Oct 2012 17:33:41 GMT"
 creator: "Ellen Schmidt"
 ---

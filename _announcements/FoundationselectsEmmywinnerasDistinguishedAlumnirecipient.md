@@ -2,6 +2,7 @@
 title: "Foundation selects Emmy-winner as Distinguished Alumni recipient"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1818"
 sort_date: 1423839947000
+year: 2015
 pubDate: "13 Feb 2015 15:05:47 GMT"
 creator: "Ellen Schmidt"
 ---

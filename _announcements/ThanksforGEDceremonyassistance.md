@@ -2,6 +2,7 @@
 title: "Thanks for GED ceremony assistance"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1143"
 sort_date: 1371475710000
+year: 2013
 pubDate: "17 Jun 2013 13:28:30 GMT"
 creator: "Ellen Schmidt"
 ---

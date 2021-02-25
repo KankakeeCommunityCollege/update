@@ -2,6 +2,7 @@
 title: "Make plans now&colon; Friendship Day is March 23 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=88"
 sort_date: 1295983627000
+year: 2011
 pubDate: "25 Jan 2011 19:27:07 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

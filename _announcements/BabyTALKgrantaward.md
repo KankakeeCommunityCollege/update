@@ -2,6 +2,7 @@
 title: "Baby TALK grant award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=754"
 sort_date: 1341928792000
+year: 2012
 pubDate: "10 Jul 2012 13:59:52 GMT"
 creator: "Elizabeth Becvar"
 ---

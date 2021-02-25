@@ -2,6 +2,7 @@
 title: "Coming soon&colon; Online newsroom and new look for Update"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1976"
 sort_date: 1436792382000
+year: 2015
 pubDate: "13 Jul 2015 12:59:42 GMT"
 creator: "Ellen Schmidt"
 ---

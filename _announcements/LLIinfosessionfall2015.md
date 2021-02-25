@@ -2,6 +2,7 @@
 title: "LLI info session fall 2015"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2005"
 sort_date: 1439843212000
+year: 2015
 pubDate: "17 Aug 2015 20:26:52 GMT"
 creator: "Elizabeth Becvar"
 ---

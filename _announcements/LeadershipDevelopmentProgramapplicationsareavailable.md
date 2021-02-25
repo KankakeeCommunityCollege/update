@@ -2,6 +2,7 @@
 title: "Leadership Development Program applications are available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1598"
 sort_date: 1408714658000
+year: 2014
 pubDate: "22 Aug 2014 13:37:38 GMT"
 creator: "Ellen Schmidt"
 ---

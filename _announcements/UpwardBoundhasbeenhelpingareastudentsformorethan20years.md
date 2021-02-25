@@ -2,6 +2,7 @@
 title: "Upward Bound has been helping area students for more than 20 years"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1455"
 sort_date: 1396032945000
+year: 2014
 pubDate: "28 Mar 2014 18:55:45 GMT"
 creator: "Ellen Schmidt"
 ---

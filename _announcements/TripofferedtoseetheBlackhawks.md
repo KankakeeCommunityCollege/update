@@ -2,6 +2,7 @@
 title: "Trip offered to see the Blackhawks"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1595"
 sort_date: 1408554531000
+year: 2014
 pubDate: "20 Aug 2014 17:08:51 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Summer Fun Week 2"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2447"
 sort_date: 1496846963000
+year: 2017
 pubDate: "07 Jun 2017 14:49:23 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Pet Awareness week&colon; 4/24-26"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=671"
 sort_date: 1334852471000
+year: 2012
 pubDate: "19 Apr 2012 16:21:11 GMT"
 creator: "Ellen Schmidt"
 ---

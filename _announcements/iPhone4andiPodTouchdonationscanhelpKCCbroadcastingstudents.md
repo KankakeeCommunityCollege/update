@@ -2,6 +2,7 @@
 title: "iPhone 4 and iPod Touch donations can help KCC broadcasting students"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1148"
 sort_date: 1371661573000
+year: 2013
 pubDate: "19 Jun 2013 17:06:13 GMT"
 creator: "Ellen Schmidt"
 ---

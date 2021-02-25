@@ -2,6 +2,7 @@
 title: "Nominations open for ICCTA outstanding faculty member"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=955"
 sort_date: 1358260336000
+year: 2013
 pubDate: "15 Jan 2013 14:32:16 GMT"
 creator: "Ellen Schmidt"
 ---

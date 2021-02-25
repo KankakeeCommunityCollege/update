@@ -2,6 +2,7 @@
 title: "​​Staff schedules on 12/23"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1656"
 sort_date: 1412347964000
+year: 2014
 pubDate: "03 Oct 2014 14:52:44 GMT"
 creator: "Ellen Schmidt"
 ---

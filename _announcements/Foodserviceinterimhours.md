@@ -2,6 +2,7 @@
 title: "Food service interim hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=764"
 sort_date: 1343242773000
+year: 2012
 pubDate: "25 Jul 2012 18:59:33 GMT"
 creator: "Ellen Schmidt"
 ---

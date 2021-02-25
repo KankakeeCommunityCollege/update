@@ -2,6 +2,7 @@
 title: "Spring forward -- and review department page hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1834"
 sort_date: 1424700043000
+year: 2015
 pubDate: "23 Feb 2015 14:00:43 GMT"
 creator: "Ellen Schmidt"
 ---

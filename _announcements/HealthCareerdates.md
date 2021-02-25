@@ -2,6 +2,7 @@
 title: "Health Career dates"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=892"
 sort_date: 1352308433000
+year: 2012
 pubDate: "07 Nov 2012 17:13:53 GMT"
 creator: "Elizabeth Becvar"
 ---

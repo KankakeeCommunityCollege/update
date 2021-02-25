@@ -2,6 +2,7 @@
 title: "Lose a few extra pounds before summer"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1879"
 sort_date: 1428529139000
+year: 2015
 pubDate: "08 Apr 2015 21:38:59 GMT"
 creator: "Kari Nugent"
 ---

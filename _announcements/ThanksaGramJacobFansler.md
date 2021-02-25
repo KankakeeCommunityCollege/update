@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Jacob Fansler"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1166"
 sort_date: 1373570915000
+year: 2013
 pubDate: "11 Jul 2013 19:28:35 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Elevator work is scheduled&colon; 5/19-5/22"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1516"
 sort_date: 1399669454000
+year: 2014
 pubDate: "09 May 2014 21:04:14 GMT"
 creator: "Ellen Schmidt"
 ---

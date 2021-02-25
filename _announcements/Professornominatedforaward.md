@@ -2,6 +2,7 @@
 title: "Professor nominated for award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2512"
 sort_date: 1505489453000
+year: 2017
 pubDate: "15 Sep 2017 15:30:53 GMT"
 creator: "Ellen Schmidt"
 ---

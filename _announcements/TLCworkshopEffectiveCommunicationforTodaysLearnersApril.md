@@ -2,6 +2,7 @@
 title: "TLC workshop ‘Effective Communication for Today’s Learners’&colon; April"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2185"
 sort_date: 1458327065000
+year: 2016
 pubDate: "18 Mar 2016 18:51:05 GMT"
 creator: "Elizabeth Becvar"
 ---

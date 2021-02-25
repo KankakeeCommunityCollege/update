@@ -2,6 +2,7 @@
 title: "Magical Mystery Tour brings Beatlemania to WKCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1017"
 sort_date: 1362680713000
+year: 2013
 pubDate: "07 Mar 2013 18:25:13 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "2012 respiratory grads pass certification tests, get jobs"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1321"
 sort_date: 1384265910000
+year: 2013
 pubDate: "12 Nov 2013 14:18:30 GMT"
 creator: "Ellen Schmidt"
 ---

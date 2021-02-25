@@ -2,6 +2,7 @@
 title: "Windows 7 Migration Update and Training Dates"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1138"
 sort_date: 1370958353000
+year: 2013
 pubDate: "11 Jun 2013 13:45:53 GMT"
 creator: "Ellen Schmidt"
 ---

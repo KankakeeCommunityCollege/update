@@ -2,6 +2,7 @@
 title: "Splash Valley offers season discount to KCC employees"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=338"
 sort_date: 1307376479000
+year: 2011
 pubDate: "06 Jun 2011 16:07:59 GMT"
 creator: "Ellen Schmidt"
 ---

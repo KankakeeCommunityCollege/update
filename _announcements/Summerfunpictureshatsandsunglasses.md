@@ -2,6 +2,7 @@
 title: "Summer fun pictures - hats and sunglasses"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2462"
 sort_date: 1497977794000
+year: 2017
 pubDate: "20 Jun 2017 16:56:34 GMT"
 creator: "Ellen Schmidt"
 ---

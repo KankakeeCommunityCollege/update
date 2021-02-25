@@ -2,6 +2,7 @@
 title: "Online scholarship application "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1049"
 sort_date: 1364912297000
+year: 2013
 pubDate: "02 Apr 2013 14:18:17 GMT"
 creator: "Elizabeth Becvar"
 ---

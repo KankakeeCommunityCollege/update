@@ -2,6 +2,7 @@
 title: "Kick-off of Employee Giving and internal United Way campaign"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2040"
 sort_date: 1443816016000
+year: 2015
 pubDate: "02 Oct 2015 20:00:16 GMT"
 creator: "Ellen Schmidt"
 ---

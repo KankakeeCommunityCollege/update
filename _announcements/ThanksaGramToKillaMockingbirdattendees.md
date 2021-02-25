@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; &quot;To Kill a Mockingbird&quot; attendees"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1861"
 sort_date: 1426879249000
+year: 2015
 pubDate: "20 Mar 2015 19:20:49 GMT"
 creator: "Elizabeth Becvar"
 ---

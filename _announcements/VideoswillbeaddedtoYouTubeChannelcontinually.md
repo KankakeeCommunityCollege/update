@@ -2,6 +2,7 @@
 title: "Videos will be added to YouTube Channel continually "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=574"
 sort_date: 1326385288000
+year: 2012
 pubDate: "12 Jan 2012 16:21:28 GMT"
 creator: "Ellen Schmidt"
 ---

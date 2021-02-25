@@ -2,6 +2,7 @@
 title: "LEED plaque now in place at North Extension Center"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1800"
 sort_date: 1422035172000
+year: 2015
 pubDate: "23 Jan 2015 17:46:12 GMT"
 creator: "Ellen Schmidt"
 ---

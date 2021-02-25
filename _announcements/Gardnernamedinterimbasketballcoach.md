@@ -2,6 +2,7 @@
 title: "Gardner named interim basketball coach"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1995"
 sort_date: 1438893306000
+year: 2015
 pubDate: "06 Aug 2015 20:35:06 GMT"
 creator: "Elizabeth Becvar"
 ---

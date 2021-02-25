@@ -2,6 +2,7 @@
 title: "Basketball player receives Academic Achievement Award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1966"
 sort_date: 1435694041000
+year: 2015
 pubDate: "30 Jun 2015 19:54:01 GMT"
 creator: "Kari Nugent"
 ---

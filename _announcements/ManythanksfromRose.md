@@ -2,6 +2,7 @@
 title: "Many thanks from Rose"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=315"
 sort_date: 1305755538000
+year: 2011
 pubDate: "18 May 2011 21:52:18 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Campus projects underway"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=184"
 sort_date: 1300910230000
+year: 2011
 pubDate: "23 Mar 2011 19:57:10 GMT"
 creator: "Ellen Schmidt"
 ---

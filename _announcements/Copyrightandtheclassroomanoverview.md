@@ -2,6 +2,7 @@
 title: "Copyright and the classroom (an overview)"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=418"
 sort_date: 1314391883000
+year: 2011
 pubDate: "26 Aug 2011 20:51:23 GMT"
 creator: "Ellen Schmidt"
 ---

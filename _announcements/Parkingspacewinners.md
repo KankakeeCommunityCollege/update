@@ -2,6 +2,7 @@
 title: "Parking space winners"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2351"
 sort_date: 1481923877000
+year: 2016
 pubDate: "16 Dec 2016 21:31:17 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Testing Center hours&colon; 12/17-12/20"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=935"
 sort_date: 1355322158000
+year: 2012
 pubDate: "12 Dec 2012 14:22:38 GMT"
 creator: "Ellen Schmidt"
 ---

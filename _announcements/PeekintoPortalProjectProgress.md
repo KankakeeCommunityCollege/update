@@ -2,6 +2,7 @@
 title: "Peek into Portal Project Progress"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2429"
 sort_date: 1493663512000
+year: 2017
 pubDate: "01 May 2017 18:31:52 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Holiday Tree Decorating Contest"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=901"
 sort_date: 1352838428000
+year: 2012
 pubDate: "13 Nov 2012 20:27:08 GMT"
 creator: "Nancy Schunke"
 ---

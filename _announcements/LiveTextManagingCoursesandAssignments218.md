@@ -2,6 +2,7 @@
 title: "LiveText&colon; Managing Courses and Assignments&colon; 2/18"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2138"
 sort_date: 1452697460000
+year: 2016
 pubDate: "13 Jan 2016 15:04:20 GMT"
 creator: "Ellen Schmidt"
 ---

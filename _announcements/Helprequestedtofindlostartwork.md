@@ -2,6 +2,7 @@
 title: "Help requested to find lost artwork"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1496"
 sort_date: 1398715156000
+year: 2014
 pubDate: "28 Apr 2014 19:59:16 GMT"
 creator: "Elizabeth Becvar"
 ---

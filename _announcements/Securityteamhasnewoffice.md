@@ -2,6 +2,7 @@
 title: "Security team has new office"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=445"
 sort_date: 1316100506000
+year: 2011
 pubDate: "15 Sep 2011 15:28:26 GMT"
 creator: "Ellen Schmidt"
 ---

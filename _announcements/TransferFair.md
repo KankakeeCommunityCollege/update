@@ -2,6 +2,7 @@
 title: "Transfer Fair"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1230"
 sort_date: 1378476471000
+year: 2013
 pubDate: "06 Sep 2013 14:07:51 GMT"
 creator: "Elizabeth Becvar"
 ---

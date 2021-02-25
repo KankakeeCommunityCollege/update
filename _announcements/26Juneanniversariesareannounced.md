@@ -2,6 +2,7 @@
 title: "26 June anniversaries are announced "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=328"
 sort_date: 1306446629000
+year: 2011
 pubDate: "26 May 2011 21:50:29 GMT"
 creator: "Elizabeth Becvar"
 ---

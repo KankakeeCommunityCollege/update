@@ -2,6 +2,7 @@
 title: "​Student Services 2015-16 In-Service wrap-up"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1844"
 sort_date: 1425480726000
+year: 2015
 pubDate: "04 Mar 2015 14:52:06 GMT"
 creator: "Ellen Schmidt"
 ---

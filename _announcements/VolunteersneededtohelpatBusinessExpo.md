@@ -2,6 +2,7 @@
 title: "Volunteers needed to help at Business Expo"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=623"
 sort_date: 1330553930000
+year: 2012
 pubDate: "29 Feb 2012 22:18:50 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "News from Phi Theta Kappa honor society"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1549"
 sort_date: 1403557741000
+year: 2014
 pubDate: "23 Jun 2014 21:09:01 GMT"
 creator: "Ellen Schmidt"
 ---

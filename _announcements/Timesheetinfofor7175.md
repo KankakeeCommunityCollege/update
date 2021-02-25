@@ -2,6 +2,7 @@
 title: "Timesheet info for 7/1-7/5"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1154"
 sort_date: 1372365706000
+year: 2013
 pubDate: "27 Jun 2013 20:41:46 GMT"
 creator: "Ellen Schmidt"
 ---

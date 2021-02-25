@@ -2,6 +2,7 @@
 title: "Congratulations on first grandchild"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=730"
 sort_date: 1339421572000
+year: 2012
 pubDate: "11 Jun 2012 13:32:52 GMT"
 creator: "Ellen Schmidt"
 ---

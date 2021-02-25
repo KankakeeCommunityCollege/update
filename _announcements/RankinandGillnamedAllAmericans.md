@@ -2,6 +2,7 @@
 title: "Rankin and Gill named All-Americans"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1558"
 sort_date: 1404406721000
+year: 2014
 pubDate: "03 Jul 2014 16:58:41 GMT"
 creator: "Elizabeth Becvar"
 ---

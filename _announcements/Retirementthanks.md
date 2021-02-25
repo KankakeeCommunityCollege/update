@@ -2,6 +2,7 @@
 title: "Retirement thanks"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1609"
 sort_date: 1409345122000
+year: 2014
 pubDate: "29 Aug 2014 20:45:22 GMT"
 creator: "Ellen Schmidt"
 ---

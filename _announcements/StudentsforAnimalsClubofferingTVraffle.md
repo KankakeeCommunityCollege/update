@@ -2,6 +2,7 @@
 title: "Students for Animals Club offering TV raffle"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=830"
 sort_date: 1348246166000
+year: 2012
 pubDate: "21 Sep 2012 16:49:26 GMT"
 creator: "Ellen Schmidt"
 ---

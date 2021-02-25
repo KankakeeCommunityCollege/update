@@ -2,6 +2,7 @@
 title: "Job fair will be 4/3"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1431"
 sort_date: 1393951803000
+year: 2014
 pubDate: "04 Mar 2014 16:50:03 GMT"
 creator: "Ellen Schmidt"
 ---

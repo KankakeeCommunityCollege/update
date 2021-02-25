@@ -2,6 +2,7 @@
 title: "At the Bookstore&colon; 25% and 50% savings for employees this week"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=564"
 sort_date: 1324304478000
+year: 2011
 pubDate: "19 Dec 2011 14:21:18 GMT"
 creator: "Ellen Schmidt"
 ---

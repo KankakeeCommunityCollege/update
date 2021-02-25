@@ -2,6 +2,7 @@
 title: "NEC photo of the week -- week 10"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=963"
 sort_date: 1358445546000
+year: 2013
 pubDate: "17 Jan 2013 17:59:06 GMT"
 creator: "Ellen Schmidt"
 ---

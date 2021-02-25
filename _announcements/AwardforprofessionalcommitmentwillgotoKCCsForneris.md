@@ -2,6 +2,7 @@
 title: "Award for professional commitment will go to KCC's Forneris"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=833"
 sort_date: 1348667915000
+year: 2012
 pubDate: "26 Sep 2012 13:58:35 GMT"
 creator: "Elizabeth Becvar"
 ---

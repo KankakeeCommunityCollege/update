@@ -2,6 +2,7 @@
 title: "11 students chosen for statewide art exhibit "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1437"
 sort_date: 1394142594000
+year: 2014
 pubDate: "06 Mar 2014 21:49:54 GMT"
 creator: "Ellen Schmidt"
 ---

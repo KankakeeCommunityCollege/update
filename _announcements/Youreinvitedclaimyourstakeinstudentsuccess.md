@@ -2,6 +2,7 @@
 title: "You're invited&colon; claim your stake in student success"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1969"
 sort_date: 1435852309000
+year: 2015
 pubDate: "02 Jul 2015 15:51:49 GMT"
 creator: "Kari Nugent"
 ---

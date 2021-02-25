@@ -2,6 +2,7 @@
 title: "Be safe ... and keep your valuables safe "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=562"
 sort_date: 1323872328000
+year: 2011
 pubDate: "14 Dec 2011 14:18:48 GMT"
 creator: "Ellen Schmidt"
 ---

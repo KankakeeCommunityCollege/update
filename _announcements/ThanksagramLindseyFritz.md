@@ -2,6 +2,7 @@
 title: "Thanks-a-gram&colon; Lindsey Fritz"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1044"
 sort_date: 1364576261000
+year: 2013
 pubDate: "29 Mar 2013 16:57:41 GMT"
 creator: "Elizabeth Becvar"
 ---

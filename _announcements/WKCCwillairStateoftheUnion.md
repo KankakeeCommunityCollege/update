@@ -2,6 +2,7 @@
 title: "WKCC will air State of the Union "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=86"
 sort_date: 1295982125000
+year: 2011
 pubDate: "25 Jan 2011 19:02:05 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

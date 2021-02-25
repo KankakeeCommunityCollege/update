@@ -2,6 +2,7 @@
 title: "Phone number correction"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=804"
 sort_date: 1346771473000
+year: 2012
 pubDate: "04 Sep 2012 15:11:13 GMT"
 creator: "Ellen Schmidt"
 ---

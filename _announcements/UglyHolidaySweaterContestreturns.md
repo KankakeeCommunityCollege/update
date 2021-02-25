@@ -2,6 +2,7 @@
 title: "Ugly Holiday Sweater Contest returns"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=11"
 sort_date: 1291324954000
+year: 2010
 pubDate: "02 Dec 2010 21:22:34 GMT"
 creator: "Elizabeth Becvar"
 ---

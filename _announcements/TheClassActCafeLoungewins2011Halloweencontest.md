@@ -2,6 +2,7 @@
 title: "The Class Act Cafe & Lounge wins 2011 Halloween contest"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=502"
 sort_date: 1320094867000
+year: 2011
 pubDate: "31 Oct 2011 21:01:07 GMT"
 creator: "Ellen Schmidt"
 ---

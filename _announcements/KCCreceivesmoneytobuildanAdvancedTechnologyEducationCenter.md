@@ -2,6 +2,7 @@
 title: "KCC receives money to build an Advanced Technology Education Center "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1559"
 sort_date: 1404755441000
+year: 2014
 pubDate: "07 Jul 2014 17:50:41 GMT"
 creator: "Elizabeth Becvar"
 ---

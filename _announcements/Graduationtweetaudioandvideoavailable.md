@@ -2,6 +2,7 @@
 title: "Graduation tweet, audio and video available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=704"
 sort_date: 1336511698000
+year: 2012
 pubDate: "08 May 2012 21:14:58 GMT"
 creator: "Ellen Schmidt"
 ---

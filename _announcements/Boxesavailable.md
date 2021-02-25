@@ -2,6 +2,7 @@
 title: "Boxes available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2245"
 sort_date: 1468259554000
+year: 2016
 pubDate: "11 Jul 2016 17:52:34 GMT"
 creator: "Ellen Schmidt"
 ---

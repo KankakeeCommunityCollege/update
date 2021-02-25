@@ -2,6 +2,7 @@
 title: "Special 1-day ‘tower power’ program will charge up electronic devices"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1040"
 sort_date: 1364416352000
+year: 2013
 pubDate: "27 Mar 2013 20:32:32 GMT"
 creator: "Ellen Schmidt"
 ---

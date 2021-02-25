@@ -2,6 +2,7 @@
 title: "Crowds expected 4/13"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2414"
 sort_date: 1491854700000
+year: 2017
 pubDate: "10 Apr 2017 20:05:00 GMT"
 creator: "Elizabeth Becvar"
 ---

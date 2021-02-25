@@ -2,6 +2,7 @@
 title: "Bookstore offers 20% staff discount&colon; 12/17-20"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=921"
 sort_date: 1354724026000
+year: 2012
 pubDate: "05 Dec 2012 16:13:46 GMT"
 creator: "Ellen Schmidt"
 ---

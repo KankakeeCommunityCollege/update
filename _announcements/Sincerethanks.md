@@ -2,6 +2,7 @@
 title: "Sincere thanks"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=219"
 sort_date: 1302529459000
+year: 2011
 pubDate: "11 Apr 2011 13:44:19 GMT"
 creator: "Elizabeth Becvar"
 ---

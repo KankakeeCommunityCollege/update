@@ -2,6 +2,7 @@
 title: "Help start semester with all furniture in place"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2254"
 sort_date: 1468964338000
+year: 2016
 pubDate: "19 Jul 2016 21:38:58 GMT"
 creator: "Ellen Schmidt"
 ---

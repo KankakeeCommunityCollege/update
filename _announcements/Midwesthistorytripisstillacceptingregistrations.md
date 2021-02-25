@@ -2,6 +2,7 @@
 title: "Midwest history trip is still accepting registrations"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1851"
 sort_date: 1425995890000
+year: 2015
 pubDate: "10 Mar 2015 13:58:10 GMT"
 creator: "Ellen Schmidt"
 ---

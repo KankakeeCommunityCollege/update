@@ -2,6 +2,7 @@
 title: "Testing Center expands hours during finals week"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1512"
 sort_date: 1399556518000
+year: 2014
 pubDate: "08 May 2014 13:41:58 GMT"
 creator: "Ellen Schmidt"
 ---

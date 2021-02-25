@@ -2,6 +2,7 @@
 title: "Tips for having a sustainable holiday"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=926"
 sort_date: 1354804113000
+year: 2012
 pubDate: "06 Dec 2012 14:28:33 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Election coverage on WKCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=871"
 sort_date: 1351257477000
+year: 2012
 pubDate: "26 Oct 2012 13:17:57 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Student Nurses' Association sponsoring a hat and gloves drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1344"
 sort_date: 1385155223000
+year: 2013
 pubDate: "22 Nov 2013 21:20:23 GMT"
 creator: "Ellen Schmidt"
 ---

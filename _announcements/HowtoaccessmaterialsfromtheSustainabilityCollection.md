@@ -2,6 +2,7 @@
 title: "How to access materials from the Sustainability Collection"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=582"
 sort_date: 1326985045000
+year: 2012
 pubDate: "19 Jan 2012 14:57:25 GMT"
 creator: "Ellen Schmidt"
 ---

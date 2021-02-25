@@ -2,6 +2,7 @@
 title: "Please note this name change"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=927"
 sort_date: 1354807312000
+year: 2012
 pubDate: "06 Dec 2012 15:21:52 GMT"
 creator: "Ellen Schmidt"
 ---

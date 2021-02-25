@@ -2,6 +2,7 @@
 title: "Printing reminder regarding copyright"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=430"
 sort_date: 1314976753000
+year: 2011
 pubDate: "02 Sep 2011 15:19:13 GMT"
 creator: "Ellen Schmidt"
 ---

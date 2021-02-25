@@ -2,6 +2,7 @@
 title: "KCC Foundation to kick off “Be the Change” campaign"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=780"
 sort_date: 1345050165000
+year: 2012
 pubDate: "15 Aug 2012 17:02:45 GMT"
 creator: "Ellen Schmidt"
 ---

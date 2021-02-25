@@ -2,6 +2,7 @@
 title: "November to remember ... these anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2321"
 sort_date: 1477671031000
+year: 2016
 pubDate: "28 Oct 2016 16:10:31 GMT"
 creator: "Ellen Schmidt"
 ---

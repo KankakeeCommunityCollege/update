@@ -2,6 +2,7 @@
 title: "Info on budget and purchasing procedures is on O drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2168"
 sort_date: 1456238058000
+year: 2016
 pubDate: "23 Feb 2016 14:34:18 GMT"
 creator: "Ellen Schmidt"
 ---

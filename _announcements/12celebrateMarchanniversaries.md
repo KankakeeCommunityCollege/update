@@ -2,6 +2,7 @@
 title: "12 celebrate March anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=563"
 sort_date: 1323877614000
+year: 2011
 pubDate: "14 Dec 2011 15:46:54 GMT"
 creator: "Ellen Schmidt"
 ---

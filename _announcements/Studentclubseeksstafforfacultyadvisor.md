@@ -2,6 +2,7 @@
 title: "Student club seeks staff or faculty advisor"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1141"
 sort_date: 1371043947000
+year: 2013
 pubDate: "12 Jun 2013 13:32:27 GMT"
 creator: "Ellen Schmidt"
 ---

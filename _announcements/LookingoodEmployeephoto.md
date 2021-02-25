@@ -2,6 +2,7 @@
 title: "​Lookin' good - Employee photo"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2528"
 sort_date: 1507642466000
+year: 2017
 pubDate: "10 Oct 2017 13:34:26 GMT"
 creator: "Elizabeth Becvar"
 ---

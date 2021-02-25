@@ -2,6 +2,7 @@
 title: "Upcoming blood drive offers chance to help transfusion needs"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1532"
 sort_date: 1401813580000
+year: 2014
 pubDate: "03 Jun 2014 16:39:40 GMT"
 creator: "Ellen Schmidt"
 ---

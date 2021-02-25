@@ -2,6 +2,7 @@
 title: "Med lab students earn national honors"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1113"
 sort_date: 1368192932000
+year: 2013
 pubDate: "10 May 2013 13:35:32 GMT"
 creator: "Ellen Schmidt"
 ---

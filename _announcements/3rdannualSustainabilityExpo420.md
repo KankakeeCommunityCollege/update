@@ -2,6 +2,7 @@
 title: "3rd annual Sustainability Expo&colon; 4/20"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=205"
 sort_date: 1301925871000
+year: 2011
 pubDate: "04 Apr 2011 14:04:31 GMT"
 creator: "Elizabeth Becvar"
 ---

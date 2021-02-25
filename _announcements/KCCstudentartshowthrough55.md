@@ -2,6 +2,7 @@
 title: "KCC student art show&colon; through 5/5 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=250"
 sort_date: 1303750305000
+year: 2011
 pubDate: "25 Apr 2011 16:51:45 GMT"
 creator: "Elizabeth Becvar"
 ---

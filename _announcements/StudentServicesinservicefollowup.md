@@ -2,6 +2,7 @@
 title: "​Student Services in-service follow-up"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2374"
 sort_date: 1485969799000
+year: 2017
 pubDate: "01 Feb 2017 17:23:19 GMT"
 creator: "Ellen Schmidt"
 ---

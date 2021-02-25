@@ -2,6 +2,7 @@
 title: "Info on McMullen Scholarship"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1041"
 sort_date: 1364417809000
+year: 2013
 pubDate: "27 Mar 2013 20:56:49 GMT"
 creator: "Ellen Schmidt"
 ---

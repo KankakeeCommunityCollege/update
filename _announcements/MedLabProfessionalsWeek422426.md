@@ -2,6 +2,7 @@
 title: "Med Lab Professionals Week&colon; 4/22 - 4/26"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1080"
 sort_date: 1366135538000
+year: 2013
 pubDate: "16 Apr 2013 18:05:38 GMT"
 creator: "Ellen Schmidt"
 ---

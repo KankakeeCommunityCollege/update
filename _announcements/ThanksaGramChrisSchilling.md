@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Chris Schilling"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1241"
 sort_date: 1378997824000
+year: 2013
 pubDate: "12 Sep 2013 14:57:04 GMT"
 creator: "Elizabeth Becvar"
 ---

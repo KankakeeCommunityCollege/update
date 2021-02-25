@@ -2,6 +2,7 @@
 title: "Commencement info for administrators and full-time faculty"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1486"
 sort_date: 1398203290000
+year: 2014
 pubDate: "22 Apr 2014 21:48:10 GMT"
 creator: "Ellen Schmidt"
 ---

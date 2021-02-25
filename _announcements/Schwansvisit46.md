@@ -2,6 +2,7 @@
 title: "Schwan's visit&colon; 4/6  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=189"
 sort_date: 1301344058000
+year: 2011
 pubDate: "28 Mar 2011 20:27:38 GMT"
 creator: "Elizabeth Becvar"
 ---

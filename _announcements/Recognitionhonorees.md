@@ -2,6 +2,7 @@
 title: "Recognition honorees"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1737"
 sort_date: 1416430089000
+year: 2014
 pubDate: "19 Nov 2014 20:48:09 GMT"
 creator: "Elizabeth Becvar"
 ---

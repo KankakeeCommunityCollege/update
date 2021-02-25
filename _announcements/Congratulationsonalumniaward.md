@@ -2,6 +2,7 @@
 title: "Congratulations on alumni award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1654"
 sort_date: 1412178712000
+year: 2014
 pubDate: "01 Oct 2014 15:51:52 GMT"
 creator: "Ellen Schmidt"
 ---

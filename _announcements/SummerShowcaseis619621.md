@@ -2,6 +2,7 @@
 title: "Summer Showcase is 6/19-6/21"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=736"
 sort_date: 1339692664000
+year: 2012
 pubDate: "14 Jun 2012 16:51:04 GMT"
 creator: "Ellen Schmidt"
 ---

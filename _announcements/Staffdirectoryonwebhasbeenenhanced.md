@@ -2,6 +2,7 @@
 title: "Staff directory on web has been enhanced "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2035"
 sort_date: 1443207730000
+year: 2015
 pubDate: "25 Sep 2015 19:02:10 GMT"
 creator: "Ellen Schmidt"
 ---

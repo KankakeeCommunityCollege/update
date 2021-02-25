@@ -2,6 +2,7 @@
 title: "Hat & Glove drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=902"
 sort_date: 1352914501000
+year: 2012
 pubDate: "14 Nov 2012 17:35:01 GMT"
 creator: "Nancy Schunke"
 ---

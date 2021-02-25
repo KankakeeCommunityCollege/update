@@ -2,6 +2,7 @@
 title: "Info on flags at half-staff"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=577"
 sort_date: 1326809679000
+year: 2012
 pubDate: "17 Jan 2012 14:14:39 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Satisfaction survey&colon; Comparison shows “Statistically Significant” results"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1075"
 sort_date: 1365792064000
+year: 2013
 pubDate: "12 Apr 2013 18:41:04 GMT"
 creator: "Ellen Schmidt"
 ---

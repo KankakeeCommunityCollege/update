@@ -2,6 +2,7 @@
 title: "​Faculty Book Study ‘A Framework for Understanding Poverty’ "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2275"
 sort_date: 1472058256000
+year: 2016
 pubDate: "24 Aug 2016 17:04:16 GMT"
 creator: "Ellen Schmidt"
 ---

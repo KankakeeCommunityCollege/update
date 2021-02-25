@@ -2,6 +2,7 @@
 title: "Generosity of employees is continuing during giving campaigns"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1669"
 sort_date: 1412957795000
+year: 2014
 pubDate: "10 Oct 2014 16:16:35 GMT"
 creator: "Ellen Schmidt"
 ---

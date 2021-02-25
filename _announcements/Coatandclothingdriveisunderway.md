@@ -2,6 +2,7 @@
 title: "Coat and clothing drive is underway "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=18"
 sort_date: 1291326080000
+year: 2010
 pubDate: "02 Dec 2010 21:41:20 GMT"
 creator: "Elizabeth Becvar"
 ---

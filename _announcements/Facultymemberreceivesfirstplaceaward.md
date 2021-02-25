@@ -2,6 +2,7 @@
 title: "Faculty member receives first place award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1961"
 sort_date: 1435690916000
+year: 2015
 pubDate: "30 Jun 2015 19:01:56 GMT"
 creator: "Kari Nugent"
 ---

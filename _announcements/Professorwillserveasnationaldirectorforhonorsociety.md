@@ -2,6 +2,7 @@
 title: "Professor will serve as national director for honor society"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=13"
 sort_date: 1291325531000
+year: 2010
 pubDate: "02 Dec 2010 21:32:11 GMT"
 creator: "Elizabeth Becvar"
 ---

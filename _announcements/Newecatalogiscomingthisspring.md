@@ -2,6 +2,7 @@
 title: "​New ecatalog is coming this spring"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2159"
 sort_date: 1454948972000
+year: 2016
 pubDate: "08 Feb 2016 16:29:32 GMT"
 creator: "Ellen Schmidt"
 ---

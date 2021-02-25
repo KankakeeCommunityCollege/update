@@ -2,6 +2,7 @@
 title: "Win a Handmade Basket! Drawing 11/17"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=478"
 sort_date: 1318362284000
+year: 2011
 pubDate: "11 Oct 2011 19:44:44 GMT"
 creator: "Ellen Schmidt"
 ---

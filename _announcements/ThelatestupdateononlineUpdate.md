@@ -2,6 +2,7 @@
 title: "The latest update on online Update "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=117"
 sort_date: 1297779216000
+year: 2011
 pubDate: "15 Feb 2011 14:13:36 GMT"
 creator: "Elizabeth Becvar"
 ---

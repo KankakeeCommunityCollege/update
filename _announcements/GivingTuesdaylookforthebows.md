@@ -2,6 +2,7 @@
 title: "Giving Tuesday – look for the bows"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2084"
 sort_date: 1447855431000
+year: 2015
 pubDate: "18 Nov 2015 14:03:51 GMT"
 creator: "Elizabeth Becvar"
 ---

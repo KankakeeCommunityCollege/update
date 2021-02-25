@@ -2,6 +2,7 @@
 title: "Info on posting and distribution of literature  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1662"
 sort_date: 1412716525000
+year: 2014
 pubDate: "07 Oct 2014 21:15:25 GMT"
 creator: "Ellen Schmidt"
 ---

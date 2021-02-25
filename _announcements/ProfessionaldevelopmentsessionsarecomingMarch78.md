@@ -2,6 +2,7 @@
 title: "Professional development sessions are coming March 7 & 8"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=594"
 sort_date: 1327945406000
+year: 2012
 pubDate: "30 Jan 2012 17:43:26 GMT"
 creator: "Ellen Schmidt"
 ---

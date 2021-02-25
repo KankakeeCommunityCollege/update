@@ -2,6 +2,7 @@
 title: "KCC Foundation applications now available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=94"
 sort_date: 1296253454000
+year: 2011
 pubDate: "28 Jan 2011 22:24:14 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Final chance for Hoopla sign-up "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1665"
 sort_date: 1412861289000
+year: 2014
 pubDate: "09 Oct 2014 13:28:09 GMT"
 creator: "Elizabeth Becvar"
 ---

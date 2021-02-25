@@ -2,6 +2,7 @@
 title: "Greetings from the realm of retirement!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=757"
 sort_date: 1342451964000
+year: 2012
 pubDate: "16 Jul 2012 15:19:24 GMT"
 creator: "Ellen Schmidt"
 ---

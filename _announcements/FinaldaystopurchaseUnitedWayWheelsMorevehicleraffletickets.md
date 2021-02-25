@@ -2,6 +2,7 @@
 title: "Final days to purchase United Way Wheels & More vehicle raffle tickets"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1085"
 sort_date: 1366290983000
+year: 2013
 pubDate: "18 Apr 2013 13:16:23 GMT"
 creator: "Ellen Schmidt"
 ---

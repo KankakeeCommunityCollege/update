@@ -2,6 +2,7 @@
 title: "Hear the 'state of the state' on WKCC&colon; 2-16-2011"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=120"
 sort_date: 1297779594000
+year: 2011
 pubDate: "15 Feb 2011 14:19:54 GMT"
 creator: "Elizabeth Becvar"
 ---

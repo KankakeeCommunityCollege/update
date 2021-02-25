@@ -2,6 +2,7 @@
 title: "Thank you related to vice presidential search"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1475"
 sort_date: 1397757504000
+year: 2014
 pubDate: "17 Apr 2014 17:58:24 GMT"
 creator: "Ellen Schmidt"
 ---

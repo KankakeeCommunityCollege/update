@@ -2,6 +2,7 @@
 title: "Please share KCC success stories"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=58"
 sort_date: 1294346383000
+year: 2011
 pubDate: "06 Jan 2011 20:39:43 GMT"
 creator: "Ellen Schmidt"
 ---

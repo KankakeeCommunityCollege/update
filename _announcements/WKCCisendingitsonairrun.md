@@ -2,6 +2,7 @@
 title: "WKCC is ending its on-air run"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1956"
 sort_date: 1434661316000
+year: 2015
 pubDate: "18 Jun 2015 21:01:56 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Bookstore offers plenty of Valentine's options"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=979"
 sort_date: 1359734489000
+year: 2013
 pubDate: "01 Feb 2013 16:01:29 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Your campus, your fun, your ideas"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2479"
 sort_date: 1501766233000
+year: 2017
 pubDate: "03 Aug 2017 13:17:13 GMT"
 creator: "Elizabeth Becvar"
 ---

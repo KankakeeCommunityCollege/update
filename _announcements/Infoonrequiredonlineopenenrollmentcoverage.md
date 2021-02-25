@@ -2,6 +2,7 @@
 title: "Info on required online open enrollment coverage"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2075"
 sort_date: 1447173203000
+year: 2015
 pubDate: "10 Nov 2015 16:33:23 GMT"
 creator: "Ellen Schmidt"
 ---

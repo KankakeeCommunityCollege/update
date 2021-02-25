@@ -2,6 +2,7 @@
 title: "​Time sheet deadline and 12/24 paychecks "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2104"
 sort_date: 1449155968000
+year: 2015
 pubDate: "03 Dec 2015 15:19:28 GMT"
 creator: "Ellen Schmidt"
 ---

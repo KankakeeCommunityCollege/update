@@ -2,6 +2,7 @@
 title: "Register now for 5th annual KCC 5K for United Way"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1220"
 sort_date: 1377783861000
+year: 2013
 pubDate: "29 Aug 2013 13:44:21 GMT"
 creator: "Ellen Schmidt"
 ---

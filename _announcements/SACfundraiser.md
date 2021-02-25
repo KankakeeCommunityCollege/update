@@ -2,6 +2,7 @@
 title: "SAC fundraiser"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1873"
 sort_date: 1428080281000
+year: 2015
 pubDate: "03 Apr 2015 16:58:01 GMT"
 creator: "Elizabeth Becvar"
 ---

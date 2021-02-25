@@ -2,6 +2,7 @@
 title: "Card of thanks"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=548"
 sort_date: 1323398702000
+year: 2011
 pubDate: "09 Dec 2011 02:45:02 GMT"
 creator: "Ellen Schmidt"
 ---

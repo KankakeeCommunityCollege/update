@@ -2,6 +2,7 @@
 title: "HLC & coffee - Quality Highlights Report"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2074"
 sort_date: 1447170276000
+year: 2015
 pubDate: "10 Nov 2015 15:44:36 GMT"
 creator: "Elizabeth Becvar"
 ---

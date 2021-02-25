@@ -2,6 +2,7 @@
 title: "Bookstore inventory means supply deadline"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2223"
 sort_date: 1464959235000
+year: 2016
 pubDate: "03 Jun 2016 13:07:15 GMT"
 creator: "Ellen Schmidt"
 ---

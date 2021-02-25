@@ -2,6 +2,7 @@
 title: "Betty Meents of Watseka presented 35-year Trustee Award from the Illinois Community College Trustees Association"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=354"
 sort_date: 1308081709000
+year: 2011
 pubDate: "14 Jun 2011 20:01:49 GMT"
 creator: "Elizabeth Becvar"
 ---

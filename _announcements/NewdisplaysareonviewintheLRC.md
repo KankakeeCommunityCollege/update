@@ -2,6 +2,7 @@
 title: "New displays are on view in the LRC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1200"
 sort_date: 1376677517000
+year: 2013
 pubDate: "16 Aug 2013 18:25:17 GMT"
 creator: "Ellen Schmidt"
 ---

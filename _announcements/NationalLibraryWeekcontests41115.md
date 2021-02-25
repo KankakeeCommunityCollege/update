@@ -2,6 +2,7 @@
 title: "National Library Week contests&colon; 4/11-15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=220"
 sort_date: 1302529506000
+year: 2011
 pubDate: "11 Apr 2011 13:45:06 GMT"
 creator: "Elizabeth Becvar"
 ---

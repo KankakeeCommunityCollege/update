@@ -2,6 +2,7 @@
 title: "Club continues to seek a lead advisor"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1165"
 sort_date: 1373495092000
+year: 2013
 pubDate: "10 Jul 2013 22:24:52 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Thanks-a-gram&colon; Brian Yeoman & April Frye"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1877"
 sort_date: 1428334695000
+year: 2015
 pubDate: "06 Apr 2015 15:38:15 GMT"
 creator: "Elizabeth Becvar"
 ---

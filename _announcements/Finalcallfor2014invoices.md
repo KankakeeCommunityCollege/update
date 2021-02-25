@@ -2,6 +2,7 @@
 title: "Final call for 2014 invoices"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1506"
 sort_date: 1399400845000
+year: 2014
 pubDate: "06 May 2014 18:27:25 GMT"
 creator: "Ellen Schmidt"
 ---

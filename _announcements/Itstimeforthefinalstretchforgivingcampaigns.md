@@ -2,6 +2,7 @@
 title: "It's time for the final stretch for giving campaigns"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2079"
 sort_date: 1447438691000
+year: 2015
 pubDate: "13 Nov 2015 18:18:11 GMT"
 creator: "Ellen Schmidt"
 ---

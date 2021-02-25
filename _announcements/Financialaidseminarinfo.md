@@ -2,6 +2,7 @@
 title: "Financial aid seminar info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=471"
 sort_date: 1318016111000
+year: 2011
 pubDate: "07 Oct 2011 19:35:11 GMT"
 creator: "Ellen Schmidt"
 ---

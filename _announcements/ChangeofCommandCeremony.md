@@ -2,6 +2,7 @@
 title: "Change of Command Ceremony"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1909"
 sort_date: 1430341673000
+year: 2015
 pubDate: "29 Apr 2015 21:07:53 GMT"
 creator: "Kari Nugent"
 ---

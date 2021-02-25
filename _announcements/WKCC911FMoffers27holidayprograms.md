@@ -2,6 +2,7 @@
 title: "WKCC 91.1 FM offers 27 holiday programs"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=915"
 sort_date: 1353513063000
+year: 2012
 pubDate: "21 Nov 2012 15:51:03 GMT"
 creator: "Ellen Schmidt"
 ---

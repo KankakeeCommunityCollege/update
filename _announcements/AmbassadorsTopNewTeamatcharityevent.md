@@ -2,6 +2,7 @@
 title: "Ambassadors 'Top New Team' at charity event "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=256"
 sort_date: 1303751157000
+year: 2011
 pubDate: "25 Apr 2011 17:05:57 GMT"
 creator: "Elizabeth Becvar"
 ---

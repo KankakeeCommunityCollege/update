@@ -2,6 +2,7 @@
 title: "Date change -- KCC will host WYSE competition on 2/10"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1808"
 sort_date: 1422647863000
+year: 2015
 pubDate: "30 Jan 2015 19:57:43 GMT"
 creator: "Ellen Schmidt"
 ---

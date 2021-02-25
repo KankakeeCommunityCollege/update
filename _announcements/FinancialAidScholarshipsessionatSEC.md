@@ -2,6 +2,7 @@
 title: "Financial Aid Scholarship session at SEC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1793"
 sort_date: 1421350493000
+year: 2015
 pubDate: "15 Jan 2015 19:34:53 GMT"
 creator: "Elizabeth Becvar"
 ---

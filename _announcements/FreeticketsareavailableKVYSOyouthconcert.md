@@ -2,6 +2,7 @@
 title: "Free tickets are available -- KVYSO youth concert"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1709"
 sort_date: 1415114605000
+year: 2014
 pubDate: "04 Nov 2014 15:23:25 GMT"
 creator: "Ellen Schmidt"
 ---

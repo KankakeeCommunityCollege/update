@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; The staff of the Miner Memorial Library"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1871"
 sort_date: 1427907124000
+year: 2015
 pubDate: "01 Apr 2015 16:52:04 GMT"
 creator: "Elizabeth Becvar"
 ---

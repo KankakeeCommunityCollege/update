@@ -2,6 +2,7 @@
 title: "Setback with RSS feeds, fix by subscribing again"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=225"
 sort_date: 1302532348000
+year: 2011
 pubDate: "11 Apr 2011 14:32:28 GMT"
 creator: "Elizabeth Becvar"
 ---

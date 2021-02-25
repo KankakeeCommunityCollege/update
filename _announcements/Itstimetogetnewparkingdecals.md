@@ -2,6 +2,7 @@
 title: "It's time to get new parking decals"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1533"
 sort_date: 1401818304000
+year: 2014
 pubDate: "03 Jun 2014 17:58:24 GMT"
 creator: "Ellen Schmidt"
 ---

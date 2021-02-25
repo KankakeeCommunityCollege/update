@@ -2,6 +2,7 @@
 title: "Movie showing re-scheduled for spring"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=817"
 sort_date: 1347570560000
+year: 2012
 pubDate: "13 Sep 2012 21:09:20 GMT"
 creator: "Ellen Schmidt"
 ---

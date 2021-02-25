@@ -2,6 +2,7 @@
 title: "ITS boldly warps into 1st place in Halloween contest "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1310"
 sort_date: 1383255735000
+year: 2013
 pubDate: "31 Oct 2013 21:42:15 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Be the Change Employee Giving Campaign Off to a Great Start!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=795"
 sort_date: 1345841467000
+year: 2012
 pubDate: "24 Aug 2012 20:51:07 GMT"
 creator: "Ellen Schmidt"
 ---

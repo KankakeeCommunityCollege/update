@@ -2,6 +2,7 @@
 title: "Get moms and grads cards and gifts from the Hammes Bookstore"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1096"
 sort_date: 1367251999000
+year: 2013
 pubDate: "29 Apr 2013 16:13:19 GMT"
 creator: "Elizabeth Becvar"
 ---

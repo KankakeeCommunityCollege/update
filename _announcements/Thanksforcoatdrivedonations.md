@@ -2,6 +2,7 @@
 title: "Thanks for coat drive donations"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=534"
 sort_date: 1322689626000
+year: 2011
 pubDate: "30 Nov 2011 21:47:06 GMT"
 creator: "Ellen Schmidt"
 ---

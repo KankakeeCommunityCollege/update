@@ -2,6 +2,7 @@
 title: "Welcome Back Week volunteers needed"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2261"
 sort_date: 1470252811000
+year: 2016
 pubDate: "03 Aug 2016 19:33:31 GMT"
 creator: "Elizabeth Becvar"
 ---

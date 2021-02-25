@@ -2,6 +2,7 @@
 title: "Accelerate Small Business Scheduled at KCC for 8/5"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1977"
 sort_date: 1436793467000
+year: 2015
 pubDate: "13 Jul 2015 13:17:47 GMT"
 creator: "Elizabeth Becvar"
 ---

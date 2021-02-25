@@ -2,6 +2,7 @@
 title: "United Way offers Wheels and More raffle in final weeks of campaign"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=599"
 sort_date: 1328799193000
+year: 2012
 pubDate: "09 Feb 2012 14:53:13 GMT"
 creator: "Ellen Schmidt"
 ---

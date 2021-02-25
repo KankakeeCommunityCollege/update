@@ -2,6 +2,7 @@
 title: "​Save the date, recognition event&colon; 11/13 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2039"
 sort_date: 1443726808000
+year: 2015
 pubDate: "01 Oct 2015 19:13:28 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "News for budget managers"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=949"
 sort_date: 1357831149000
+year: 2013
 pubDate: "10 Jan 2013 15:19:09 GMT"
 creator: "Ellen Schmidt"
 ---

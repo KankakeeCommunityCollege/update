@@ -2,6 +2,7 @@
 title: "Child Development Center says thanks for support of fall fundraiser"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1293"
 sort_date: 1382378976000
+year: 2013
 pubDate: "21 Oct 2013 18:09:36 GMT"
 creator: "Ellen Schmidt"
 ---

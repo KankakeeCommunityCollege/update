@@ -2,6 +2,7 @@
 title: "Info on food service ordering during vendor proposals"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1548"
 sort_date: 1403553650000
+year: 2014
 pubDate: "23 Jun 2014 20:00:50 GMT"
 creator: "Ellen Schmidt"
 ---

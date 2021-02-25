@@ -2,6 +2,7 @@
 title: "Employment news&colon; 6/12 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=733"
 sort_date: 1339532520000
+year: 2012
 pubDate: "12 Jun 2012 20:22:00 GMT"
 creator: "Elizabeth Becvar"
 ---

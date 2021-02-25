@@ -2,6 +2,7 @@
 title: "Closure of 1st floor WDC on 1/19"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=957"
 sort_date: 1358285807000
+year: 2013
 pubDate: "15 Jan 2013 21:36:47 GMT"
 creator: "Ellen Schmidt"
 ---

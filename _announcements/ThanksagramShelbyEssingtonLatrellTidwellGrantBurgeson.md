@@ -2,6 +2,7 @@
 title: "Thanks-a-gram&colon; Shelby Essington, Latrell Tidwell, Grant Burgeson"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2421"
 sort_date: 1492461102000
+year: 2017
 pubDate: "17 Apr 2017 20:31:42 GMT"
 creator: "Elizabeth Becvar"
 ---

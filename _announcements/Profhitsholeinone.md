@@ -2,6 +2,7 @@
 title: "Prof hits hole-in-one"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2396"
 sort_date: 1489591529000
+year: 2017
 pubDate: "15 Mar 2017 15:25:29 GMT"
 creator: "Ellen Schmidt"
 ---

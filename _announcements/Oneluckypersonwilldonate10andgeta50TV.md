@@ -2,6 +2,7 @@
 title: "One lucky person will donate $10 and get a 50&quot; TV"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1572"
 sort_date: 1406147562000
+year: 2014
 pubDate: "23 Jul 2014 20:32:42 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Congratulations to winners of gas cards"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1178"
 sort_date: 1374704275000
+year: 2013
 pubDate: "24 Jul 2013 22:17:55 GMT"
 creator: "Ellen Schmidt"
 ---

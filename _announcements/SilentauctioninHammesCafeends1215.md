@@ -2,6 +2,7 @@
 title: "Silent auction in Hammes Cafe ends 12/15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=32"
 sort_date: 1291817596000
+year: 2010
 pubDate: "08 Dec 2010 14:13:16 GMT"
 creator: "Ellen Schmidt"
 ---

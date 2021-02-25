@@ -2,6 +2,7 @@
 title: "2 Humanities and Social Sciences faculty have new offices"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=784"
 sort_date: 1345557074000
+year: 2012
 pubDate: "21 Aug 2012 13:51:14 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "TRIO at Chicago Food Depository"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=740"
 sort_date: 1340120760000
+year: 2012
 pubDate: "19 Jun 2012 15:46:00 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "You’re Golden! Anniversary Week celebration"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2295"
 sort_date: 1475067353000
+year: 2016
 pubDate: "28 Sep 2016 12:55:53 GMT"
 creator: "Elizabeth Becvar"
 ---

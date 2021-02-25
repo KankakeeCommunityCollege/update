@@ -2,6 +2,7 @@
 title: "Bookstore offers big savings 11/25-11/27"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1333"
 sort_date: 1384970483000
+year: 2013
 pubDate: "20 Nov 2013 18:01:23 GMT"
 creator: "Ellen Schmidt"
 ---

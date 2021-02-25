@@ -2,6 +2,7 @@
 title: "Animal Shelter Supply Drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=796"
 sort_date: 1346092327000
+year: 2012
 pubDate: "27 Aug 2012 18:32:07 GMT"
 creator: "Nancy Schunke"
 ---

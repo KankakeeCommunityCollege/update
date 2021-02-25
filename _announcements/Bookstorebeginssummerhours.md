@@ -2,6 +2,7 @@
 title: "Bookstore begins summer hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1513"
 sort_date: 1399557638000
+year: 2014
 pubDate: "08 May 2014 14:00:38 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Open position&colon; 8/3"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1992"
 sort_date: 1438610481000
+year: 2015
 pubDate: "03 Aug 2015 14:01:21 GMT"
 creator: "Elizabeth Becvar"
 ---

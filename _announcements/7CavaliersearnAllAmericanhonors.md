@@ -2,6 +2,7 @@
 title: "7 Cavaliers earn All-American honors"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=375"
 sort_date: 1310387806000
+year: 2011
 pubDate: "11 Jul 2011 12:36:46 GMT"
 creator: "Elizabeth Becvar"
 ---

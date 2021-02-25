@@ -2,6 +2,7 @@
 title: "Trivia Challenge nights net $3,420"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=659"
 sort_date: 1333632920000
+year: 2012
 pubDate: "05 Apr 2012 13:35:20 GMT"
 creator: "Ellen Schmidt"
 ---

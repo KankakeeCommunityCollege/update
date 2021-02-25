@@ -2,6 +2,7 @@
 title: "Recognition of adjunct faculty service"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=650"
 sort_date: 1332967011000
+year: 2012
 pubDate: "28 Mar 2012 20:36:51 GMT"
 creator: "Ellen Schmidt"
 ---

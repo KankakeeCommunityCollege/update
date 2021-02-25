@@ -2,6 +2,7 @@
 title: "Adjunct faculty job fair&colon; 3/25"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1860"
 sort_date: 1426627437000
+year: 2015
 pubDate: "17 Mar 2015 21:23:57 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "New SkillsUSA program is seeking students"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=786"
 sort_date: 1345578506000
+year: 2012
 pubDate: "21 Aug 2012 19:48:26 GMT"
 creator: "Elizabeth Becvar"
 ---

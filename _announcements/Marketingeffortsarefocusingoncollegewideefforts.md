@@ -2,6 +2,7 @@
 title: "Marketing efforts are focusing on collegewide efforts"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2034"
 sort_date: 1443029618000
+year: 2015
 pubDate: "23 Sep 2015 17:33:38 GMT"
 creator: "Ellen Schmidt"
 ---

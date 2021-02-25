@@ -2,6 +2,7 @@
 title: "Scholarship booklets and applications available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=79"
 sort_date: 1295628964000
+year: 2011
 pubDate: "21 Jan 2011 16:56:04 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Parking decals are expiring"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1097"
 sort_date: 1367252086000
+year: 2013
 pubDate: "29 Apr 2013 16:14:46 GMT"
 creator: "Elizabeth Becvar"
 ---

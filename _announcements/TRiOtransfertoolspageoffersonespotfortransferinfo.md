@@ -2,6 +2,7 @@
 title: "TRiO transfer tools page offers one spot for transfer info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=533"
 sort_date: 1322683151000
+year: 2011
 pubDate: "30 Nov 2011 19:59:11 GMT"
 creator: "Ellen Schmidt"
 ---

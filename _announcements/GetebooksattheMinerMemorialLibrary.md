@@ -2,6 +2,7 @@
 title: "Get e-books at the Miner Memorial Library"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1552"
 sort_date: 1403726189000
+year: 2014
 pubDate: "25 Jun 2014 19:56:29 GMT"
 creator: "Ellen Schmidt"
 ---

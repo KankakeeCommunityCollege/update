@@ -2,6 +2,7 @@
 title: "KCC professor serves as panelist at Argonne event"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1059"
 sort_date: 1365536050000
+year: 2013
 pubDate: "09 Apr 2013 19:34:10 GMT"
 creator: "Ellen Schmidt"
 ---

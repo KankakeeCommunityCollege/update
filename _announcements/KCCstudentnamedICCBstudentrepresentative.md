@@ -2,6 +2,7 @@
 title: "KCC student named ICCB student representative"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=663"
 sort_date: 1333731879000
+year: 2012
 pubDate: "06 Apr 2012 17:04:39 GMT"
 creator: "Elizabeth Becvar"
 ---

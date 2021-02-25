@@ -2,6 +2,7 @@
 title: "Raffle offers chances for a 46&quot; TV -- and much more"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1179"
 sort_date: 1374758937000
+year: 2013
 pubDate: "25 Jul 2013 13:28:57 GMT"
 creator: "Ellen Schmidt"
 ---

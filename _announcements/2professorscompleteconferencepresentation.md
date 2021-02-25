@@ -2,6 +2,7 @@
 title: "2 professors complete conference presentation "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2046"
 sort_date: 1444333167000
+year: 2015
 pubDate: "08 Oct 2015 19:39:27 GMT"
 creator: "Ellen Schmidt"
 ---

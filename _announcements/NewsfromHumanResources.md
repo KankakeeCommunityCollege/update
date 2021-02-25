@@ -2,6 +2,7 @@
 title: "News from Human Resources"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=81"
 sort_date: 1295974468000
+year: 2011
 pubDate: "25 Jan 2011 16:54:28 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

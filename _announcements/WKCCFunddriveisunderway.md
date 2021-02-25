@@ -2,6 +2,7 @@
 title: "WKCC Fund drive is underway"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1356"
 sort_date: 1386351522000
+year: 2013
 pubDate: "06 Dec 2013 17:38:42 GMT"
 creator: "Ellen Schmidt"
 ---

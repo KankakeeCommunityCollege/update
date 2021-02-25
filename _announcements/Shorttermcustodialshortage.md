@@ -2,6 +2,7 @@
 title: "Short-term custodial shortage"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1447"
 sort_date: 1395176650000
+year: 2014
 pubDate: "18 Mar 2014 21:04:10 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Congratulations on earning doctorate"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1465"
 sort_date: 1397153222000
+year: 2014
 pubDate: "10 Apr 2014 18:07:02 GMT"
 creator: "Ellen Schmidt"
 ---

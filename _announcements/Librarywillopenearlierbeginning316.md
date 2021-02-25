@@ -2,6 +2,7 @@
 title: "​Library will open earlier beginning 3/16"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1842"
 sort_date: 1425318463000
+year: 2015
 pubDate: "02 Mar 2015 17:47:43 GMT"
 creator: "Ellen Schmidt"
 ---

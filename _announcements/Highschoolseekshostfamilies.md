@@ -2,6 +2,7 @@
 title: "High school seeks host families"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1555"
 sort_date: 1404230513000
+year: 2014
 pubDate: "01 Jul 2014 16:01:53 GMT"
 creator: "Ellen Schmidt"
 ---

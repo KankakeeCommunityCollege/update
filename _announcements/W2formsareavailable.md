@@ -2,6 +2,7 @@
 title: "W-2 forms are available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=964"
 sort_date: 1358523812000
+year: 2013
 pubDate: "18 Jan 2013 15:43:32 GMT"
 creator: "Ellen Schmidt"
 ---

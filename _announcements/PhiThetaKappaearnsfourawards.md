@@ -2,6 +2,7 @@
 title: "Phi Theta Kappa earns four awards"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1161"
 sort_date: 1373395651000
+year: 2013
 pubDate: "09 Jul 2013 18:47:31 GMT"
 creator: "Ellen Schmidt"
 ---

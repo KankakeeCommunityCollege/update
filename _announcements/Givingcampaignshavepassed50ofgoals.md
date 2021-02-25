@@ -2,6 +2,7 @@
 title: "Giving campaigns have passed 50% of goals"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2060"
 sort_date: 1445621605000
+year: 2015
 pubDate: "23 Oct 2015 17:33:25 GMT"
 creator: "Ellen Schmidt"
 ---

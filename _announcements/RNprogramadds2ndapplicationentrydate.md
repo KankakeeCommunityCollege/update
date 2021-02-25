@@ -2,6 +2,7 @@
 title: "RN program adds 2nd application/entry date"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=643"
 sort_date: 1332514258000
+year: 2012
 pubDate: "23 Mar 2012 14:50:58 GMT"
 creator: "Ellen Schmidt"
 ---

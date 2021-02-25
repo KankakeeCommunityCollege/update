@@ -2,6 +2,7 @@
 title: "Board notes - 11/14"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=517"
 sort_date: 1321464327000
+year: 2011
 pubDate: "16 Nov 2011 17:25:27 GMT"
 creator: "Ellen Schmidt"
 ---

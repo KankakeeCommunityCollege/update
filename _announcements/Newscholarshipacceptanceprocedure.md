@@ -2,6 +2,7 @@
 title: "New scholarship acceptance procedure"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1540"
 sort_date: 1402498866000
+year: 2014
 pubDate: "11 Jun 2014 15:01:06 GMT"
 creator: "Ellen Schmidt"
 ---

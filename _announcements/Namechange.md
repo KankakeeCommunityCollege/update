@@ -2,6 +2,7 @@
 title: "Name change"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=397"
 sort_date: 1312829756000
+year: 2011
 pubDate: "08 Aug 2011 18:55:56 GMT"
 creator: "Ellen Schmidt"
 ---

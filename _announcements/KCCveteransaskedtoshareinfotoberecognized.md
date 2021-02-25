@@ -2,6 +2,7 @@
 title: "KCC veterans asked to share info to be recognized"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=869"
 sort_date: 1351179865000
+year: 2012
 pubDate: "25 Oct 2012 15:44:25 GMT"
 creator: "Ellen Schmidt"
 ---

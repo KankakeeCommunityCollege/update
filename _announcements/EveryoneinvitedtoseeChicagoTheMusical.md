@@ -2,6 +2,7 @@
 title: "Everyone invited to see 'Chicago&colon; The Musical'"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1159"
 sort_date: 1373293017000
+year: 2013
 pubDate: "08 Jul 2013 14:16:57 GMT"
 creator: "Ellen Schmidt"
 ---

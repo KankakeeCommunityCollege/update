@@ -2,6 +2,7 @@
 title: "KCC Community Garden still has spaces  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1942"
 sort_date: 1433259317000
+year: 2015
 pubDate: "02 Jun 2015 15:35:17 GMT"
 creator: "Ellen Schmidt"
 ---

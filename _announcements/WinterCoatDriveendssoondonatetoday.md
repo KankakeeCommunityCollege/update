@@ -2,6 +2,7 @@
 title: "Winter Coat Drive ends soon ... donate today!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1713"
 sort_date: 1415225274000
+year: 2014
 pubDate: "05 Nov 2014 22:07:54 GMT"
 creator: "Ellen Schmidt"
 ---

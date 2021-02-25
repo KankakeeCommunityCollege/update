@@ -2,6 +2,7 @@
 title: "Dine and Donate opportunity on 10/4"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1265"
 sort_date: 1380557500000
+year: 2013
 pubDate: "30 Sep 2013 16:11:40 GMT"
 creator: "Kari Nugent"
 ---

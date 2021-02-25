@@ -2,6 +2,7 @@
 title: "Return cafeteria trays"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=215"
 sort_date: 1302529135000
+year: 2011
 pubDate: "11 Apr 2011 13:38:55 GMT"
 creator: "Elizabeth Becvar"
 ---

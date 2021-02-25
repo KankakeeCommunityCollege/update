@@ -2,6 +2,7 @@
 title: "Fire alarm inspections&colon; 1/23-1/27"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2369"
 sort_date: 1484674490000
+year: 2017
 pubDate: "17 Jan 2017 17:34:50 GMT"
 creator: "Ellen Schmidt"
 ---

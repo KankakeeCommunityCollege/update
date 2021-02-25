@@ -2,6 +2,7 @@
 title: "SURS offers retirement planning appointments on 2/22   "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=68"
 sort_date: 1294696314000
+year: 2011
 pubDate: "10 Jan 2011 21:51:54 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "TRiO Talent Search and Upward Bound students named Illinois State Scholars"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=570"
 sort_date: 1326226608000
+year: 2012
 pubDate: "10 Jan 2012 20:16:48 GMT"
 creator: "Nancy Schunke"
 ---

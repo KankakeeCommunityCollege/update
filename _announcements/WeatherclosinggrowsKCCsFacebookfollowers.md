@@ -2,6 +2,7 @@
 title: "Weather closing grows KCC’s Facebook followers"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1405"
 sort_date: 1391191620000
+year: 2014
 pubDate: "31 Jan 2014 18:07:00 GMT"
 creator: "Nancy Schunke"
 ---

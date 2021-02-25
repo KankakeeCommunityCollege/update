@@ -2,6 +2,7 @@
 title: "Students dig in to Agri-Hort program learning opportunities"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1874"
 sort_date: 1428081711000
+year: 2015
 pubDate: "03 Apr 2015 17:21:51 GMT"
 creator: "Ellen Schmidt"
 ---

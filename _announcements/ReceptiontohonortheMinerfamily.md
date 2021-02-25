@@ -2,6 +2,7 @@
 title: "Reception to honor the Miner family"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1260"
 sort_date: 1380143359000
+year: 2013
 pubDate: "25 Sep 2013 21:09:19 GMT"
 creator: "Kari Nugent"
 ---

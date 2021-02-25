@@ -2,6 +2,7 @@
 title: "New account numbers for travel expenses"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1167"
 sort_date: 1374070414000
+year: 2013
 pubDate: "17 Jul 2013 14:13:34 GMT"
 creator: "Kari Nugent"
 ---

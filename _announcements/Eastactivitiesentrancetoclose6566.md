@@ -2,6 +2,7 @@
 title: "East activities entrance to close 6/5 & 6/6"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1130"
 sort_date: 1370265982000
+year: 2013
 pubDate: "03 Jun 2013 13:26:22 GMT"
 creator: "Ellen Schmidt"
 ---

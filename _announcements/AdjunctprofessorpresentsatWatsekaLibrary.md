@@ -2,6 +2,7 @@
 title: "Adjunct professor presents at Watseka Library"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1628"
 sort_date: 1410896671000
+year: 2014
 pubDate: "16 Sep 2014 19:44:31 GMT"
 creator: "Ellen Schmidt"
 ---

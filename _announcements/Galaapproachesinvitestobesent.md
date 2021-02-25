@@ -2,6 +2,7 @@
 title: "Gala approaches -- invites to be sent"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2401"
 sort_date: 1490372612000
+year: 2017
 pubDate: "24 Mar 2017 16:23:32 GMT"
 creator: "Ellen Schmidt"
 ---

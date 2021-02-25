@@ -2,6 +2,7 @@
 title: "Thanks for a great Hispanic Arts & Heritage Day for Education event "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=398"
 sort_date: 1312925695000
+year: 2011
 pubDate: "09 Aug 2011 21:34:55 GMT"
 creator: "Ellen Schmidt"
 ---

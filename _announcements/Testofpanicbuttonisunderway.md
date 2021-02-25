@@ -2,6 +2,7 @@
 title: "Test of 'panic button' is underway"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1145"
 sort_date: 1371480630000
+year: 2013
 pubDate: "17 Jun 2013 14:50:30 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Steve Makepeace, Travis Miller, and Lindsey Zerbian"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1203"
 sort_date: 1377092251000
+year: 2013
 pubDate: "21 Aug 2013 13:37:31 GMT"
 creator: "Elizabeth Becvar"
 ---

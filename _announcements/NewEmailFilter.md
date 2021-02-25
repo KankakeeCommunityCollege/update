@@ -2,6 +2,7 @@
 title: "New Email Filter"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1560"
 sort_date: 1404931354000
+year: 2014
 pubDate: "09 Jul 2014 18:42:34 GMT"
 creator: "Ellen Schmidt"
 ---

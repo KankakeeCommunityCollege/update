@@ -2,6 +2,7 @@
 title: "Phi Theta Kappa chapter earns 5 Star status"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=380"
 sort_date: 1311026901000
+year: 2011
 pubDate: "18 Jul 2011 22:08:21 GMT"
 creator: "Ellen Schmidt"
 ---

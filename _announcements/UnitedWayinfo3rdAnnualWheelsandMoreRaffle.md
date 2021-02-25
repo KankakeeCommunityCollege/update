@@ -2,6 +2,7 @@
 title: "United Way info -- 3rd Annual Wheels and More Raffle"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=580"
 sort_date: 1326899493000
+year: 2012
 pubDate: "18 Jan 2012 15:11:33 GMT"
 creator: "Ellen Schmidt"
 ---

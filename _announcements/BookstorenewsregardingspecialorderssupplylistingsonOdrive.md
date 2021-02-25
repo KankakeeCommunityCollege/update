@@ -2,6 +2,7 @@
 title: "Bookstore news regarding special orders; supply listings on O drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=880"
 sort_date: 1351782283000
+year: 2012
 pubDate: "01 Nov 2012 15:04:43 GMT"
 creator: "Ellen Schmidt"
 ---

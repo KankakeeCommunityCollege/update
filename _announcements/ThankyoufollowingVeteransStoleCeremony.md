@@ -2,6 +2,7 @@
 title: "Thank you following Veteran’s Stole Ceremony"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1511"
 sort_date: 1399555938000
+year: 2014
 pubDate: "08 May 2014 13:32:18 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "All week&colon; Thank-A-Veteran Poster Signing"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=981"
 sort_date: 1359757163000
+year: 2013
 pubDate: "01 Feb 2013 22:19:23 GMT"
 creator: "Ellen Schmidt"
 ---

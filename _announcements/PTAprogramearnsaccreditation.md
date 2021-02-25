@@ -2,6 +2,7 @@
 title: "PTA program earns accreditation "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=235"
 sort_date: 1303507373000
+year: 2011
 pubDate: "22 Apr 2011 21:22:53 GMT"
 creator: "Elizabeth Becvar"
 ---

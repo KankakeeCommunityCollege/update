@@ -2,6 +2,7 @@
 title: "Pictures available from Meridian IX dedication"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=481"
 sort_date: 1318541879000
+year: 2011
 pubDate: "13 Oct 2011 21:37:59 GMT"
 creator: "Ellen Schmidt"
 ---

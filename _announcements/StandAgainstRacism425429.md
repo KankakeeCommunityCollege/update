@@ -2,6 +2,7 @@
 title: "'Stand Against Racism'&colon; 4/25-4/29 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=247"
 sort_date: 1303749887000
+year: 2011
 pubDate: "25 Apr 2011 16:44:47 GMT"
 creator: "Elizabeth Becvar"
 ---

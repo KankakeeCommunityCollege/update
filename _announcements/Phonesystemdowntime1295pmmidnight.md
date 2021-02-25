@@ -2,6 +2,7 @@
 title: "Phone system downtime&colon; 12/9, 5 p.m. - midnight"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=546"
 sort_date: 1323107188000
+year: 2011
 pubDate: "05 Dec 2011 17:46:28 GMT"
 creator: "Ellen Schmidt"
 ---

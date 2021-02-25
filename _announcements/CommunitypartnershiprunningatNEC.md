@@ -2,6 +2,7 @@
 title: "​Community partnership running at NEC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2503"
 sort_date: 1504792329000
+year: 2017
 pubDate: "07 Sep 2017 13:52:09 GMT"
 creator: "Ellen Schmidt"
 ---

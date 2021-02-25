@@ -2,6 +2,7 @@
 title: "June anniversaries list "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2221"
 sort_date: 1464883012000
+year: 2016
 pubDate: "02 Jun 2016 15:56:52 GMT"
 creator: "Ellen Schmidt"
 ---

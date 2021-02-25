@@ -2,6 +2,7 @@
 title: "Wood carvings exhibit celebrates Veteran's Day"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1690"
 sort_date: 1414085349000
+year: 2014
 pubDate: "23 Oct 2014 17:29:09 GMT"
 creator: "Ellen Schmidt"
 ---

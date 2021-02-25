@@ -2,6 +2,7 @@
 title: "HLC & Coffee - Systems Portfolio Addendum"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2081"
 sort_date: 1447708486000
+year: 2015
 pubDate: "16 Nov 2015 21:14:46 GMT"
 creator: "Elizabeth Becvar"
 ---

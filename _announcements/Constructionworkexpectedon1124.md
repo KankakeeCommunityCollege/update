@@ -2,6 +2,7 @@
 title: "Construction work expected on 11/24"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1742"
 sort_date: 1416589397000
+year: 2014
 pubDate: "21 Nov 2014 17:03:17 GMT"
 creator: "Ellen Schmidt"
 ---

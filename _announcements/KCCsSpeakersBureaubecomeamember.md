@@ -2,6 +2,7 @@
 title: "KCC's Speaker's Bureau - become a member"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2209"
 sort_date: 1461847549000
+year: 2016
 pubDate: "28 Apr 2016 12:45:49 GMT"
 creator: "Elizabeth Becvar"
 ---

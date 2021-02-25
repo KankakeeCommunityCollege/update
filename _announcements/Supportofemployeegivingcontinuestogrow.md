@@ -2,6 +2,7 @@
 title: "Support of Employee Giving Continues to Grow!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1263"
 sort_date: 1380309464000
+year: 2013
 pubDate: "27 Sep 2013 19:17:44 GMT"
 creator: "Ellen Schmidt"
 ---

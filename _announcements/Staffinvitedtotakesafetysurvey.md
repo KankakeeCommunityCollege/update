@@ -2,6 +2,7 @@
 title: "Staff invited to take safety survey"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2407"
 sort_date: 1490976629000
+year: 2017
 pubDate: "31 Mar 2017 16:10:29 GMT"
 creator: "Ellen Schmidt"
 ---

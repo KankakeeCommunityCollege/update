@@ -2,6 +2,7 @@
 title: "New Resource in the Learning Resource Center"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=878"
 sort_date: 1351777647000
+year: 2012
 pubDate: "01 Nov 2012 13:47:27 GMT"
 creator: "Ellen Schmidt"
 ---

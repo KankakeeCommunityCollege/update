@@ -2,6 +2,7 @@
 title: "Transition to online Update continues "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=182"
 sort_date: 1300731774000
+year: 2011
 pubDate: "21 Mar 2011 18:22:54 GMT"
 creator: "Elizabeth Becvar"
 ---

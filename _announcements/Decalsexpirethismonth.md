@@ -2,6 +2,7 @@
 title: "Decals expire this month"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=319"
 sort_date: 1306351383000
+year: 2011
 pubDate: "25 May 2011 19:23:03 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

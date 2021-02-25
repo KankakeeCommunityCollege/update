@@ -2,6 +2,7 @@
 title: "Massage clinic is open"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1915"
 sort_date: 1430856175000
+year: 2015
 pubDate: "05 May 2015 20:02:55 GMT"
 creator: "Ellen Schmidt"
 ---

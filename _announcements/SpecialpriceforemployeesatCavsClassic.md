@@ -2,6 +2,7 @@
 title: "Special price for employees at Cavs Classic"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1952"
 sort_date: 1434462401000
+year: 2015
 pubDate: "16 Jun 2015 13:46:41 GMT"
 creator: "Ellen Schmidt"
 ---

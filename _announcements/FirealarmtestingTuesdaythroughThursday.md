@@ -2,6 +2,7 @@
 title: "Fire alarm testing&colon; Tuesday through Thursday"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=55"
 sort_date: 1294067808000
+year: 2011
 pubDate: "03 Jan 2011 15:16:48 GMT"
 creator: "Ellen Schmidt"
 ---

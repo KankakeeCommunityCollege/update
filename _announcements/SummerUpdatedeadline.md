@@ -2,6 +2,7 @@
 title: "Summer Update deadline "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=262"
 sort_date: 1304343061000
+year: 2011
 pubDate: "02 May 2011 13:31:01 GMT"
 creator: "Elizabeth Becvar"
 ---

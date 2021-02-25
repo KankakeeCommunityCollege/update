@@ -2,6 +2,7 @@
 title: "Congratulations to Miss Capital City winner"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1454"
 sort_date: 1396029723000
+year: 2014
 pubDate: "28 Mar 2014 18:02:03 GMT"
 creator: "Ellen Schmidt"
 ---

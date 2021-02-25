@@ -2,6 +2,7 @@
 title: "Student Services career services area now focused on career development"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=43"
 sort_date: 1292279444000
+year: 2010
 pubDate: "13 Dec 2010 22:30:44 GMT"
 creator: "Ellen Schmidt"
 ---

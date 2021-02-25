@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram - Sustainability Expo"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=688"
 sort_date: 1335463832000
+year: 2012
 pubDate: "26 Apr 2012 18:10:32 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Notice of recent car burglaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1252"
 sort_date: 1379615498000
+year: 2013
 pubDate: "19 Sep 2013 18:31:38 GMT"
 creator: "Ellen Schmidt"
 ---

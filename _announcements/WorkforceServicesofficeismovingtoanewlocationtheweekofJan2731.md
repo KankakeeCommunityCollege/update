@@ -2,6 +2,7 @@
 title: "Workforce Services office is moving to a new location the week of Jan. 27-31"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1393"
 sort_date: 1389386419000
+year: 2014
 pubDate: "10 Jan 2014 20:40:19 GMT"
 creator: "Nancy Schunke"
 ---

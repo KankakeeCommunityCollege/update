@@ -2,6 +2,7 @@
 title: "Horticulture Wednesday Farmer's Market&colon; 6/22"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=350"
 sort_date: 1307652460000
+year: 2011
 pubDate: "09 Jun 2011 20:47:40 GMT"
 creator: "Elizabeth Becvar"
 ---

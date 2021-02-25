@@ -2,6 +2,7 @@
 title: "End-of-year Central Supply deadlines"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2441"
 sort_date: 1495477101000
+year: 2017
 pubDate: "22 May 2017 18:18:21 GMT"
 creator: "Ellen Schmidt"
 ---

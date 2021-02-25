@@ -2,6 +2,7 @@
 title: "KCC group presents at 'Forum for Excellence'"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2516"
 sort_date: 1505933813000
+year: 2017
 pubDate: "20 Sep 2017 18:56:53 GMT"
 creator: "Elizabeth Becvar"
 ---

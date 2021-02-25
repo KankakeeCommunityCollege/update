@@ -2,6 +2,7 @@
 title: "Radiography graduate earns national honor"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1132"
 sort_date: 1370278736000
+year: 2013
 pubDate: "03 Jun 2013 16:58:56 GMT"
 creator: "Ellen Schmidt"
 ---

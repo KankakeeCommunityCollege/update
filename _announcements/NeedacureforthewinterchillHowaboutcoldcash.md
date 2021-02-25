@@ -2,6 +2,7 @@
 title: "Need a cure for the winter chill? How about cold cash!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=518"
 sort_date: 1321559458000
+year: 2011
 pubDate: "17 Nov 2011 19:50:58 GMT"
 creator: "Ellen Schmidt"
 ---

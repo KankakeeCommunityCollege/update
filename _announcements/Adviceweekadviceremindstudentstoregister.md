@@ -2,6 +2,7 @@
 title: "'Advice week' advice -- remind students to register"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2201"
 sort_date: 1460390238000
+year: 2016
 pubDate: "11 Apr 2016 15:57:18 GMT"
 creator: "Ellen Schmidt"
 ---

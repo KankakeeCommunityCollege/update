@@ -2,6 +2,7 @@
 title: "Five $1000 awards available for innovative ideas"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1615"
 sort_date: 1409923461000
+year: 2014
 pubDate: "05 Sep 2014 13:24:21 GMT"
 creator: "Kari Nugent"
 ---

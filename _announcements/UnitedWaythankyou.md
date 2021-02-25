@@ -2,6 +2,7 @@
 title: "United Way thank you"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=24"
 sort_date: 1291650302000
+year: 2010
 pubDate: "06 Dec 2010 15:45:02 GMT"
 creator: "Ellen Schmidt"
 ---

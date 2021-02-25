@@ -2,6 +2,7 @@
 title: "Here's a fundraiser as fun as a pie in someone's face"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1666"
 sort_date: 1412889739000
+year: 2014
 pubDate: "09 Oct 2014 21:22:19 GMT"
 creator: "Elizabeth Becvar"
 ---

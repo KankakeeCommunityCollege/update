@@ -2,6 +2,7 @@
 title: "Historic Wright home has opportunity for volunteers"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1786"
 sort_date: 1420822677000
+year: 2015
 pubDate: "09 Jan 2015 16:57:57 GMT"
 creator: "Ellen Schmidt"
 ---

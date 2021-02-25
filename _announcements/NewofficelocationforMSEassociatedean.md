@@ -2,6 +2,7 @@
 title: "New office location for MSE associate dean"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2279"
 sort_date: 1472678566000
+year: 2016
 pubDate: "31 Aug 2016 21:22:46 GMT"
 creator: "Ellen Schmidt"
 ---

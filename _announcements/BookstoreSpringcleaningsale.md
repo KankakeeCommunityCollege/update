@@ -2,6 +2,7 @@
 title: "Bookstore - Spring cleaning sale"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1449"
 sort_date: 1395331266000
+year: 2014
 pubDate: "20 Mar 2014 16:01:06 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Pack the Place - volleyball will be 9/11"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1217"
 sort_date: 1377617295000
+year: 2013
 pubDate: "27 Aug 2013 15:28:15 GMT"
 creator: "Elizabeth Becvar"
 ---

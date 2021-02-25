@@ -2,6 +2,7 @@
 title: "Invitation to submit Who's Who info   "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=244"
 sort_date: 1303738652000
+year: 2011
 pubDate: "25 Apr 2011 13:37:32 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Green Flash Sustainability Message"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=28"
 sort_date: 1291671349000
+year: 2010
 pubDate: "06 Dec 2010 21:35:49 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

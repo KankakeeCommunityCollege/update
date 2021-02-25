@@ -2,6 +2,7 @@
 title: "Change to academic calendar&colon; Deregistration will be 12/6"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1224"
 sort_date: 1378230999000
+year: 2013
 pubDate: "03 Sep 2013 17:56:39 GMT"
 creator: "Ellen Schmidt"
 ---

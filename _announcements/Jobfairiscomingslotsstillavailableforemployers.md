@@ -2,6 +2,7 @@
 title: "Job fair is coming--slots still available for employers"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=127"
 sort_date: 1298064274000
+year: 2011
 pubDate: "18 Feb 2011 21:24:34 GMT"
 creator: "Elizabeth Becvar"
 ---

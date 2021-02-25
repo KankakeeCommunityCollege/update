@@ -2,6 +2,7 @@
 title: "Honor society will induct 3 KCC grads on June 29"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=341"
 sort_date: 1307455600000
+year: 2011
 pubDate: "07 Jun 2011 14:06:40 GMT"
 creator: "Elizabeth Becvar"
 ---

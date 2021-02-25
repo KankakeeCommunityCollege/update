@@ -2,6 +2,7 @@
 title: "Free film 'Waiting for Superman'&colon; 4/27 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=249"
 sort_date: 1303750206000
+year: 2011
 pubDate: "25 Apr 2011 16:50:06 GMT"
 creator: "Elizabeth Becvar"
 ---

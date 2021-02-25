@@ -2,6 +2,7 @@
 title: "Kris Condon Illinois Wesleyan award winner"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1614"
 sort_date: 1409693347000
+year: 2014
 pubDate: "02 Sep 2014 21:29:07 GMT"
 creator: "Elizabeth Becvar"
 ---

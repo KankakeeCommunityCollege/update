@@ -2,6 +2,7 @@
 title: "For faculty&colon; ANGEL sharing info "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=578"
 sort_date: 1326817644000
+year: 2012
 pubDate: "17 Jan 2012 16:27:24 GMT"
 creator: "Ellen Schmidt"
 ---

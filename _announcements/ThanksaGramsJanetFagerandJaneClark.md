@@ -2,6 +2,7 @@
 title: "Thanks-a-Grams - Janet Fager and Jane Clark"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=835"
 sort_date: 1348841268000
+year: 2012
 pubDate: "28 Sep 2012 14:07:48 GMT"
 creator: "Ellen Schmidt"
 ---

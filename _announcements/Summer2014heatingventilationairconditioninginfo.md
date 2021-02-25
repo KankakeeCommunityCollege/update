@@ -2,6 +2,7 @@
 title: "Summer 2014 heating, ventilation & air-conditioning info "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1509"
 sort_date: 1399493758000
+year: 2014
 pubDate: "07 May 2014 20:15:58 GMT"
 creator: "Ellen Schmidt"
 ---

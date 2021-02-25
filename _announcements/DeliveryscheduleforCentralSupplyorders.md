@@ -2,6 +2,7 @@
 title: "Delivery schedule for Central Supply orders"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=20"
 sort_date: 1291397273000
+year: 2010
 pubDate: "03 Dec 2010 17:27:53 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

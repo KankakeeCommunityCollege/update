@@ -2,6 +2,7 @@
 title: "United Way internal campaign kicks off Sept. 29"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=440"
 sort_date: 1315931900000
+year: 2011
 pubDate: "13 Sep 2011 16:38:20 GMT"
 creator: "Ellen Schmidt"
 ---

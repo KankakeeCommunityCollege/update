@@ -2,6 +2,7 @@
 title: "Thanks for in-service contributions"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=411"
 sort_date: 1314025287000
+year: 2011
 pubDate: "22 Aug 2011 15:01:27 GMT"
 creator: "Ellen Schmidt"
 ---

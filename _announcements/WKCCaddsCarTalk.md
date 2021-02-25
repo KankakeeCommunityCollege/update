@@ -2,6 +2,7 @@
 title: "WKCC adds Car Talk"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1015"
 sort_date: 1362428594000
+year: 2013
 pubDate: "04 Mar 2013 20:23:14 GMT"
 creator: "Elizabeth Becvar"
 ---

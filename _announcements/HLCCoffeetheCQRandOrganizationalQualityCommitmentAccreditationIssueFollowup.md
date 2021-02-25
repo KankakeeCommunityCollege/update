@@ -2,6 +2,7 @@
 title: "HLC & Coffee - the CQR and Organizational Quality Commitment/Accreditation Issue Follow-up"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2122"
 sort_date: 1450274152000
+year: 2015
 pubDate: "16 Dec 2015 13:55:52 GMT"
 creator: "Elizabeth Becvar"
 ---

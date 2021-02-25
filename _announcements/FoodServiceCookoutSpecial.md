@@ -2,6 +2,7 @@
 title: "Food Service Cookout Special"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1543"
 sort_date: 1402945994000
+year: 2014
 pubDate: "16 Jun 2014 19:13:14 GMT"
 creator: "Nancy Schunke"
 ---

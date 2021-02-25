@@ -2,6 +2,7 @@
 title: "Central supplies information"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1372"
 sort_date: 1386945327000
+year: 2013
 pubDate: "13 Dec 2013 14:35:27 GMT"
 creator: "Ellen Schmidt"
 ---

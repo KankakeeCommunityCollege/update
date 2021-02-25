@@ -2,6 +2,7 @@
 title: "On-campus photo sessions are planned"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=61"
 sort_date: 1294346730000
+year: 2011
 pubDate: "06 Jan 2011 20:45:30 GMT"
 creator: "Ellen Schmidt"
 ---

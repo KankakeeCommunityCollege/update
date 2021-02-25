@@ -2,6 +2,7 @@
 title: "​SUAA Week Activities&colon; 3/13-3/16"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2392"
 sort_date: 1488926259000
+year: 2017
 pubDate: "07 Mar 2017 22:37:39 GMT"
 creator: "Ellen Schmidt"
 ---

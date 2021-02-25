@@ -2,6 +2,7 @@
 title: "Handmade basket drawing results"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=521"
 sort_date: 1321627154000
+year: 2011
 pubDate: "18 Nov 2011 14:39:14 GMT"
 creator: "Ellen Schmidt"
 ---

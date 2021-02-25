@@ -2,6 +2,7 @@
 title: "2 offices offer longer hours for start of semester"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1196"
 sort_date: 1376402516000
+year: 2013
 pubDate: "13 Aug 2013 14:01:56 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Food Service will have kitchen work 12/16-19"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1323"
 sort_date: 1384352104000
+year: 2013
 pubDate: "13 Nov 2013 14:15:04 GMT"
 creator: "Ellen Schmidt"
 ---

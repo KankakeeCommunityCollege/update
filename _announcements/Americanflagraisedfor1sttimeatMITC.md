@@ -2,6 +2,7 @@
 title: "American flag raised for 1st time at MITC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1743"
 sort_date: 1416591655000
+year: 2014
 pubDate: "21 Nov 2014 17:40:55 GMT"
 creator: "Ellen Schmidt"
 ---

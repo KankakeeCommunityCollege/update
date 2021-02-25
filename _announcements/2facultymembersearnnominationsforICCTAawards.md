@@ -2,6 +2,7 @@
 title: "2 faculty members earn nominations for ICCTA awards"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=211"
 sort_date: 1302195044000
+year: 2011
 pubDate: "07 Apr 2011 16:50:44 GMT"
 creator: "Elizabeth Becvar"
 ---

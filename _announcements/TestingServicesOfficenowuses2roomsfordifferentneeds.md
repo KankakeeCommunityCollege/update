@@ -2,6 +2,7 @@
 title: "Testing Services Office now uses 2 rooms for different needs"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1718"
 sort_date: 1415659908000
+year: 2014
 pubDate: "10 Nov 2014 22:51:48 GMT"
 creator: "Ellen Schmidt"
 ---

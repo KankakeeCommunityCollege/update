@@ -2,6 +2,7 @@
 title: "Please help find lost flag"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1993"
 sort_date: 1438696716000
+year: 2015
 pubDate: "04 Aug 2015 13:58:36 GMT"
 creator: "Ellen Schmidt"
 ---

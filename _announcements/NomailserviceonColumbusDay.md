@@ -2,6 +2,7 @@
 title: "No mail service on Columbus Day"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=472"
 sort_date: 1318020848000
+year: 2011
 pubDate: "07 Oct 2011 20:54:08 GMT"
 creator: "Ellen Schmidt"
 ---

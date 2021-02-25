@@ -2,6 +2,7 @@
 title: "KCC receives national award for its renewable energy track "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1695"
 sort_date: 1414429428000
+year: 2014
 pubDate: "27 Oct 2014 17:03:48 GMT"
 creator: "Ellen Schmidt"
 ---

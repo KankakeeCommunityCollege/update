@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Annie Detloff and Jordan Steinke"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1352"
 sort_date: 1386084667000
+year: 2013
 pubDate: "03 Dec 2013 15:31:07 GMT"
 creator: "Elizabeth Becvar"
 ---

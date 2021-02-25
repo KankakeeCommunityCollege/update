@@ -2,6 +2,7 @@
 title: "Donate canned goods for “CAN-vaganza”"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=999"
 sort_date: 1361373455000
+year: 2013
 pubDate: "20 Feb 2013 15:17:35 GMT"
 creator: "Ellen Schmidt"
 ---

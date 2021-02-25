@@ -2,6 +2,7 @@
 title: "Event for families features KCC sculptures"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1978"
 sort_date: 1436796868000
+year: 2015
 pubDate: "13 Jul 2015 14:14:28 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Thank you for condolences"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=17"
 sort_date: 1291325827000
+year: 2010
 pubDate: "02 Dec 2010 21:37:07 GMT"
 creator: "Elizabeth Becvar"
 ---

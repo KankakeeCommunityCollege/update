@@ -2,6 +2,7 @@
 title: "Become a Student Success Coach"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1885"
 sort_date: 1428947681000
+year: 2015
 pubDate: "13 Apr 2015 17:54:41 GMT"
 creator: "Kari Nugent"
 ---

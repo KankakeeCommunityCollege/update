@@ -2,6 +2,7 @@
 title: "Life insurance benefits"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=8"
 sort_date: 1291324624000
+year: 2010
 pubDate: "02 Dec 2010 21:17:04 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "HLC & coffee - the CQR visit and Systems Appraisal Follow-up"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2112"
 sort_date: 1449849848000
+year: 2015
 pubDate: "11 Dec 2015 16:04:08 GMT"
 creator: "Elizabeth Becvar"
 ---

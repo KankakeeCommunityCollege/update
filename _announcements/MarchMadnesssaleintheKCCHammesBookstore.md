@@ -2,6 +2,7 @@
 title: "March Madness sale in the KCC Hammes Bookstore"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1853"
 sort_date: 1426166576000
+year: 2015
 pubDate: "12 Mar 2015 13:22:56 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Child Development Center offers night care"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1206"
 sort_date: 1377107990000
+year: 2013
 pubDate: "21 Aug 2013 17:59:50 GMT"
 creator: "Kari Nugent"
 ---

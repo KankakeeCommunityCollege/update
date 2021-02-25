@@ -2,6 +2,7 @@
 title: "Budget transfer deadline&colon; 6/15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=710"
 sort_date: 1337005110000
+year: 2012
 pubDate: "14 May 2012 14:18:30 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Class schedules available ... catalogs coming soon "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=173"
 sort_date: 1300724935000
+year: 2011
 pubDate: "21 Mar 2011 16:28:55 GMT"
 creator: "Elizabeth Becvar"
 ---

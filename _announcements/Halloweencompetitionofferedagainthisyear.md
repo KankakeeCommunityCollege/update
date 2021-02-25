@@ -2,6 +2,7 @@
 title: "Halloween competition offered again this year"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1652"
 sort_date: 1412112993000
+year: 2014
 pubDate: "30 Sep 2014 21:36:33 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "In development&colon; New cohort A.A. transfer program"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2511"
 sort_date: 1505411795000
+year: 2017
 pubDate: "14 Sep 2017 17:56:35 GMT"
 creator: "Ellen Schmidt"
 ---

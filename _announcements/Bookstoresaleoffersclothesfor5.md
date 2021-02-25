@@ -2,6 +2,7 @@
 title: "Bookstore sale offers clothes for $5"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1636"
 sort_date: 1411136584000
+year: 2014
 pubDate: "19 Sep 2014 14:23:04 GMT"
 creator: "Ellen Schmidt"
 ---

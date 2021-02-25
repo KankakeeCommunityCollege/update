@@ -2,6 +2,7 @@
 title: "Friday is final day of employee satisfaction surveys  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=996"
 sort_date: 1360957317000
+year: 2013
 pubDate: "15 Feb 2013 19:41:57 GMT"
 creator: "Ellen Schmidt"
 ---

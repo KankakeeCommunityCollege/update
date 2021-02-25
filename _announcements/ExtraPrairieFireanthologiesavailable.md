@@ -2,6 +2,7 @@
 title: "Extra 'Prairie Fire' anthologies available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2354"
 sort_date: 1483539675000
+year: 2017
 pubDate: "04 Jan 2017 14:21:15 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Sizzling summer savings in Bookstore"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1153"
 sort_date: 1372364131000
+year: 2013
 pubDate: "27 Jun 2013 20:15:31 GMT"
 creator: "Ellen Schmidt"
 ---

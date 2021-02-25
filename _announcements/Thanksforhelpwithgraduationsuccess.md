@@ -2,6 +2,7 @@
 title: "Thanks for help with graduation success"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=306"
 sort_date: 1305552817000
+year: 2011
 pubDate: "16 May 2011 13:33:37 GMT"
 creator: "Elizabeth Becvar"
 ---

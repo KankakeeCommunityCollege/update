@@ -2,6 +2,7 @@
 title: "Microsoft Home Use Program"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=591"
 sort_date: 1327510743000
+year: 2012
 pubDate: "25 Jan 2012 16:59:03 GMT"
 creator: "Ellen Schmidt"
 ---

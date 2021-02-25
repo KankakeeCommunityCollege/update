@@ -2,6 +2,7 @@
 title: "Here's 4 chances to meet professor candidates"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2394"
 sort_date: 1489072312000
+year: 2017
 pubDate: "09 Mar 2017 15:11:52 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Please help find lost artwork"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1806"
 sort_date: 1422472074000
+year: 2015
 pubDate: "28 Jan 2015 19:07:54 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Road closed on east side of Riverfront Campus"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1971"
 sort_date: 1436209161000
+year: 2015
 pubDate: "06 Jul 2015 18:59:21 GMT"
 creator: "Elizabeth Becvar"
 ---

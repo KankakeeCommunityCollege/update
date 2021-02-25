@@ -2,6 +2,7 @@
 title: "Financial Aid workshops and information session planned "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=53"
 sort_date: 1292946349000
+year: 2010
 pubDate: "21 Dec 2010 15:45:49 GMT"
 creator: "Ellen Schmidt"
 ---

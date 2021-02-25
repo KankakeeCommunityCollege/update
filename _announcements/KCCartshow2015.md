@@ -2,6 +2,7 @@
 title: "KCC art show 2015"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1889"
 sort_date: 1429036881000
+year: 2015
 pubDate: "14 Apr 2015 18:41:21 GMT"
 creator: "Elizabeth Becvar"
 ---

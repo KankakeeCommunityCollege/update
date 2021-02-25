@@ -2,6 +2,7 @@
 title: "Scholarship applications now available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1406"
 sort_date: 1391466663000
+year: 2014
 pubDate: "03 Feb 2014 22:31:03 GMT"
 creator: "Ellen Schmidt"
 ---

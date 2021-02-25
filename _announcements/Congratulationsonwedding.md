@@ -2,6 +2,7 @@
 title: "Congratulations on wedding"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=194"
 sort_date: 1301509749000
+year: 2011
 pubDate: "30 Mar 2011 18:29:09 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Bookstore/supply center temporarily closing"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=317"
 sort_date: 1306268851000
+year: 2011
 pubDate: "24 May 2011 20:27:31 GMT"
 creator: "Ellen Schmidt"
 ---

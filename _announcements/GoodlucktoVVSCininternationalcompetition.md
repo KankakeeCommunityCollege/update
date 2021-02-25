@@ -2,6 +2,7 @@
 title: "Good luck to VVSC in international competition"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1311"
 sort_date: 1383313523000
+year: 2013
 pubDate: "01 Nov 2013 13:45:23 GMT"
 creator: "Ellen Schmidt"
 ---

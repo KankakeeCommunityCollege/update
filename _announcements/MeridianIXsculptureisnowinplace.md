@@ -2,6 +2,7 @@
 title: "Meridian IX sculpture is now in place"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=446"
 sort_date: 1316183078000
+year: 2011
 pubDate: "16 Sep 2011 14:24:38 GMT"
 creator: "Elizabeth Becvar"
 ---

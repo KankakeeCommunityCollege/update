@@ -2,6 +2,7 @@
 title: "Spring book discussion series"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1779"
 sort_date: 1418767890000
+year: 2014
 pubDate: "16 Dec 2014 22:11:30 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "KCC Student Named to National Learning Company’s Advisory Board"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1207"
 sort_date: 1377183170000
+year: 2013
 pubDate: "22 Aug 2013 14:52:50 GMT"
 creator: "Elizabeth Becvar"
 ---

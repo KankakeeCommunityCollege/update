@@ -2,6 +2,7 @@
 title: "Win KVYSO tickets - drawing to be held 11/6"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=875"
 sort_date: 1351701163000
+year: 2012
 pubDate: "31 Oct 2012 16:32:43 GMT"
 creator: "Ellen Schmidt"
 ---

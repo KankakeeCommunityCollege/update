@@ -2,6 +2,7 @@
 title: "Through pastry sale fundraiser, center is seeking an indoor garden "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1266"
 sort_date: 1380577352000
+year: 2013
 pubDate: "30 Sep 2013 21:42:32 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Inspections now required when college vehicles are used"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1357"
 sort_date: 1386352137000
+year: 2013
 pubDate: "06 Dec 2013 17:48:57 GMT"
 creator: "Ellen Schmidt"
 ---

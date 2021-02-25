@@ -2,6 +2,7 @@
 title: "NEC photo of the week -- week 35"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1168"
 sort_date: 1374086992000
+year: 2013
 pubDate: "17 Jul 2013 18:49:52 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

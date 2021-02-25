@@ -2,6 +2,7 @@
 title: "United Way campaign update -- and Denim Week opportunity"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=925"
 sort_date: 1354747951000
+year: 2012
 pubDate: "05 Dec 2012 22:52:31 GMT"
 creator: "Ellen Schmidt"
 ---

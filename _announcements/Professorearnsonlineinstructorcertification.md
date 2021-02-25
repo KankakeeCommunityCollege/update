@@ -2,6 +2,7 @@
 title: "Professor earns online instructor certification"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=794"
 sort_date: 1345828659000
+year: 2012
 pubDate: "24 Aug 2012 17:17:39 GMT"
 creator: "Ellen Schmidt"
 ---

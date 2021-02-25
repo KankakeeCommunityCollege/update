@@ -2,6 +2,7 @@
 title: "Short wave radio communications info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=357"
 sort_date: 1308775388000
+year: 2011
 pubDate: "22 Jun 2011 20:43:08 GMT"
 creator: "Elizabeth Becvar"
 ---

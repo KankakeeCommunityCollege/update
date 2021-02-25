@@ -2,6 +2,7 @@
 title: "Be part of interoffice envelope roundup"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=462"
 sort_date: 1317407496000
+year: 2011
 pubDate: "30 Sep 2011 18:31:36 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

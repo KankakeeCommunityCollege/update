@@ -2,6 +2,7 @@
 title: "Review of action project available online"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=777"
 sort_date: 1344889021000
+year: 2012
 pubDate: "13 Aug 2012 20:17:01 GMT"
 creator: "Ellen Schmidt"
 ---

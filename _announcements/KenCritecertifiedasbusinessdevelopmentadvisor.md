@@ -2,6 +2,7 @@
 title: "Ken Crite certified as business development advisor"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1150"
 sort_date: 1372111530000
+year: 2013
 pubDate: "24 Jun 2013 22:05:30 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "LaMore chosen as coordinator for Illinois region of Phi Theta Kappa"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1485"
 sort_date: 1398200557000
+year: 2014
 pubDate: "22 Apr 2014 21:02:37 GMT"
 creator: "Ellen Schmidt"
 ---

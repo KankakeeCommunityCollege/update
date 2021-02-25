@@ -2,6 +2,7 @@
 title: "Business Writing Refresher Available to Staff"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=634"
 sort_date: 1331574265000
+year: 2012
 pubDate: "12 Mar 2012 17:44:25 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Weight Watchers Open House--Just 5 more participants needed"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=946"
 sort_date: 1357764176000
+year: 2013
 pubDate: "09 Jan 2013 20:42:56 GMT"
 creator: "Nancy Schunke"
 ---

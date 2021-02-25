@@ -2,6 +2,7 @@
 title: "Upcoming Event&colon; WYSE Academic Challenge"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=93"
 sort_date: 1296230693000
+year: 2011
 pubDate: "28 Jan 2011 16:04:53 GMT"
 creator: "Ellen Schmidt"
 ---

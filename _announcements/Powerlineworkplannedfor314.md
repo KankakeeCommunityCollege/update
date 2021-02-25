@@ -2,6 +2,7 @@
 title: "Power line work planned for 3/14"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1850"
 sort_date: 1425662266000
+year: 2015
 pubDate: "06 Mar 2015 17:17:46 GMT"
 creator: "Ellen Schmidt"
 ---

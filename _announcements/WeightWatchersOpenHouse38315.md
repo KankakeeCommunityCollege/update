@@ -2,6 +2,7 @@
 title: "Weight Watchers Open House&colon; 3/8 & 3/15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=149"
 sort_date: 1299267610000
+year: 2011
 pubDate: "04 Mar 2011 19:40:10 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "WKCC 91.1FM Winter Membership Drive&colon; 12/2-12/9"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=524"
 sort_date: 1322059812000
+year: 2011
 pubDate: "23 Nov 2011 14:50:12 GMT"
 creator: "Ellen Schmidt"
 ---

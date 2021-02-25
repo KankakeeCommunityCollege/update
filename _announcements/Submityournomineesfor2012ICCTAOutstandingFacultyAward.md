@@ -2,6 +2,7 @@
 title: "Submit your nominee(s) for 2012 ICCTA Outstanding Faculty Award "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=595"
 sort_date: 1328197721000
+year: 2012
 pubDate: "02 Feb 2012 15:48:41 GMT"
 creator: "Ellen Schmidt"
 ---

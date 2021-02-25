@@ -2,6 +2,7 @@
 title: "Temps rise and prices fall in bookstore"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=372"
 sort_date: 1310071147000
+year: 2011
 pubDate: "07 Jul 2011 20:39:07 GMT"
 creator: "Ellen Schmidt"
 ---

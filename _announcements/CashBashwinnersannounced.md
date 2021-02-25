@@ -2,6 +2,7 @@
 title: "Cash Bash winners announced"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=139"
 sort_date: 1298491052000
+year: 2011
 pubDate: "23 Feb 2011 19:57:32 GMT"
 creator: "Ellen Schmidt"
 ---

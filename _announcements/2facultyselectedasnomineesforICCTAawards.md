@@ -2,6 +2,7 @@
 title: "2 faculty selected as nominees for ICCTA awards"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1471"
 sort_date: 1397515478000
+year: 2014
 pubDate: "14 Apr 2014 22:44:38 GMT"
 creator: "Ellen Schmidt"
 ---

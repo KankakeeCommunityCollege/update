@@ -2,6 +2,7 @@
 title: "Professor earns scholarship to national conference"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1781"
 sort_date: 1418941209000
+year: 2014
 pubDate: "18 Dec 2014 22:20:09 GMT"
 creator: "Ellen Schmidt"
 ---

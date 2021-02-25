@@ -2,6 +2,7 @@
 title: "Sustainability week&colon; 4/19-4/23   "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=223"
 sort_date: 1302530345000
+year: 2011
 pubDate: "11 Apr 2011 13:59:05 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Board notes - Feb. 13 meeting"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=603"
 sort_date: 1329240034000
+year: 2012
 pubDate: "14 Feb 2012 17:20:34 GMT"
 creator: "Ellen Schmidt"
 ---

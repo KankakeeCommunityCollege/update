@@ -2,6 +2,7 @@
 title: "Meents retires from the KCC board "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1791"
 sort_date: 1421176477000
+year: 2015
 pubDate: "13 Jan 2015 19:14:37 GMT"
 creator: "Elizabeth Becvar"
 ---

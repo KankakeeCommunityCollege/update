@@ -2,6 +2,7 @@
 title: "Retirement reception for Lee Schrock&colon; 4/30 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=670"
 sort_date: 1334849431000
+year: 2012
 pubDate: "19 Apr 2012 15:30:31 GMT"
 creator: "Ellen Schmidt"
 ---

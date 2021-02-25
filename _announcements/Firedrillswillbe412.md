@@ -2,6 +2,7 @@
 title: "Fire drills will be 4/12 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2125"
 sort_date: 1452107839000
+year: 2016
 pubDate: "06 Jan 2016 19:17:19 GMT"
 creator: "Ellen Schmidt"
 ---

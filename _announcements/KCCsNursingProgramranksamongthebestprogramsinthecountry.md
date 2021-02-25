@@ -2,6 +2,7 @@
 title: "KCC's  Nursing Program ranks among the best programs in the country"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1353"
 sort_date: 1386189953000
+year: 2013
 pubDate: "04 Dec 2013 20:45:53 GMT"
 creator: "Elizabeth Becvar"
 ---

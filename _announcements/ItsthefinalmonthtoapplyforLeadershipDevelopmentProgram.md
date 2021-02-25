@@ -2,6 +2,7 @@
 title: "It's the final month to apply for Leadership Development Program"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1653"
 sort_date: 1412170273000
+year: 2014
 pubDate: "01 Oct 2014 13:31:13 GMT"
 creator: "Ellen Schmidt"
 ---

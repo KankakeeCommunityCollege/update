@@ -2,6 +2,7 @@
 title: "KCC receives good news following systems portfolio review"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1461"
 sort_date: 1396386856000
+year: 2014
 pubDate: "01 Apr 2014 21:14:16 GMT"
 creator: "Ellen Schmidt"
 ---

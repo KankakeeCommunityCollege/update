@@ -2,6 +2,7 @@
 title: "​WKCC will air 3 special Thanksgiving programs"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1715"
 sort_date: 1415371895000
+year: 2014
 pubDate: "07 Nov 2014 14:51:35 GMT"
 creator: "Ellen Schmidt"
 ---

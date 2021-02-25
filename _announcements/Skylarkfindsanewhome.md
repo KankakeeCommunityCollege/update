@@ -2,6 +2,7 @@
 title: "'Skylark' finds a new home"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1581"
 sort_date: 1406919249000
+year: 2014
 pubDate: "01 Aug 2014 18:54:09 GMT"
 creator: "Ellen Schmidt"
 ---

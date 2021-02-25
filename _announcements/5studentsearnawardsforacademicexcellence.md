@@ -2,6 +2,7 @@
 title: "5 students earn awards for academic excellence "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=238"
 sort_date: 1303738305000
+year: 2011
 pubDate: "25 Apr 2011 13:31:45 GMT"
 creator: "Elizabeth Becvar"
 ---

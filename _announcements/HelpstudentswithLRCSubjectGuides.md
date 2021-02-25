@@ -2,6 +2,7 @@
 title: "Help students with LRC Subject Guides"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=642"
 sort_date: 1332354641000
+year: 2012
 pubDate: "21 Mar 2012 18:30:41 GMT"
 creator: "Ellen Schmidt"
 ---

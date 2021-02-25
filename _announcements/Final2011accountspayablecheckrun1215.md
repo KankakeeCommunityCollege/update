@@ -2,6 +2,7 @@
 title: "Final 2011 accounts payable check run&colon; 12/15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=529"
 sort_date: 1322516280000
+year: 2011
 pubDate: "28 Nov 2011 21:38:00 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "These employees start the year with anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2120"
 sort_date: 1450206510000
+year: 2015
 pubDate: "15 Dec 2015 19:08:30 GMT"
 creator: "Ellen Schmidt"
 ---

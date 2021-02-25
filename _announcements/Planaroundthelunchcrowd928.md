@@ -2,6 +2,7 @@
 title: "Plan around the lunch crowd&colon; 9/28"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=834"
 sort_date: 1348680442000
+year: 2012
 pubDate: "26 Sep 2012 17:27:22 GMT"
 creator: "Ellen Schmidt"
 ---

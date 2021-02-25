@@ -2,6 +2,7 @@
 title: "President's address presentation notes  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=80"
 sort_date: 1295973642000
+year: 2011
 pubDate: "25 Jan 2011 16:40:42 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

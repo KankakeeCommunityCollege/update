@@ -2,6 +2,7 @@
 title: "5 areas compete for Halloween Trophy "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=500"
 sort_date: 1319829155000
+year: 2011
 pubDate: "28 Oct 2011 19:12:35 GMT"
 creator: "Ellen Schmidt"
 ---

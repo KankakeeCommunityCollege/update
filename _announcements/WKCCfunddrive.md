@@ -2,6 +2,7 @@
 title: "WKCC fund drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=905"
 sort_date: 1352930518000
+year: 2012
 pubDate: "14 Nov 2012 22:01:58 GMT"
 creator: "Elizabeth Becvar"
 ---

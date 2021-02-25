@@ -2,6 +2,7 @@
 title: "KCC flags at half-staff follows one of several protocols"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=589"
 sort_date: 1327356717000
+year: 2012
 pubDate: "23 Jan 2012 22:11:57 GMT"
 creator: "Ellen Schmidt"
 ---

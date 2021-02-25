@@ -2,6 +2,7 @@
 title: "College operations cease at noon Dec. 21"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=10"
 sort_date: 1291324874000
+year: 2010
 pubDate: "02 Dec 2010 21:21:14 GMT"
 creator: "Elizabeth Becvar"
 ---

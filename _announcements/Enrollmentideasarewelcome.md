@@ -2,6 +2,7 @@
 title: "Enrollment ideas are welcome"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1809"
 sort_date: 1422652419000
+year: 2015
 pubDate: "30 Jan 2015 21:13:39 GMT"
 creator: "Ellen Schmidt"
 ---

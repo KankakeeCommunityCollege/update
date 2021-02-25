@@ -2,6 +2,7 @@
 title: "Extra Sox tickets available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=802"
 sort_date: 1346427405000
+year: 2012
 pubDate: "31 Aug 2012 15:36:45 GMT"
 creator: "Ellen Schmidt"
 ---

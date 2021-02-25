@@ -2,6 +2,7 @@
 title: "New head men's basketball coach has been selected"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=773"
 sort_date: 1344533456000
+year: 2012
 pubDate: "09 Aug 2012 17:30:56 GMT"
 creator: "Ellen Schmidt"
 ---

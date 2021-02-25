@@ -2,6 +2,7 @@
 title: "Basketball Pack the Place&colon; 1/26"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2356"
 sort_date: 1483556699000
+year: 2017
 pubDate: "04 Jan 2017 19:04:59 GMT"
 creator: "Elizabeth Becvar"
 ---

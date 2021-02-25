@@ -2,6 +2,7 @@
 title: "Professors exchange education information for two weeks during visit"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1307"
 sort_date: 1383081629000
+year: 2013
 pubDate: "29 Oct 2013 21:20:29 GMT"
 creator: "Ellen Schmidt"
 ---

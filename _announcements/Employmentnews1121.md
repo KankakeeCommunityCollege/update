@@ -2,6 +2,7 @@
 title: "Employment news&colon; 11/21"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=523"
 sort_date: 1321907350000
+year: 2011
 pubDate: "21 Nov 2011 20:29:10 GMT"
 creator: "Ellen Schmidt"
 ---

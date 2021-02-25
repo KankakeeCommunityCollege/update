@@ -2,6 +2,7 @@
 title: "Fire drills will be 9/13"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2241"
 sort_date: 1467723909000
+year: 2016
 pubDate: "05 Jul 2016 13:05:09 GMT"
 creator: "Elizabeth Becvar"
 ---

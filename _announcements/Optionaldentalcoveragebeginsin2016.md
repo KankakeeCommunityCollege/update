@@ -2,6 +2,7 @@
 title: "Optional dental coverage begins in 2016"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2052"
 sort_date: 1445002132000
+year: 2015
 pubDate: "16 Oct 2015 13:28:52 GMT"
 creator: "Ellen Schmidt"
 ---

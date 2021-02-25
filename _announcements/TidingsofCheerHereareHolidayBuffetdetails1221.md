@@ -2,6 +2,7 @@
 title: "​Tidings of Cheer! Here are Holiday Buffet details&colon; 12/21"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2344"
 sort_date: 1481121320000
+year: 2016
 pubDate: "07 Dec 2016 14:35:20 GMT"
 creator: "Ellen Schmidt"
 ---

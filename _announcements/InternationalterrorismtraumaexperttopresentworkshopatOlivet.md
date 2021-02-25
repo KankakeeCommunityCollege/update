@@ -2,6 +2,7 @@
 title: "International terrorism trauma expert to present workshop at Olivet"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1218"
 sort_date: 1377698447000
+year: 2013
 pubDate: "28 Aug 2013 14:00:47 GMT"
 creator: "Ellen Schmidt"
 ---

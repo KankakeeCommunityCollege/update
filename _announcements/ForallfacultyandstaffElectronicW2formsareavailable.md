@@ -2,6 +2,7 @@
 title: "For all faculty and staff&colon; Electronic W-2 forms are available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=922"
 sort_date: 1354724863000
+year: 2012
 pubDate: "05 Dec 2012 16:27:43 GMT"
 creator: "Elizabeth Becvar"
 ---

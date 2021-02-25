@@ -2,6 +2,7 @@
 title: "For early holiday shopping, visit Hoopla"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=886"
 sort_date: 1351890380000
+year: 2012
 pubDate: "02 Nov 2012 21:06:20 GMT"
 creator: "Elizabeth Becvar"
 ---

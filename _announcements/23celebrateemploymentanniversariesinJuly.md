@@ -2,6 +2,7 @@
 title: "23 celebrate employment anniversaries in July"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=361"
 sort_date: 1308867029000
+year: 2011
 pubDate: "23 Jun 2011 22:10:29 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

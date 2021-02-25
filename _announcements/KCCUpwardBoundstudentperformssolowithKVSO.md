@@ -2,6 +2,7 @@
 title: "KCC Upward Bound student performs solo with KVSO"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=884"
 sort_date: 1351872296000
+year: 2012
 pubDate: "02 Nov 2012 16:04:56 GMT"
 creator: "Ellen Schmidt"
 ---

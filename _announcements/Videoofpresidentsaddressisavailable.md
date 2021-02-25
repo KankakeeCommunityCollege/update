@@ -2,6 +2,7 @@
 title: "Video of president's address is available "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=416"
 sort_date: 1314371954000
+year: 2011
 pubDate: "26 Aug 2011 15:19:14 GMT"
 creator: "Ellen Schmidt"
 ---

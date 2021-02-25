@@ -2,6 +2,7 @@
 title: "Commencement notes&colon; for 5/14  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=293"
 sort_date: 1304712913000
+year: 2011
 pubDate: "06 May 2011 20:15:13 GMT"
 creator: "Elizabeth Becvar"
 ---

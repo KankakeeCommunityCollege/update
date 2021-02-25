@@ -2,6 +2,7 @@
 title: "Gerry Sikma scholarship recipients"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1210"
 sort_date: 1377205850000
+year: 2013
 pubDate: "22 Aug 2013 21:10:50 GMT"
 creator: "Elizabeth Becvar"
 ---

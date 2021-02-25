@@ -2,6 +2,7 @@
 title: "CPR and first aid classes available to night administrators"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=814"
 sort_date: 1347547185000
+year: 2012
 pubDate: "13 Sep 2012 14:39:45 GMT"
 creator: "Ellen Schmidt"
 ---

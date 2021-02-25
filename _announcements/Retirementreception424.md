@@ -2,6 +2,7 @@
 title: "Retirement reception&colon; 4/24"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1071"
 sort_date: 1365693689000
+year: 2013
 pubDate: "11 Apr 2013 15:21:29 GMT"
 creator: "Ellen Schmidt"
 ---

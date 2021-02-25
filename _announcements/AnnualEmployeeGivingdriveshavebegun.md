@@ -2,6 +2,7 @@
 title: "Annual Employee Giving drives have begun "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2049"
 sort_date: 1444831493000
+year: 2015
 pubDate: "14 Oct 2015 14:04:53 GMT"
 creator: "Ellen Schmidt"
 ---

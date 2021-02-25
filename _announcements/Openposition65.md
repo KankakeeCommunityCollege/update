@@ -2,6 +2,7 @@
 title: "Open position&colon; 6/5"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2444"
 sort_date: 1496696500000
+year: 2017
 pubDate: "05 Jun 2017 21:01:40 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Thanks from Students for Animals Club"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=664"
 sort_date: 1334020498000
+year: 2012
 pubDate: "10 Apr 2012 01:14:58 GMT"
 creator: "Ellen Schmidt"
 ---

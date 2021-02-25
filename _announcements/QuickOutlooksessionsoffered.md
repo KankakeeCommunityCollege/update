@@ -2,6 +2,7 @@
 title: "Quick Outlook sessions offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=151"
 sort_date: 1299516847000
+year: 2011
 pubDate: "07 Mar 2011 16:54:07 GMT"
 creator: "Elizabeth Becvar"
 ---

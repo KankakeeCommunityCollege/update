@@ -2,6 +2,7 @@
 title: "Upgrade to R25 -- associated services unavailable on 10/10 & 10/11"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1258"
 sort_date: 1379952247000
+year: 2013
 pubDate: "23 Sep 2013 16:04:07 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "MLT students celebrate lab week&colon; 4/24-30 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=245"
 sort_date: 1303749796000
+year: 2011
 pubDate: "25 Apr 2011 16:43:16 GMT"
 creator: "Elizabeth Becvar"
 ---

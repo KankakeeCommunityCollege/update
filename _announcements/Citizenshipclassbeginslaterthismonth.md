@@ -2,6 +2,7 @@
 title: "Citizenship class begins later this month"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=552"
 sort_date: 1323446208000
+year: 2011
 pubDate: "09 Dec 2011 15:56:48 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "10 local students to be featured on WKCC broadcast"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=651"
 sort_date: 1332970238000
+year: 2012
 pubDate: "28 Mar 2012 21:30:38 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "WKCC will have live broadcasts of all debates"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=837"
 sort_date: 1348864890000
+year: 2012
 pubDate: "28 Sep 2012 20:41:30 GMT"
 creator: "Ellen Schmidt"
 ---

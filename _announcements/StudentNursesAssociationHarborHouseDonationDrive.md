@@ -2,6 +2,7 @@
 title: "Student Nurses Association Harbor House Donation Drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2042"
 sort_date: 1444069521000
+year: 2015
 pubDate: "05 Oct 2015 18:25:21 GMT"
 creator: "Elizabeth Becvar"
 ---

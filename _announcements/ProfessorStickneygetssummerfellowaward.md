@@ -2,6 +2,7 @@
 title: "Professor Stickney gets summer fellow award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1954"
 sort_date: 1434636152000
+year: 2015
 pubDate: "18 Jun 2015 14:02:32 GMT"
 creator: "Ellen Schmidt"
 ---

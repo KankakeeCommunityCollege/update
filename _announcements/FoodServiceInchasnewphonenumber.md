@@ -2,6 +2,7 @@
 title: "Food Service Inc. has new phone number"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=956"
 sort_date: 1358282203000
+year: 2013
 pubDate: "15 Jan 2013 20:36:43 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Congratulations on ethics course completion"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1731"
 sort_date: 1415979114000
+year: 2014
 pubDate: "14 Nov 2014 15:31:54 GMT"
 creator: "Ellen Schmidt"
 ---

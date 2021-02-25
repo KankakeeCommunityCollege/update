@@ -2,6 +2,7 @@
 title: "Comments include meanings for core values  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=241"
 sort_date: 1303738475000
+year: 2011
 pubDate: "25 Apr 2011 13:34:35 GMT"
 creator: "Elizabeth Becvar"
 ---

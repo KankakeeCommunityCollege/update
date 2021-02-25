@@ -2,6 +2,7 @@
 title: "Food Specials&colon; 8/24 Burger day"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2491"
 sort_date: 1503000206000
+year: 2017
 pubDate: "17 Aug 2017 20:03:26 GMT"
 creator: "Elizabeth Becvar"
 ---

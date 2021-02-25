@@ -2,6 +2,7 @@
 title: "Please tell students that scholarship applications are now  available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1706"
 sort_date: 1415051517000
+year: 2014
 pubDate: "03 Nov 2014 21:51:57 GMT"
 creator: "Ellen Schmidt"
 ---

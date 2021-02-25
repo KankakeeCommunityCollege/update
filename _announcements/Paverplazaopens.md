@@ -2,6 +2,7 @@
 title: "Paver plaza opens"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1932"
 sort_date: 1431705435000
+year: 2015
 pubDate: "15 May 2015 15:57:15 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Portal implementation timeline"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2430"
 sort_date: 1493666695000
+year: 2017
 pubDate: "01 May 2017 19:24:55 GMT"
 creator: "Ellen Schmidt"
 ---

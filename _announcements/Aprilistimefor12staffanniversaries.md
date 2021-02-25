@@ -2,6 +2,7 @@
 title: "April is time for 12 staff anniversaries "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=185"
 sort_date: 1301343480000
+year: 2011
 pubDate: "28 Mar 2011 20:18:00 GMT"
 creator: "Elizabeth Becvar"
 ---

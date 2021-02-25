@@ -2,6 +2,7 @@
 title: "Students for Animals Fundraiser"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1759"
 sort_date: 1417726659000
+year: 2014
 pubDate: "04 Dec 2014 20:57:39 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Medical Laboratory Professionals Week is 4/20 - 4/26"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1469"
 sort_date: 1397493626000
+year: 2014
 pubDate: "14 Apr 2014 16:40:26 GMT"
 creator: "Ellen Schmidt"
 ---

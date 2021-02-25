@@ -2,6 +2,7 @@
 title: "Information on summer preregistration with delayed payment"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1440"
 sort_date: 1394460635000
+year: 2014
 pubDate: "10 Mar 2014 14:10:35 GMT"
 creator: "Ellen Schmidt"
 ---

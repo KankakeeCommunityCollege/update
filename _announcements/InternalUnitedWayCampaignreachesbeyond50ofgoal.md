@@ -2,6 +2,7 @@
 title: "Internal United Way Campaign reaches beyond 50% of goal"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=495"
 sort_date: 1319556293000
+year: 2011
 pubDate: "25 Oct 2011 15:24:53 GMT"
 creator: "Elizabeth Becvar"
 ---

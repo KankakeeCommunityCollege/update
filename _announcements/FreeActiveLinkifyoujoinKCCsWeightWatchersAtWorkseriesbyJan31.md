@@ -2,6 +2,7 @@
 title: "Free Active Link if you join KCC's Weight Watchers At-Work series by Jan. 31"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1795"
 sort_date: 1421439770000
+year: 2015
 pubDate: "16 Jan 2015 20:22:50 GMT"
 creator: "Kari Nugent"
 ---

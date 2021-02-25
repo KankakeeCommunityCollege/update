@@ -2,6 +2,7 @@
 title: "Testing Center shares Spring 2011 info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=59"
 sort_date: 1294346541000
+year: 2011
 pubDate: "06 Jan 2011 20:42:21 GMT"
 creator: "Ellen Schmidt"
 ---

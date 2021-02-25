@@ -2,6 +2,7 @@
 title: "Stir fry and pasta bar return"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=491"
 sort_date: 1319208654000
+year: 2011
 pubDate: "21 Oct 2011 14:50:54 GMT"
 creator: "Ellen Schmidt"
 ---

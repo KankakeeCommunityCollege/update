@@ -2,6 +2,7 @@
 title: "One week left to comment on online Update"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=22"
 sort_date: 1291410718000
+year: 2010
 pubDate: "03 Dec 2010 21:11:58 GMT"
 creator: "Ellen Schmidt"
 ---

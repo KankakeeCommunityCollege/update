@@ -2,6 +2,7 @@
 title: "Sale features $2 'wash cloth chicks and bunnies'"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=654"
 sort_date: 1333125023000
+year: 2012
 pubDate: "30 Mar 2012 16:30:23 GMT"
 creator: "Ellen Schmidt"
 ---

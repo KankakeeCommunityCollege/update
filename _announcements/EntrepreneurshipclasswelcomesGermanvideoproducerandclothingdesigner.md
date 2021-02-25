@@ -2,6 +2,7 @@
 title: "Entrepreneurship class welcomes German video producer and clothing designer"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1257"
 sort_date: 1379944659000
+year: 2013
 pubDate: "23 Sep 2013 13:57:39 GMT"
 creator: "Ellen Schmidt"
 ---

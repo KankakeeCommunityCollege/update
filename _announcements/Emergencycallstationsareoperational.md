@@ -2,6 +2,7 @@
 title: "Emergency call stations are operational"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=587"
 sort_date: 1327097344000
+year: 2012
 pubDate: "20 Jan 2012 22:09:04 GMT"
 creator: "Ellen Schmidt"
 ---

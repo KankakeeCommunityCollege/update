@@ -2,6 +2,7 @@
 title: "It's time to give to United Way and KCC Foundation"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2073"
 sort_date: 1446838981000
+year: 2015
 pubDate: "06 Nov 2015 19:43:01 GMT"
 creator: "Ellen Schmidt"
 ---

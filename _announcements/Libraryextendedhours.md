@@ -2,6 +2,7 @@
 title: "Library extended hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1990"
 sort_date: 1438199880000
+year: 2015
 pubDate: "29 Jul 2015 19:58:00 GMT"
 creator: "Kari Nugent"
 ---

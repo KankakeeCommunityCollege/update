@@ -2,6 +2,7 @@
 title: "Datatel budget training offered&colon; choose 11/7 or 11/8"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=829"
 sort_date: 1348233495000
+year: 2012
 pubDate: "21 Sep 2012 13:18:15 GMT"
 creator: "Ellen Schmidt"
 ---

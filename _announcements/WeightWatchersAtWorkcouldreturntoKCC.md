@@ -2,6 +2,7 @@
 title: "Weight Watchers At Work could return to KCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=827"
 sort_date: 1348150910000
+year: 2012
 pubDate: "20 Sep 2012 14:21:50 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Michael Clarke Duncan's time at KCC remembered on CBS 2 Chicago news "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=806"
 sort_date: 1346858263000
+year: 2012
 pubDate: "05 Sep 2012 15:17:43 GMT"
 creator: "Ellen Schmidt"
 ---

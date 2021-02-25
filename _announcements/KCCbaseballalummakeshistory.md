@@ -2,6 +2,7 @@
 title: "KCC baseball alum makes history"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=715"
 sort_date: 1337184579000
+year: 2012
 pubDate: "16 May 2012 16:09:39 GMT"
 creator: "Kari Nugent"
 ---

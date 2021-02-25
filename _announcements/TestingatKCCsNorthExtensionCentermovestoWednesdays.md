@@ -2,6 +2,7 @@
 title: "Testing at KCC's North Extension Center moves to Wednesdays"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1577"
 sort_date: 1406728500000
+year: 2014
 pubDate: "30 Jul 2014 13:55:00 GMT"
 creator: "Ellen Schmidt"
 ---

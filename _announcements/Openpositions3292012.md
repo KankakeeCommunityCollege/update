@@ -2,6 +2,7 @@
 title: "Open positions - 3/29/2012"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=653"
 sort_date: 1333035073000
+year: 2012
 pubDate: "29 Mar 2012 15:31:13 GMT"
 creator: "Ellen Schmidt"
 ---

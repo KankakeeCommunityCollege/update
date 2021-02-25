@@ -2,6 +2,7 @@
 title: "Congratulations on award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1887"
 sort_date: 1429024621000
+year: 2015
 pubDate: "14 Apr 2015 15:17:01 GMT"
 creator: "Ellen Schmidt"
 ---

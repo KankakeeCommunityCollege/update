@@ -2,6 +2,7 @@
 title: "​Prepare for the forum"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2502"
 sort_date: 1504627758000
+year: 2017
 pubDate: "05 Sep 2017 16:09:18 GMT"
 creator: "Ellen Schmidt"
 ---

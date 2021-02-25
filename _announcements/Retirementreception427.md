@@ -2,6 +2,7 @@
 title: "Retirement reception&colon; 4/27"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=146"
 sort_date: 1299265938000
+year: 2011
 pubDate: "04 Mar 2011 19:12:18 GMT"
 creator: "Elizabeth Becvar"
 ---

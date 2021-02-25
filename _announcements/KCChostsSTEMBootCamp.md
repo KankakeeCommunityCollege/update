@@ -2,6 +2,7 @@
 title: "KCC hosts STEM Boot Camp"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1814"
 sort_date: 1423499299000
+year: 2015
 pubDate: "09 Feb 2015 16:28:19 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "December brings work anniversary celebrations for 13"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2083"
 sort_date: 1447780406000
+year: 2015
 pubDate: "17 Nov 2015 17:13:26 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Picnic remarks available on O drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=428"
 sort_date: 1314975628000
+year: 2011
 pubDate: "02 Sep 2011 15:00:28 GMT"
 creator: "Elizabeth Becvar"
 ---

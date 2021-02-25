@@ -2,6 +2,7 @@
 title: "New checks will be drawn from a different bank"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1478"
 sort_date: 1398095673000
+year: 2014
 pubDate: "21 Apr 2014 15:54:33 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Congratulations on military promotion"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2239"
 sort_date: 1467218218000
+year: 2016
 pubDate: "29 Jun 2016 16:36:58 GMT"
 creator: "Ellen Schmidt"
 ---

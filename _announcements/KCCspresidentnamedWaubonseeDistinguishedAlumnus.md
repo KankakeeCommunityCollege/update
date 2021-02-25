@@ -2,6 +2,7 @@
 title: "KCC’s president named Waubonsee Distinguished Alumnus"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=410"
 sort_date: 1313770980000
+year: 2011
 pubDate: "19 Aug 2011 16:23:00 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "International Friendship Day will include scholarship contest"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=37"
 sort_date: 1291993233000
+year: 2010
 pubDate: "10 Dec 2010 15:00:33 GMT"
 creator: "Ellen Schmidt"
 ---

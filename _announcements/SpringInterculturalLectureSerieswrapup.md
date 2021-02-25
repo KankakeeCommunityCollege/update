@@ -2,6 +2,7 @@
 title: "Spring Intercultural Lecture Series wrap-up"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1103"
 sort_date: 1367590268000
+year: 2013
 pubDate: "03 May 2013 14:11:08 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Media Preferences Survey"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1820"
 sort_date: 1423844418000
+year: 2015
 pubDate: "13 Feb 2015 16:20:18 GMT"
 creator: "Kari Nugent"
 ---

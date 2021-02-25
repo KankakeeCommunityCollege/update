@@ -2,6 +2,7 @@
 title: "Fall faculty in-service - Includes all staff breakfast"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2474"
 sort_date: 1501173747000
+year: 2017
 pubDate: "27 Jul 2017 16:42:27 GMT"
 creator: "Ellen Schmidt"
 ---

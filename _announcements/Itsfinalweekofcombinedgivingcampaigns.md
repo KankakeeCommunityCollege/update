@@ -2,6 +2,7 @@
 title: "It's final week of combined giving campaigns"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1692"
 sort_date: 1414161684000
+year: 2014
 pubDate: "24 Oct 2014 14:41:24 GMT"
 creator: "Ellen Schmidt"
 ---

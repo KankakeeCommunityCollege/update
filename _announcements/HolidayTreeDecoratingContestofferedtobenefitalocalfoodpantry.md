@@ -2,6 +2,7 @@
 title: "Holiday Tree Decorating Contest offered to benefit a local food pantry"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1312"
 sort_date: 1383332479000
+year: 2013
 pubDate: "01 Nov 2013 19:01:19 GMT"
 creator: "Ellen Schmidt"
 ---

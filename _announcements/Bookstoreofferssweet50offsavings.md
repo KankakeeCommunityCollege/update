@@ -2,6 +2,7 @@
 title: "Bookstore offers sweet 50% off savings"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1819"
 sort_date: 1423844028000
+year: 2015
 pubDate: "13 Feb 2015 16:13:48 GMT"
 creator: "Ellen Schmidt"
 ---

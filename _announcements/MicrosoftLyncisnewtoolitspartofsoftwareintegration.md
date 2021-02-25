@@ -2,6 +2,7 @@
 title: "Microsoft Lync is new tool; it's part of software integration"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=433"
 sort_date: 1315574522000
+year: 2011
 pubDate: "09 Sep 2011 13:22:02 GMT"
 creator: "Ellen Schmidt"
 ---

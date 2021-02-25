@@ -2,6 +2,7 @@
 title: "Food Service now has 2 numbers"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=968"
 sort_date: 1358888091000
+year: 2013
 pubDate: "22 Jan 2013 20:54:51 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Avendano earns award of distinction from honor society"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1061"
 sort_date: 1365538091000
+year: 2013
 pubDate: "09 Apr 2013 20:08:11 GMT"
 creator: "Ellen Schmidt"
 ---

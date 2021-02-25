@@ -2,6 +2,7 @@
 title: "​Staffing agencies hiring event "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1826"
 sort_date: 1424190152000
+year: 2015
 pubDate: "17 Feb 2015 16:22:32 GMT"
 creator: "Ellen Schmidt"
 ---

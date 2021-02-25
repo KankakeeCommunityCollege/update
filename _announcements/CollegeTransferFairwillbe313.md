@@ -2,6 +2,7 @@
 title: "College & Transfer Fair will be 3/13"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=612"
 sort_date: 1329951835000
+year: 2012
 pubDate: "22 Feb 2012 23:03:55 GMT"
 creator: "Ellen Schmidt"
 ---

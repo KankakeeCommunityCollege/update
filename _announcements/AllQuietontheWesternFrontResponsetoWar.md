@@ -2,6 +2,7 @@
 title: "All Quiet on the Western Front&colon; Response to War"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1649"
 sort_date: 1412094835000
+year: 2014
 pubDate: "30 Sep 2014 16:33:55 GMT"
 creator: "Kari Nugent"
 ---

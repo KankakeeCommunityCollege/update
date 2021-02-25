@@ -2,6 +2,7 @@
 title: "Outlook Rules Wizard session&colon; 4/26 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=248"
 sort_date: 1303750005000
+year: 2011
 pubDate: "25 Apr 2011 16:46:45 GMT"
 creator: "Elizabeth Becvar"
 ---

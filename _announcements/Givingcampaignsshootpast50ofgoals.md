@@ -2,6 +2,7 @@
 title: "Giving campaigns shoot past 50% of goals"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1659"
 sort_date: 1412364936000
+year: 2014
 pubDate: "03 Oct 2014 19:35:36 GMT"
 creator: "Ellen Schmidt"
 ---

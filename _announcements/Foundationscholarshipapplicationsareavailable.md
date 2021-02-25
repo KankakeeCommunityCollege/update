@@ -2,6 +2,7 @@
 title: "Foundation scholarship applications are available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1752"
 sort_date: 1417034617000
+year: 2014
 pubDate: "26 Nov 2014 20:43:37 GMT"
 creator: "Ellen Schmidt"
 ---

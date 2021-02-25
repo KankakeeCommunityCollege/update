@@ -2,6 +2,7 @@
 title: "Recognition reply deadline is 10/30"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2059"
 sort_date: 1445541751000
+year: 2015
 pubDate: "22 Oct 2015 19:22:31 GMT"
 creator: "Ellen Schmidt"
 ---

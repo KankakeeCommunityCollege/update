@@ -2,6 +2,7 @@
 title: "Diversity Committee picks student art for display"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=708"
 sort_date: 1336750032000
+year: 2012
 pubDate: "11 May 2012 15:27:12 GMT"
 creator: "Ellen Schmidt"
 ---

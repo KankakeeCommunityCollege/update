@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Laurel, Joanie, Roger and Ellen"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1215"
 sort_date: 1377540130000
+year: 2013
 pubDate: "26 Aug 2013 18:02:10 GMT"
 creator: "Elizabeth Becvar"
 ---

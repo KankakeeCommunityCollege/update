@@ -2,6 +2,7 @@
 title: "Benefits review -- Week 3&colon; Dental/Optical/Auditory"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2308"
 sort_date: 1476366142000
+year: 2016
 pubDate: "13 Oct 2016 13:42:22 GMT"
 creator: "Ellen Schmidt"
 ---

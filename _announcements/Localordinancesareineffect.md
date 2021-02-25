@@ -2,6 +2,7 @@
 title: "Local ordinances are in effect"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2228"
 sort_date: 1465498927000
+year: 2016
 pubDate: "09 Jun 2016 19:02:07 GMT"
 creator: "Ellen Schmidt"
 ---

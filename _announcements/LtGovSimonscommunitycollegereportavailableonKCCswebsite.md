@@ -2,6 +2,7 @@
 title: "Lt. Gov. Simon’s community college report available on KCC’s website"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=592"
 sort_date: 1327600903000
+year: 2012
 pubDate: "26 Jan 2012 18:01:43 GMT"
 creator: "Ellen Schmidt"
 ---

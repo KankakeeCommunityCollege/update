@@ -2,6 +2,7 @@
 title: "Shredding of personal documents offered to employees"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2020"
 sort_date: 1441201315000
+year: 2015
 pubDate: "02 Sep 2015 13:41:55 GMT"
 creator: "Elizabeth Becvar"
 ---

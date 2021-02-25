@@ -2,6 +2,7 @@
 title: "Several offices move during HVAC project"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=348"
 sort_date: 1307652254000
+year: 2011
 pubDate: "09 Jun 2011 20:44:14 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Email groups have been updated"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2293"
 sort_date: 1475010193000
+year: 2016
 pubDate: "27 Sep 2016 21:03:13 GMT"
 creator: "Ellen Schmidt"
 ---

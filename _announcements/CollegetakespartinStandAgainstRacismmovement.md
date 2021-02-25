@@ -2,6 +2,7 @@
 title: "College takes part in ‘Stand Against Racism’ movement"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=210"
 sort_date: 1302194769000
+year: 2011
 pubDate: "07 Apr 2011 16:46:09 GMT"
 creator: "Elizabeth Becvar"
 ---

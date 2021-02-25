@@ -2,6 +2,7 @@
 title: "Budget officers, please review expenditures"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2217"
 sort_date: 1463665767000
+year: 2016
 pubDate: "19 May 2016 13:49:27 GMT"
 creator: "Ellen Schmidt"
 ---

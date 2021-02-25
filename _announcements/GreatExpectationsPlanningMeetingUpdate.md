@@ -2,6 +2,7 @@
 title: "Great Expectations Planning Meeting Update "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=50"
 sort_date: 1292453652000
+year: 2010
 pubDate: "15 Dec 2010 22:54:12 GMT"
 creator: "Ellen Schmidt"
 ---

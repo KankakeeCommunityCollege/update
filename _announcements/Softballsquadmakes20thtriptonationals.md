@@ -2,6 +2,7 @@
 title: "Softball squad makes 20th trip to nationals  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1922"
 sort_date: 1431119161000
+year: 2015
 pubDate: "08 May 2015 21:06:01 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Info on U.S. Postal Service rate increases"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=953"
 sort_date: 1357920851000
+year: 2013
 pubDate: "11 Jan 2013 16:14:11 GMT"
 creator: "Ellen Schmidt"
 ---

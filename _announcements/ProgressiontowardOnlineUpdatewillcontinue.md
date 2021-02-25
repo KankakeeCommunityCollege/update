@@ -2,6 +2,7 @@
 title: "Progression toward Online Update will continue "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=83"
 sort_date: 1295978634000
+year: 2011
 pubDate: "25 Jan 2011 18:03:54 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

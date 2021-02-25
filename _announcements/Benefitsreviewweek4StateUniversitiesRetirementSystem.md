@@ -2,6 +2,7 @@
 title: "Benefits review week 4&colon; State Universities Retirement System "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2317"
 sort_date: 1476999984000
+year: 2016
 pubDate: "20 Oct 2016 21:46:24 GMT"
 creator: "Ellen Schmidt"
 ---

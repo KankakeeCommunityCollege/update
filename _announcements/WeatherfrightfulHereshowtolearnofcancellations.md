@@ -2,6 +2,7 @@
 title: "Weather frightful? Here's how to learn of cancellations"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=26"
 sort_date: 1291669949000
+year: 2010
 pubDate: "06 Dec 2010 21:12:29 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

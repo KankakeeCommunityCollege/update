@@ -2,6 +2,7 @@
 title: "These 16 are enjoying sweet anniversary times"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2418"
 sort_date: 1491945997000
+year: 2017
 pubDate: "11 Apr 2017 21:26:37 GMT"
 creator: "Ellen Schmidt"
 ---

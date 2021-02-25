@@ -2,6 +2,7 @@
 title: "GirlSTEM"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1916"
 sort_date: 1430937185000
+year: 2015
 pubDate: "06 May 2015 18:33:05 GMT"
 creator: "Elizabeth Becvar"
 ---

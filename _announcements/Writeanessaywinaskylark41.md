@@ -2,6 +2,7 @@
 title: "Write an essay, win a skylark &colon; 4/1"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=188"
 sort_date: 1301343849000
+year: 2011
 pubDate: "28 Mar 2011 20:24:09 GMT"
 creator: "Elizabeth Becvar"
 ---

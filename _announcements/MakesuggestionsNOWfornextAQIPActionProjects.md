@@ -2,6 +2,7 @@
 title: "Make suggestions NOW for next AQIP Action Projects"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2154"
 sort_date: 1454599089000
+year: 2016
 pubDate: "04 Feb 2016 15:18:09 GMT"
 creator: "Elizabeth Becvar"
 ---

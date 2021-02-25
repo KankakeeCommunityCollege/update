@@ -2,6 +2,7 @@
 title: "Follow KCC on Pinterest"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=714"
 sort_date: 1337182967000
+year: 2012
 pubDate: "16 May 2012 15:42:47 GMT"
 creator: "Kari Nugent"
 ---

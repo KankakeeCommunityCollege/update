@@ -2,6 +2,7 @@
 title: "United Way seeks 1-2 volunteers from KCC "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=585"
 sort_date: 1326994079000
+year: 2012
 pubDate: "19 Jan 2012 17:27:59 GMT"
 creator: "Ellen Schmidt"
 ---

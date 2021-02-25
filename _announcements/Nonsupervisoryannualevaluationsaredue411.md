@@ -2,6 +2,7 @@
 title: "Non-supervisory annual evaluations are due 4/11"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1423"
 sort_date: 1392831483000
+year: 2014
 pubDate: "19 Feb 2014 17:38:03 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Spirit Day 11/26 & denim day 11/27"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1335"
 sort_date: 1385046660000
+year: 2013
 pubDate: "21 Nov 2013 15:11:00 GMT"
 creator: "Ellen Schmidt"
 ---

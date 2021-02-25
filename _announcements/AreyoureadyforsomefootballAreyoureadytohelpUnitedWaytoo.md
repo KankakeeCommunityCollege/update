@@ -2,6 +2,7 @@
 title: "Are you ready for some football? Are you ready to help United Way, too?"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1309"
 sort_date: 1383152251000
+year: 2013
 pubDate: "30 Oct 2013 16:57:31 GMT"
 creator: "Ellen Schmidt"
 ---

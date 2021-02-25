@@ -2,6 +2,7 @@
 title: "Summer fun pictures - Bozo Buckets"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2461"
 sort_date: 1497975945000
+year: 2017
 pubDate: "20 Jun 2017 16:25:45 GMT"
 creator: "Ellen Schmidt"
 ---

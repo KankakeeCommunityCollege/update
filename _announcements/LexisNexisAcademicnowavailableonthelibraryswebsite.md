@@ -2,6 +2,7 @@
 title: "LexisNexis® Academic now available on the library’s website"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1401"
 sort_date: 1390403057000
+year: 2014
 pubDate: "22 Jan 2014 15:04:17 GMT"
 creator: "Ellen Schmidt"
 ---

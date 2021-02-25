@@ -2,6 +2,7 @@
 title: "Book written by KCC retiree is available in the LRC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=839"
 sort_date: 1349279987000
+year: 2012
 pubDate: "03 Oct 2012 15:59:47 GMT"
 creator: "Ellen Schmidt"
 ---

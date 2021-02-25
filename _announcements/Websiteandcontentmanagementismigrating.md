@@ -2,6 +2,7 @@
 title: "Website and content management is 'migrating'"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=954"
 sort_date: 1357936004000
+year: 2013
 pubDate: "11 Jan 2013 20:26:44 GMT"
 creator: "Ellen Schmidt"
 ---

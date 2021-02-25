@@ -2,6 +2,7 @@
 title: "Delicious Fannie May candy fundraiser has begun"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=498"
 sort_date: 1319819060000
+year: 2011
 pubDate: "28 Oct 2011 16:24:20 GMT"
 creator: "Ellen Schmidt"
 ---

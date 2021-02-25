@@ -2,6 +2,7 @@
 title: "KCC SUAA Chapter Meeting March 14"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2171"
 sort_date: 1456755988000
+year: 2016
 pubDate: "29 Feb 2016 14:26:28 GMT"
 creator: "Ellen Schmidt"
 ---

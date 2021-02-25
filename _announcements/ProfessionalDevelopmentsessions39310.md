@@ -2,6 +2,7 @@
 title: "Professional Development sessions - 3/9 & 3/10 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=123"
 sort_date: 1297964143000
+year: 2011
 pubDate: "17 Feb 2011 17:35:43 GMT"
 creator: "Ellen Schmidt"
 ---

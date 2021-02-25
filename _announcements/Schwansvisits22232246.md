@@ -2,6 +2,7 @@
 title: "Schwan's visits&colon; 2/22, 3/22 & 4/6"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=124"
 sort_date: 1297964366000
+year: 2011
 pubDate: "17 Feb 2011 17:39:26 GMT"
 creator: "Ellen Schmidt"
 ---

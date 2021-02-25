@@ -2,6 +2,7 @@
 title: "Young man with heart condition is grandson of KCC staff member"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=951"
 sort_date: 1357837734000
+year: 2013
 pubDate: "10 Jan 2013 17:08:54 GMT"
 creator: "Ellen Schmidt"
 ---

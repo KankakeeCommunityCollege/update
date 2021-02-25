@@ -2,6 +2,7 @@
 title: "Recent videos are posted online  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=324"
 sort_date: 1306445979000
+year: 2011
 pubDate: "26 May 2011 21:39:39 GMT"
 creator: "Elizabeth Becvar"
 ---

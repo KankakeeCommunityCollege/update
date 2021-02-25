@@ -2,6 +2,7 @@
 title: "SSAC & ACC next meetings will be in August"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=377"
 sort_date: 1310479523000
+year: 2011
 pubDate: "12 Jul 2011 14:05:23 GMT"
 creator: "Ellen Schmidt"
 ---

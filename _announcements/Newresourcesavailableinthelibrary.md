@@ -2,6 +2,7 @@
 title: "New resources available in the library"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1592"
 sort_date: 1408120673000
+year: 2014
 pubDate: "15 Aug 2014 16:37:53 GMT"
 creator: "Ellen Schmidt"
 ---

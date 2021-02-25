@@ -2,6 +2,7 @@
 title: "Child Development Center closed 3/7 & 3/8"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1014"
 sort_date: 1362421284000
+year: 2013
 pubDate: "04 Mar 2013 18:21:24 GMT"
 creator: "Ellen Schmidt"
 ---

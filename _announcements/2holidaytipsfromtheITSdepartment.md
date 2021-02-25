@@ -2,6 +2,7 @@
 title: "2 holiday tips from the ITS department"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=33"
 sort_date: 1291913092000
+year: 2010
 pubDate: "09 Dec 2010 16:44:52 GMT"
 creator: "Ellen Schmidt"
 ---

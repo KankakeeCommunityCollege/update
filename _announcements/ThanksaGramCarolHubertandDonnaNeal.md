@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Carol Hubert and Donna Neal"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2092"
 sort_date: 1448288888000
+year: 2015
 pubDate: "23 Nov 2015 14:28:08 GMT"
 creator: "Ellen Schmidt"
 ---

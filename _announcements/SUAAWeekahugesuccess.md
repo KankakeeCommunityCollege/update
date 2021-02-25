@@ -2,6 +2,7 @@
 title: "​SUAA Week a huge success!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2399"
 sort_date: 1490104772000
+year: 2017
 pubDate: "21 Mar 2017 13:59:32 GMT"
 creator: "Ellen Schmidt"
 ---

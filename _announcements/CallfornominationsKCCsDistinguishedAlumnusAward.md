@@ -2,6 +2,7 @@
 title: "Call for nominations&colon; KCC's Distinguished Alumnus Award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1754"
 sort_date: 1417470233000
+year: 2014
 pubDate: "01 Dec 2014 21:43:53 GMT"
 creator: "Kari Nugent"
 ---

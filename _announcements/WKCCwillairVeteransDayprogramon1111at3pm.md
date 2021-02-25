@@ -2,6 +2,7 @@
 title: "WKCC will air Veteran's Day program on 11/11 at 3 p.m. "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1714"
 sort_date: 1415370561000
+year: 2014
 pubDate: "07 Nov 2014 14:29:21 GMT"
 creator: "Ellen Schmidt"
 ---

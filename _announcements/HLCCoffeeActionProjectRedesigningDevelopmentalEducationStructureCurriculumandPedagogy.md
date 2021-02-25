@@ -2,6 +2,7 @@
 title: "HLC & Coffee – Action Project – Redesigning Developmental Education Structure, Curriculum and Pedagogy"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2152"
 sort_date: 1454423414000
+year: 2016
 pubDate: "02 Feb 2016 14:30:14 GMT"
 creator: "Elizabeth Becvar"
 ---

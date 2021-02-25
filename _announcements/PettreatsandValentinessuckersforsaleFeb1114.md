@@ -2,6 +2,7 @@
 title: "Pet treats and Valentine's suckers for sale Feb. 11-14"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=984"
 sort_date: 1360172558000
+year: 2013
 pubDate: "06 Feb 2013 17:42:38 GMT"
 creator: "Ellen Schmidt"
 ---

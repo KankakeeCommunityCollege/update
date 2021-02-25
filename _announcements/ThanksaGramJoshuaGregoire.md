@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Joshua Gregoire"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1050"
 sort_date: 1364912924000
+year: 2013
 pubDate: "02 Apr 2013 14:28:44 GMT"
 creator: "Elizabeth Becvar"
 ---

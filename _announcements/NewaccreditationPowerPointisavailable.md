@@ -2,6 +2,7 @@
 title: "New accreditation PowerPoint is available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2111"
 sort_date: 1449698328000
+year: 2015
 pubDate: "09 Dec 2015 21:58:48 GMT"
 creator: "Elizabeth Becvar"
 ---

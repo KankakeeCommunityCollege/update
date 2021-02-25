@@ -2,6 +2,7 @@
 title: "Cavaliers Classic Golf Outing"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1556"
 sort_date: 1404406245000
+year: 2014
 pubDate: "03 Jul 2014 16:50:45 GMT"
 creator: "Elizabeth Becvar"
 ---

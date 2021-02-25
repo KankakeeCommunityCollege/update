@@ -2,6 +2,7 @@
 title: "Safety survey available until 4/27"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=681"
 sort_date: 1334948628000
+year: 2012
 pubDate: "20 Apr 2012 19:03:48 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "KCC well represented at UW annual meeting"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=195"
 sort_date: 1301924541000
+year: 2011
 pubDate: "04 Apr 2011 13:42:21 GMT"
 creator: "Elizabeth Becvar"
 ---

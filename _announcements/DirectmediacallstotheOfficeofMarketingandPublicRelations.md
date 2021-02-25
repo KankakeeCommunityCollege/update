@@ -2,6 +2,7 @@
 title: "Direct media calls to the Office of Marketing and Public Relations"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1801"
 sort_date: 1422038129000
+year: 2015
 pubDate: "23 Jan 2015 18:35:29 GMT"
 creator: "Kari Nugent"
 ---

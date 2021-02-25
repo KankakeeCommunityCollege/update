@@ -2,6 +2,7 @@
 title: "Save the dates&colon; Retirement receptions 11/28 & 11/29"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2318"
 sort_date: 1477513417000
+year: 2016
 pubDate: "26 Oct 2016 20:23:37 GMT"
 creator: "Ellen Schmidt"
 ---

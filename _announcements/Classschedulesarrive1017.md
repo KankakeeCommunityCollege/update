@@ -2,6 +2,7 @@
 title: "Class schedules arrive&colon;@10/17"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=483"
 sort_date: 1318600557000
+year: 2011
 pubDate: "14 Oct 2011 13:55:57 GMT"
 creator: "Ellen Schmidt"
 ---

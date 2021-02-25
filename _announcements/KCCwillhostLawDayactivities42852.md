@@ -2,6 +2,7 @@
 title: "KCC will host Law Day activities 4/28 - 5/2"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1468"
 sort_date: 1397236342000
+year: 2014
 pubDate: "11 Apr 2014 17:12:22 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "United Way exceeds its goal!  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1867"
 sort_date: 1427474804000
+year: 2015
 pubDate: "27 Mar 2015 16:46:44 GMT"
 creator: "Ellen Schmidt"
 ---

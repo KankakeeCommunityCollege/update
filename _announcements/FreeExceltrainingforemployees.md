@@ -2,6 +2,7 @@
 title: "Free Excel training for employees"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2251"
 sort_date: 1468427391000
+year: 2016
 pubDate: "13 Jul 2016 16:29:51 GMT"
 creator: "Ellen Schmidt"
 ---

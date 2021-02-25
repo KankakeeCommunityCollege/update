@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram -- Lindsey Fritz and JoEllen Vasquez"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=209"
 sort_date: 1302107693000
+year: 2011
 pubDate: "06 Apr 2011 16:34:53 GMT"
 creator: "Elizabeth Becvar"
 ---

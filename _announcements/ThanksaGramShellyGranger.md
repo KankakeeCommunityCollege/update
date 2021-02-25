@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Shelly Granger "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1190"
 sort_date: 1375893222000
+year: 2013
 pubDate: "07 Aug 2013 16:33:42 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Local singer Lupe Carroll will be on WKCC 10/10"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1275"
 sort_date: 1381266242000
+year: 2013
 pubDate: "08 Oct 2013 21:04:02 GMT"
 creator: "Ellen Schmidt"
 ---

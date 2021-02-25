@@ -2,6 +2,7 @@
 title: "WKCC pre-Earth Day special airs 4/17"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1890"
 sort_date: 1429110885000
+year: 2015
 pubDate: "15 Apr 2015 15:14:45 GMT"
 creator: "Ellen Schmidt"
 ---

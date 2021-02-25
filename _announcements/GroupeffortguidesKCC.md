@@ -2,6 +2,7 @@
 title: "Group effort guides KCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1830"
 sort_date: 1424359259000
+year: 2015
 pubDate: "19 Feb 2015 15:20:59 GMT"
 creator: "Kari Nugent"
 ---

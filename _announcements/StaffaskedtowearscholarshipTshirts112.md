@@ -2,6 +2,7 @@
 title: "Staff asked to wear scholarship T-shirts 11/2"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2062"
 sort_date: 1445956706000
+year: 2015
 pubDate: "27 Oct 2015 14:38:26 GMT"
 creator: "Ellen Schmidt"
 ---

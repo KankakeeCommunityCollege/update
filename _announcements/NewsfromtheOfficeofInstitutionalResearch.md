@@ -2,6 +2,7 @@
 title: "News from the Office of Institutional Research "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=229"
 sort_date: 1303146108000
+year: 2011
 pubDate: "18 Apr 2011 17:01:48 GMT"
 creator: "Elizabeth Becvar"
 ---

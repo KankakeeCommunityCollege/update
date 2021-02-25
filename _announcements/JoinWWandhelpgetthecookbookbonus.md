@@ -2,6 +2,7 @@
 title: "Join WW and help get the cookbook bonus"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1602"
 sort_date: 1408724916000
+year: 2014
 pubDate: "22 Aug 2014 16:28:36 GMT"
 creator: "Elizabeth Becvar"
 ---

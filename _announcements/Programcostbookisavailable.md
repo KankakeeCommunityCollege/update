@@ -2,6 +2,7 @@
 title: "Program cost book is available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1472"
 sort_date: 1397595917000
+year: 2014
 pubDate: "15 Apr 2014 21:05:17 GMT"
 creator: "Ellen Schmidt"
 ---

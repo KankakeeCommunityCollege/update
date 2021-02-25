@@ -2,6 +2,7 @@
 title: "$800K grant brightens future of sustainability options"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=793"
 sort_date: 1345814535000
+year: 2012
 pubDate: "24 Aug 2012 13:22:15 GMT"
 creator: "Ellen Schmidt"
 ---

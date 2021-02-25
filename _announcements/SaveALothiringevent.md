@@ -2,6 +2,7 @@
 title: "Save-A-Lot hiring event"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1596"
 sort_date: 1408561357000
+year: 2014
 pubDate: "20 Aug 2014 19:02:37 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Program receives thanks for helping out"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1136"
 sort_date: 1370539352000
+year: 2013
 pubDate: "06 Jun 2013 17:22:32 GMT"
 creator: "Ellen Schmidt"
 ---

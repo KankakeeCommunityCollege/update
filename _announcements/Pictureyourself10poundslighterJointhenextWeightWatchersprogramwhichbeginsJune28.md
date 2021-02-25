@@ -2,6 +2,7 @@
 title: "Picture yourself 10 pounds lighter! Join the next Weight Watchers program which begins June 28!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=332"
 sort_date: 1306959529000
+year: 2011
 pubDate: "01 Jun 2011 20:18:49 GMT"
 creator: "Nancy Schunke"
 ---

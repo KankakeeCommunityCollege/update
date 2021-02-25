@@ -2,6 +2,7 @@
 title: "Recognition event nears -- please respond by 10/30"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1613"
 sort_date: 1409686438000
+year: 2014
 pubDate: "02 Sep 2014 19:33:58 GMT"
 creator: "Ellen Schmidt"
 ---

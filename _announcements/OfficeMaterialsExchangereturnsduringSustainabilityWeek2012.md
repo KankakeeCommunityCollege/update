@@ -2,6 +2,7 @@
 title: "Office Materials Exchange returns during Sustainability Week 2012 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=628"
 sort_date: 1330712869000
+year: 2012
 pubDate: "02 Mar 2012 18:27:49 GMT"
 creator: "Ellen Schmidt"
 ---

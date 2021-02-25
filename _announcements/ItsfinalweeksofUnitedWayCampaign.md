@@ -2,6 +2,7 @@
 title: "It's final weeks of United Way Campaign"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2182"
 sort_date: 1457724187000
+year: 2016
 pubDate: "11 Mar 2016 19:23:07 GMT"
 creator: "Ellen Schmidt"
 ---

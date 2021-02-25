@@ -2,6 +2,7 @@
 title: "Several casual days are coming up"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=554"
 sort_date: 1323458613000
+year: 2011
 pubDate: "09 Dec 2011 19:23:33 GMT"
 creator: "Ellen Schmidt"
 ---

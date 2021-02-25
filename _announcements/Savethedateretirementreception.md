@@ -2,6 +2,7 @@
 title: "Save the date&colon; Retirement reception"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2024"
 sort_date: 1441317746000
+year: 2015
 pubDate: "03 Sep 2015 22:02:26 GMT"
 creator: "Ellen Schmidt"
 ---
@@ -20,5 +21,4 @@ ent reception </div>
 <div><b>Created By:</b> Ellen Schmidt</div>
 <div><b>Start Date:</b> 10/4/2016</div>
 <div><b>Title:</b> ​Save the date: Retirement reception</div>
- reception</div>
- Save the date - Retirement reception </div>
+div><b>Title:</b> Save the date - Retirement reception </div>

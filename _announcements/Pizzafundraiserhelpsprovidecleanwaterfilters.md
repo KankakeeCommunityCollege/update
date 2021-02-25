@@ -2,6 +2,7 @@
 title: "Pizza fundraiser helps provide clean water filters"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1316"
 sort_date: 1383841789000
+year: 2013
 pubDate: "07 Nov 2013 16:29:49 GMT"
 creator: "Ellen Schmidt"
 ---

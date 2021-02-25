@@ -2,6 +2,7 @@
 title: "KCC employee recognized for assistance with web application"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1229"
 sort_date: 1378409926000
+year: 2013
 pubDate: "05 Sep 2013 19:38:46 GMT"
 creator: "Ellen Schmidt"
 ---

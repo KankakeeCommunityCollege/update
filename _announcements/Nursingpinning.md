@@ -2,6 +2,7 @@
 title: "Nursing pinning"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=363"
 sort_date: 1308867696000
+year: 2011
 pubDate: "23 Jun 2011 22:21:36 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

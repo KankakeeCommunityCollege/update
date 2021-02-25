@@ -2,6 +2,7 @@
 title: "Letter gives thanks to police department"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2383"
 sort_date: 1487280418000
+year: 2017
 pubDate: "16 Feb 2017 21:26:58 GMT"
 creator: "Ellen Schmidt"
 ---

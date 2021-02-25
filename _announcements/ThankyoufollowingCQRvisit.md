@@ -2,6 +2,7 @@
 title: "Thank you following CQR visit"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2165"
 sort_date: 1455728668000
+year: 2016
 pubDate: "17 Feb 2016 17:04:28 GMT"
 creator: "Ellen Schmidt"
 ---

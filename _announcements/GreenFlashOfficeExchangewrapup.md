@@ -2,6 +2,7 @@
 title: "Green Flash&colon; Office Exchange wrap-up   "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=278"
 sort_date: 1304345765000
+year: 2011
 pubDate: "02 May 2011 14:16:05 GMT"
 creator: "Elizabeth Becvar"
 ---

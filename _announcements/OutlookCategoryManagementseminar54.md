@@ -2,6 +2,7 @@
 title: "Outlook Category Management seminar&colon; 5/4 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=272"
 sort_date: 1304344092000
+year: 2011
 pubDate: "02 May 2011 13:48:12 GMT"
 creator: "Elizabeth Becvar"
 ---

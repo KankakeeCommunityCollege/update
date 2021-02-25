@@ -2,6 +2,7 @@
 title: "Hammes Bookstore offering big spring savings "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1441"
 sort_date: 1394557161000
+year: 2014
 pubDate: "11 Mar 2014 16:59:21 GMT"
 creator: "Ellen Schmidt"
 ---

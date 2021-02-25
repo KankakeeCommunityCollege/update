@@ -2,6 +2,7 @@
 title: "Details on summer facility hours "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=261"
 sort_date: 1304342956000
+year: 2011
 pubDate: "02 May 2011 13:29:16 GMT"
 creator: "Elizabeth Becvar"
 ---

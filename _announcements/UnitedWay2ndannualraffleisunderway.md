@@ -2,6 +2,7 @@
 title: "United Way 2nd annual raffle is underway "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=73"
 sort_date: 1295043009000
+year: 2011
 pubDate: "14 Jan 2011 22:10:09 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Thanks for the retirement send-off"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2468"
 sort_date: 1499260654000
+year: 2017
 pubDate: "05 Jul 2017 13:17:34 GMT"
 creator: "Ellen Schmidt"
 ---

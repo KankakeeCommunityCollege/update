@@ -2,6 +2,7 @@
 title: "Final November pay date"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1327"
 sort_date: 1384549198000
+year: 2013
 pubDate: "15 Nov 2013 20:59:58 GMT"
 creator: "Ellen Schmidt"
 ---

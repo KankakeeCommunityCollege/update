@@ -2,6 +2,7 @@
 title: "Students for Animals Halloween sale and shelter donation"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1675"
 sort_date: 1413398170000
+year: 2014
 pubDate: "15 Oct 2014 18:36:10 GMT"
 creator: "Elizabeth Becvar"
 ---

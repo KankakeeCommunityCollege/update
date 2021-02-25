@@ -2,6 +2,7 @@
 title: "Pick up decorations from storage&colon; beginning 11/21"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=519"
 sort_date: 1321569059000
+year: 2011
 pubDate: "17 Nov 2011 22:30:59 GMT"
 creator: "Ellen Schmidt"
 ---

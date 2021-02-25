@@ -2,6 +2,7 @@
 title: "Datatel budget reports unavailable on 10/31"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1691"
 sort_date: 1414160733000
+year: 2014
 pubDate: "24 Oct 2014 14:25:33 GMT"
 creator: "Ellen Schmidt"
 ---

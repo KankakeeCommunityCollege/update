@@ -2,6 +2,7 @@
 title: "College hours Jan. 2-10"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1370"
 sort_date: 1386888625000
+year: 2013
 pubDate: "12 Dec 2013 22:50:25 GMT"
 creator: "Ellen Schmidt"
 ---

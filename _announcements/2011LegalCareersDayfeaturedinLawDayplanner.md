@@ -2,6 +2,7 @@
 title: "2011 Legal Careers Day featured in Law Day planner"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=417"
 sort_date: 1314373041000
+year: 2011
 pubDate: "26 Aug 2011 15:37:21 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "​Testing Center fall hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2009"
 sort_date: 1440002452000
+year: 2015
 pubDate: "19 Aug 2015 16:40:52 GMT"
 creator: "Ellen Schmidt"
 ---

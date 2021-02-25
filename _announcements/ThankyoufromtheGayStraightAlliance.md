@@ -2,6 +2,7 @@
 title: "Thank you from the Gay-Straight Alliance "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=669"
 sort_date: 1334845318000
+year: 2012
 pubDate: "19 Apr 2012 14:21:58 GMT"
 creator: "Ellen Schmidt"
 ---

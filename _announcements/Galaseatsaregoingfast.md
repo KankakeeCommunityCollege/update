@@ -2,6 +2,7 @@
 title: "Gala seats are going fast"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2427"
 sort_date: 1493328757000
+year: 2017
 pubDate: "27 Apr 2017 21:32:37 GMT"
 creator: "Ellen Schmidt"
 ---

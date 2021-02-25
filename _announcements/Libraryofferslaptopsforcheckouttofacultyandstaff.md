@@ -2,6 +2,7 @@
 title: "Library offers laptops for checkout to faculty and staff"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2047"
 sort_date: 1444421889000
+year: 2015
 pubDate: "09 Oct 2015 20:18:09 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Front desk hours, now through 8/18"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=766"
 sort_date: 1343759127000
+year: 2012
 pubDate: "31 Jul 2012 18:25:27 GMT"
 creator: "Ellen Schmidt"
 ---

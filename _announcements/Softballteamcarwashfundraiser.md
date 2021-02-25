@@ -2,6 +2,7 @@
 title: "Softball team car wash fundraiser"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1608"
 sort_date: 1409234253000
+year: 2014
 pubDate: "28 Aug 2014 13:57:33 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Library hours 8/4 - 8/22"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1576"
 sort_date: 1406726909000
+year: 2014
 pubDate: "30 Jul 2014 13:28:29 GMT"
 creator: "Ellen Schmidt"
 ---

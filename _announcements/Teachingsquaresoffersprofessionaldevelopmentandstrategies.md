@@ -2,6 +2,7 @@
 title: "Teaching squares offers professional development and strategies"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1798"
 sort_date: 1422027922000
+year: 2015
 pubDate: "23 Jan 2015 15:45:22 GMT"
 creator: "Ellen Schmidt"
 ---

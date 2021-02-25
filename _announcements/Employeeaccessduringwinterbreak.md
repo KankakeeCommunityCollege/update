@@ -2,6 +2,7 @@
 title: "Employee access during winter break"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=48"
 sort_date: 1292428958000
+year: 2010
 pubDate: "15 Dec 2010 16:02:38 GMT"
 creator: "Ellen Schmidt"
 ---

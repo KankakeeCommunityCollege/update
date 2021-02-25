@@ -2,6 +2,7 @@
 title: "Congratulations on birth of first child"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=791"
 sort_date: 1345742258000
+year: 2012
 pubDate: "23 Aug 2012 17:17:38 GMT"
 creator: "Ellen Schmidt"
 ---

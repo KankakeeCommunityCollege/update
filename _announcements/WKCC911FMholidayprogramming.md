@@ -2,6 +2,7 @@
 title: "WKCC 91.1 FM holiday programming "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=535"
 sort_date: 1322749428000
+year: 2011
 pubDate: "01 Dec 2011 14:23:48 GMT"
 creator: "Ellen Schmidt"
 ---

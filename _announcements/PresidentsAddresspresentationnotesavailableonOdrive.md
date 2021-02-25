@@ -2,6 +2,7 @@
 title: "President's Address presentation notes available on O drive"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=810"
 sort_date: 1347051277000
+year: 2012
 pubDate: "07 Sep 2012 20:54:37 GMT"
 creator: "Ellen Schmidt"
 ---

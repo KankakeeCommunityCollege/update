@@ -2,6 +2,7 @@
 title: "2 free symphony tickets - drawing to be held 9/7"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=807"
 sort_date: 1346865106000
+year: 2012
 pubDate: "05 Sep 2012 17:11:46 GMT"
 creator: "Ellen Schmidt"
 ---

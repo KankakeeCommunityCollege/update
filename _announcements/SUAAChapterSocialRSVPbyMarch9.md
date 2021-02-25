@@ -2,6 +2,7 @@
 title: "SUAA Chapter Social -- RSVP by March 9 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=617"
 sort_date: 1330436470000
+year: 2012
 pubDate: "28 Feb 2012 13:41:10 GMT"
 creator: "Elizabeth Becvar"
 ---

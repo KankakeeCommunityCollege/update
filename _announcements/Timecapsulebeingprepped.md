@@ -2,6 +2,7 @@
 title: "Time capsule being prepped"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2328"
 sort_date: 1479225139000
+year: 2016
 pubDate: "15 Nov 2016 15:52:19 GMT"
 creator: "Ellen Schmidt"
 ---

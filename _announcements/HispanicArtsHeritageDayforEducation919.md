@@ -2,6 +2,7 @@
 title: "​Hispanic Arts & Heritage Day for Education 9/19"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1984"
 sort_date: 1436901149000
+year: 2015
 pubDate: "14 Jul 2015 19:12:29 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

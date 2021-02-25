@@ -2,6 +2,7 @@
 title: "​Growing Online Learning – Free Online Conference"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2164"
 sort_date: 1455291815000
+year: 2016
 pubDate: "12 Feb 2016 15:43:35 GMT"
 creator: "Ellen Schmidt"
 ---

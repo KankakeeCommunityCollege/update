@@ -2,6 +2,7 @@
 title: "Congratulations on police academy graduation"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1081"
 sort_date: 1366145606000
+year: 2013
 pubDate: "16 Apr 2013 20:53:26 GMT"
 creator: "Ellen Schmidt"
 ---

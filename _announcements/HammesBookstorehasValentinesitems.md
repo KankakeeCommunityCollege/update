@@ -2,6 +2,7 @@
 title: "Hammes Bookstore has Valentines items"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=107"
 sort_date: 1297110136000
+year: 2011
 pubDate: "07 Feb 2011 20:22:16 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "​Days of Learning activities for this week"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2177"
 sort_date: 1457105049000
+year: 2016
 pubDate: "04 Mar 2016 15:24:09 GMT"
 creator: "Ellen Schmidt"
 ---

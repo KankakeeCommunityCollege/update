@@ -2,6 +2,7 @@
 title: "New geometry testing option"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=885"
 sort_date: 1351873269000
+year: 2012
 pubDate: "02 Nov 2012 16:21:09 GMT"
 creator: "Ellen Schmidt"
 ---

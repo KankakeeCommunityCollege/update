@@ -2,6 +2,7 @@
 title: "Holiday decoration pick-up will be 10 a.m. on 1/15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1788"
 sort_date: 1421159466000
+year: 2015
 pubDate: "13 Jan 2015 14:31:06 GMT"
 creator: "Ellen Schmidt"
 ---

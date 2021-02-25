@@ -2,6 +2,7 @@
 title: "Casual day"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=40"
 sort_date: 1292012616000
+year: 2010
 pubDate: "10 Dec 2010 20:23:36 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

@@ -2,6 +2,7 @@
 title: "Student print management is reducing print costs"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1142"
 sort_date: 1371137092000
+year: 2013
 pubDate: "13 Jun 2013 15:24:52 GMT"
 creator: "Ellen Schmidt"
 ---

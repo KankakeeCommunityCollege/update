@@ -2,6 +2,7 @@
 title: "Portions of the east parking lot will be unavailable beginning Thursday"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1694"
 sort_date: 1414428099000
+year: 2014
 pubDate: "27 Oct 2014 16:41:39 GMT"
 creator: "Ellen Schmidt"
 ---

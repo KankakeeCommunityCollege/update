@@ -2,6 +2,7 @@
 title: "Employee giving meets its goal!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1705"
 sort_date: 1415036815000
+year: 2014
 pubDate: "03 Nov 2014 17:46:55 GMT"
 creator: "Ellen Schmidt"
 ---

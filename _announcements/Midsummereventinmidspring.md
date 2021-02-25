@@ -2,6 +2,7 @@
 title: "'Midsummer' event in mid-spring"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=177"
 sort_date: 1300730652000
+year: 2011
 pubDate: "21 Mar 2011 18:04:12 GMT"
 creator: "Elizabeth Becvar"
 ---

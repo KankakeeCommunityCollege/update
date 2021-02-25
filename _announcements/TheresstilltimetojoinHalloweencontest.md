@@ -2,6 +2,7 @@
 title: "There's still time to join Halloween contest"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=465"
 sort_date: 1317410903000
+year: 2011
 pubDate: "30 Sep 2011 19:28:23 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

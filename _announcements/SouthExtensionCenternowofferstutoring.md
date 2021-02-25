@@ -2,6 +2,7 @@
 title: "South Extension Center now offers tutoring"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2000"
 sort_date: 1439401952000
+year: 2015
 pubDate: "12 Aug 2015 17:52:32 GMT"
 creator: "Ellen Schmidt"
 ---

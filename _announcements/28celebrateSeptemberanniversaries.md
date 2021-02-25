@@ -2,6 +2,7 @@
 title: "28 celebrate September anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=413"
 sort_date: 1314365592000
+year: 2011
 pubDate: "26 Aug 2011 13:33:12 GMT"
 creator: "Ellen Schmidt"
 ---

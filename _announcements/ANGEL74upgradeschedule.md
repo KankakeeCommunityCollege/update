@@ -2,6 +2,7 @@
 title: "ANGEL 7.4 upgrade schedule "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=286"
 sort_date: 1304712419000
+year: 2011
 pubDate: "06 May 2011 20:06:59 GMT"
 creator: "Elizabeth Becvar"
 ---

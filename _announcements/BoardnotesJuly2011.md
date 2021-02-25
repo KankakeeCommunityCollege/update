@@ -2,6 +2,7 @@
 title: "Board notes - July 2011"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=379"
 sort_date: 1310560114000
+year: 2011
 pubDate: "13 Jul 2011 12:28:34 GMT"
 creator: "Ellen Schmidt"
 ---

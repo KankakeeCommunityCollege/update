@@ -2,6 +2,7 @@
 title: "ACT Compass Test is now at NEC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1531"
 sort_date: 1401809856000
+year: 2014
 pubDate: "03 Jun 2014 15:37:36 GMT"
 creator: "Ellen Schmidt"
 ---

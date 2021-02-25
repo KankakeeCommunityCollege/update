@@ -2,6 +2,7 @@
 title: "'The Duck' is coming with a new program to the Benefits Fair"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1711"
 sort_date: 1415219547000
+year: 2014
 pubDate: "05 Nov 2014 20:32:27 GMT"
 creator: "Ellen Schmidt"
 ---

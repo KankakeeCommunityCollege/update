@@ -2,6 +2,7 @@
 title: "Announcement of new vice president"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1464"
 sort_date: 1397062343000
+year: 2014
 pubDate: "09 Apr 2014 16:52:23 GMT"
 creator: "Ellen Schmidt"
 ---

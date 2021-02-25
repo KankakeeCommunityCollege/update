@@ -2,6 +2,7 @@
 title: "Interim library hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2110"
 sort_date: 1449690566000
+year: 2015
 pubDate: "09 Dec 2015 19:49:26 GMT"
 creator: "Ellen Schmidt"
 ---

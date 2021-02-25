@@ -2,6 +2,7 @@
 title: "2 new NCCBP reports now available on Institutional Research web page"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1324"
 sort_date: 1384366394000
+year: 2013
 pubDate: "13 Nov 2013 18:13:14 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Get in on graduation issue"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=199"
 sort_date: 1301924807000
+year: 2011
 pubDate: "04 Apr 2011 13:46:47 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Sustainability programs featured in national report"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=762"
 sort_date: 1343220169000
+year: 2012
 pubDate: "25 Jul 2012 12:42:49 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Paralegal Program Alumni Mentoring Network wins award"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1160"
 sort_date: 1373320314000
+year: 2013
 pubDate: "08 Jul 2013 21:51:54 GMT"
 creator: "Ellen Schmidt"
 ---

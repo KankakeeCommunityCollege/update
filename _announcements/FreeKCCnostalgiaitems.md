@@ -2,6 +2,7 @@
 title: "Free - KCC nostalgia items"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2366"
 sort_date: 1484324280000
+year: 2017
 pubDate: "13 Jan 2017 16:18:00 GMT"
 creator: "Ellen Schmidt"
 ---

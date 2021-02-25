@@ -2,6 +2,7 @@
 title: "Be part of progress&colon; Test voice-activated copying on 4/1"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1866"
 sort_date: 1427380149000
+year: 2015
 pubDate: "26 Mar 2015 14:29:09 GMT"
 creator: "Ellen Schmidt"
 ---

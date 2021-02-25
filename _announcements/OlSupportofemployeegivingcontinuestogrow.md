@@ -2,6 +2,7 @@
 title: "Olé! Support of employee giving continues to grow!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1280"
 sort_date: 1381515165000
+year: 2013
 pubDate: "11 Oct 2013 18:12:45 GMT"
 creator: "Ellen Schmidt"
 ---

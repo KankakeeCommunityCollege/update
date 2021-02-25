@@ -2,6 +2,7 @@
 title: "Book buyback&colon; 5/9-5/16  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=296"
 sort_date: 1304713133000
+year: 2011
 pubDate: "06 May 2011 20:18:53 GMT"
 creator: "Elizabeth Becvar"
 ---

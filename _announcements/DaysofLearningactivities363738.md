@@ -2,6 +2,7 @@
 title: "Days of Learning activities&colon; 3/6, 3/7 & 3/8"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2388"
 sort_date: 1487801740000
+year: 2017
 pubDate: "22 Feb 2017 22:15:40 GMT"
 creator: "Ellen Schmidt"
 ---

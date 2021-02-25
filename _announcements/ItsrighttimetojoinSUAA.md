@@ -2,6 +2,7 @@
 title: "It's right time to join SUAA "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=234"
 sort_date: 1303507310000
+year: 2011
 pubDate: "22 Apr 2011 21:21:50 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Red Cross Blood Drive&colon; 4/18 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=214"
 sort_date: 1302529088000
+year: 2011
 pubDate: "11 Apr 2011 13:38:08 GMT"
 creator: "Elizabeth Becvar"
 ---

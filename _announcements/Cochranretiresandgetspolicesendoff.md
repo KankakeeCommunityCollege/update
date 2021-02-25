@@ -2,6 +2,7 @@
 title: "Cochran retires and gets police send-off"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1460"
 sort_date: 1396283792000
+year: 2014
 pubDate: "31 Mar 2014 16:36:32 GMT"
 creator: "Ellen Schmidt"
 ---

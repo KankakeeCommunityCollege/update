@@ -2,6 +2,7 @@
 title: "Mailroom provides reminders on bulk mail procedures"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=792"
 sort_date: 1345742930000
+year: 2012
 pubDate: "23 Aug 2012 17:28:50 GMT"
 creator: "Ellen Schmidt"
 ---

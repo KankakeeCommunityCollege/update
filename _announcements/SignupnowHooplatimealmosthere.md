@@ -2,6 +2,7 @@
 title: "Sign up now, Hoopla time almost here"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=443"
 sort_date: 1316096373000
+year: 2011
 pubDate: "15 Sep 2011 14:19:33 GMT"
 creator: "Elizabeth Becvar"
 ---

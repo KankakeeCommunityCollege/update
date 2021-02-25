@@ -2,6 +2,7 @@
 title: "Business office has free cabinets available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2102"
 sort_date: 1449085008000
+year: 2015
 pubDate: "02 Dec 2015 19:36:48 GMT"
 creator: "Ellen Schmidt"
 ---

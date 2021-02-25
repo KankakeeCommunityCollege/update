@@ -2,6 +2,7 @@
 title: "Supervisory annual evaluations are due 5/9"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1422"
 sort_date: 1392826480000
+year: 2014
 pubDate: "19 Feb 2014 16:14:40 GMT"
 creator: "Ellen Schmidt"
 ---

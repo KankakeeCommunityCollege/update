@@ -2,6 +2,7 @@
 title: "Rainbow Run has success and celebration"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1505"
 sort_date: 1399314312000
+year: 2014
 pubDate: "05 May 2014 18:25:12 GMT"
 creator: "Ellen Schmidt"
 ---

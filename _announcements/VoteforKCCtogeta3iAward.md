@@ -2,6 +2,7 @@
 title: "Vote for KCC to get a 3iAward"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1584"
 sort_date: 1407357210000
+year: 2014
 pubDate: "06 Aug 2014 20:33:30 GMT"
 creator: "Ellen Schmidt"
 ---

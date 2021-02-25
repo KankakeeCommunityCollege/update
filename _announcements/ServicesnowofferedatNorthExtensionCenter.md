@@ -2,6 +2,7 @@
 title: "Services now offered at North Extension Center"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1407"
 sort_date: 1391547124000
+year: 2014
 pubDate: "04 Feb 2014 20:52:04 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Save the date&colon; Recognition event will be 10/26"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=801"
 sort_date: 1346426990000
+year: 2012
 pubDate: "31 Aug 2012 15:29:50 GMT"
 creator: "Ellen Schmidt"
 ---

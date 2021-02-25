@@ -2,6 +2,7 @@
 title: "French Canadian Heritage Exhibit is installed"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=797"
 sort_date: 1346098966000
+year: 2012
 pubDate: "27 Aug 2012 20:22:46 GMT"
 creator: "Ellen Schmidt"
 ---

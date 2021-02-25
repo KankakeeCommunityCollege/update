@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram - Steve Makepeace, Sharon Hoogstraat, Joellen Vasquez"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=27"
 sort_date: 1291670435000
+year: 2010
 pubDate: "06 Dec 2010 21:20:35 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

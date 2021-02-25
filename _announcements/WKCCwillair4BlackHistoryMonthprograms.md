@@ -2,6 +2,7 @@
 title: "WKCC will air 4 Black History Month programs"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=85"
 sort_date: 1295981377000
+year: 2011
 pubDate: "25 Jan 2011 18:49:37 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

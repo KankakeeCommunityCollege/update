@@ -2,6 +2,7 @@
 title: "WYSE Thank You"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=596"
 sort_date: 1328218129000
+year: 2012
 pubDate: "02 Feb 2012 21:28:49 GMT"
 creator: "Ellen Schmidt"
 ---

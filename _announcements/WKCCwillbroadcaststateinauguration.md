@@ -2,6 +2,7 @@
 title: "WKCC will broadcast state inauguration"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=65"
 sort_date: 1294428357000
+year: 2011
 pubDate: "07 Jan 2011 19:25:57 GMT"
 creator: "Ellen Schmidt"
 ---

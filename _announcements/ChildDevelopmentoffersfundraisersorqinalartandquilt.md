@@ -2,6 +2,7 @@
 title: "Child Development offers fundraisers&colon; orqinal art and quilt"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1888"
 sort_date: 1429028125000
+year: 2015
 pubDate: "14 Apr 2015 16:15:25 GMT"
 creator: "Ellen Schmidt"
 ---

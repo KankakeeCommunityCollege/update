@@ -2,6 +2,7 @@
 title: "Info on email self-managed quarantine (Filter) and Outlook junk mail"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=986"
 sort_date: 1360360609000
+year: 2013
 pubDate: "08 Feb 2013 21:56:49 GMT"
 creator: "Ellen Schmidt"
 ---

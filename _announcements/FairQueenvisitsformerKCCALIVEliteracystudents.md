@@ -2,6 +2,7 @@
 title: "Fair Queen visits former KCC ALIVE literacy students"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1226"
 sort_date: 1378309832000
+year: 2013
 pubDate: "04 Sep 2013 15:50:32 GMT"
 creator: "Elizabeth Becvar"
 ---

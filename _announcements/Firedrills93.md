@@ -2,6 +2,7 @@
 title: "Fire drills&colon; 9/3"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1578"
 sort_date: 1406739172000
+year: 2014
 pubDate: "30 Jul 2014 16:52:52 GMT"
 creator: "Ellen Schmidt"
 ---

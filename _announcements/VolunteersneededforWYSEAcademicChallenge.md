@@ -2,6 +2,7 @@
 title: "Volunteers needed for WYSE Academic Challenge"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=586"
 sort_date: 1327093015000
+year: 2012
 pubDate: "20 Jan 2012 20:56:55 GMT"
 creator: "Ellen Schmidt"
 ---

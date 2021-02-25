@@ -2,6 +2,7 @@
 title: "'Navigating Uncertainty' focus of upcoming KCC SUAA Chapter Meeting"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2290"
 sort_date: 1474464524000
+year: 2016
 pubDate: "21 Sep 2016 13:28:44 GMT"
 creator: "Ellen Schmidt"
 ---

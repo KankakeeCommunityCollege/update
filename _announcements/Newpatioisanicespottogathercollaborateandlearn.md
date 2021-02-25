@@ -2,6 +2,7 @@
 title: "New patio is a nice spot to gather, collaborate and learn"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1514"
 sort_date: 1399572671000
+year: 2014
 pubDate: "08 May 2014 18:11:11 GMT"
 creator: "Ellen Schmidt"
 ---

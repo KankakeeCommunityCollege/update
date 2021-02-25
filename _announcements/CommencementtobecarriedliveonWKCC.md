@@ -2,6 +2,7 @@
 title: "Commencement to be carried live on WKCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=270"
 sort_date: 1304343868000
+year: 2011
 pubDate: "02 May 2011 13:44:28 GMT"
 creator: "Elizabeth Becvar"
 ---

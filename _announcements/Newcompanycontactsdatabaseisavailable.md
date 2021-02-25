@@ -2,6 +2,7 @@
 title: "New company contacts database is available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2150"
 sort_date: 1453821070000
+year: 2016
 pubDate: "26 Jan 2016 15:11:10 GMT"
 creator: "Ellen Schmidt"
 ---

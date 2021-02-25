@@ -2,6 +2,7 @@
 title: "KCC flag protocol"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=111"
 sort_date: 1297349076000
+year: 2011
 pubDate: "10 Feb 2011 14:44:36 GMT"
 creator: "Ellen Schmidt"
 ---

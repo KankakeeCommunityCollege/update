@@ -2,6 +2,7 @@
 title: "It's time for these 10 to celebrate!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2360"
 sort_date: 1484061998000
+year: 2017
 pubDate: "10 Jan 2017 15:26:38 GMT"
 creator: "Ellen Schmidt"
 ---

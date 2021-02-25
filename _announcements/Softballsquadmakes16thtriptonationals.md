@@ -2,6 +2,7 @@
 title: "Softball squad makes 16th trip to nationals "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=305"
 sort_date: 1305552772000
+year: 2011
 pubDate: "16 May 2011 13:32:52 GMT"
 creator: "Elizabeth Becvar"
 ---

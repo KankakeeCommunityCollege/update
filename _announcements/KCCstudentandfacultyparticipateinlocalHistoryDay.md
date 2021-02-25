@@ -2,6 +2,7 @@
 title: "KCC student and faculty participate in local History Day "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=823"
 sort_date: 1347973716000
+year: 2012
 pubDate: "18 Sep 2012 13:08:36 GMT"
 creator: "Elizabeth Becvar"
 ---

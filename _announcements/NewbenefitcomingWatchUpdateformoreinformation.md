@@ -2,6 +2,7 @@
 title: "New benefit coming ... Watch Update for more information!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2045"
 sort_date: 1444227089000
+year: 2015
 pubDate: "07 Oct 2015 14:11:29 GMT"
 creator: "Ellen Schmidt"
 ---

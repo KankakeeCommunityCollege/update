@@ -2,6 +2,7 @@
 title: "ATEC work on hold "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1967"
 sort_date: 1435784956000
+year: 2015
 pubDate: "01 Jul 2015 21:09:16 GMT"
 creator: "Kari Nugent"
 ---

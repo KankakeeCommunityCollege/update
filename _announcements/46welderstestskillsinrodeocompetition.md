@@ -2,6 +2,7 @@
 title: "46 welders test skills in 'rodeo' competition "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=692"
 sort_date: 1335816636000
+year: 2012
 pubDate: "30 Apr 2012 20:10:36 GMT"
 creator: "Ellen Schmidt"
 ---

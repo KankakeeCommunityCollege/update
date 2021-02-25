@@ -2,6 +2,7 @@
 title: "Raise scholarship awareness with college-wide effort on 11/3"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1686"
 sort_date: 1414001459000
+year: 2014
 pubDate: "22 Oct 2014 18:10:59 GMT"
 creator: "Ellen Schmidt"
 ---

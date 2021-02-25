@@ -2,6 +2,7 @@
 title: "Recognition event photos are posted"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1753"
 sort_date: 1417038566000
+year: 2014
 pubDate: "26 Nov 2014 21:49:26 GMT"
 creator: "Ellen Schmidt"
 ---

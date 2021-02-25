@@ -2,6 +2,7 @@
 title: "Final mail run will be 1&colon;30 p.m. Dec. 21"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=49"
 sort_date: 1292436401000
+year: 2010
 pubDate: "15 Dec 2010 18:06:41 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "New AQIP action projects are based on employee feedback"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=263"
 sort_date: 1304343173000
+year: 2011
 pubDate: "02 May 2011 13:32:53 GMT"
 creator: "Elizabeth Becvar"
 ---

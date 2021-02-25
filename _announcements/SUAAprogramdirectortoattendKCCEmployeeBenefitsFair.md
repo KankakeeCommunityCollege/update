@@ -2,6 +2,7 @@
 title: "SUAA program director to attend KCC Employee Benefits Fair"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2319"
 sort_date: 1477515339000
+year: 2016
 pubDate: "26 Oct 2016 20:55:39 GMT"
 creator: "Ellen Schmidt"
 ---

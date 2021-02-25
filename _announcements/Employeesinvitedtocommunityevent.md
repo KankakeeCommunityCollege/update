@@ -2,6 +2,7 @@
 title: "Employees invited to community event"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1859"
 sort_date: 1426541668000
+year: 2015
 pubDate: "16 Mar 2015 21:34:28 GMT"
 creator: "Ellen Schmidt"
 ---

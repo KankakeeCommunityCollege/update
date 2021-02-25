@@ -2,6 +2,7 @@
 title: "National Radiologic Technology Week®&colon; 11/6-12 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=499"
 sort_date: 1319825190000
+year: 2011
 pubDate: "28 Oct 2011 18:06:30 GMT"
 creator: "Elizabeth Becvar"
 ---

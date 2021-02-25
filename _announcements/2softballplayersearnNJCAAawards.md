@@ -2,6 +2,7 @@
 title: "2 softball players earn NJCAA awards"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1959"
 sort_date: 1435249281000
+year: 2015
 pubDate: "25 Jun 2015 16:21:21 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "14 celebrate anniversaries in April"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=635"
 sort_date: 1331830735000
+year: 2012
 pubDate: "15 Mar 2012 16:58:55 GMT"
 creator: "Ellen Schmidt"
 ---

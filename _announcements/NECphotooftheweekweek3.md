@@ -2,6 +2,7 @@
 title: "NEC photo of the week -- week 3"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=919"
 sort_date: 1354289845000
+year: 2012
 pubDate: "30 Nov 2012 15:37:25 GMT"
 creator: "Elizabeth Becvar"
 ---

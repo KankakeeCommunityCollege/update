@@ -2,6 +2,7 @@
 title: "Replacement photo ID for faculty"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1195"
 sort_date: 1376401233000
+year: 2013
 pubDate: "13 Aug 2013 13:40:33 GMT"
 creator: "Ellen Schmidt"
 ---

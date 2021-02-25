@@ -2,6 +2,7 @@
 title: "Bordeau IDEA conference"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=891"
 sort_date: 1352299304000
+year: 2012
 pubDate: "07 Nov 2012 14:41:44 GMT"
 creator: "Elizabeth Becvar"
 ---

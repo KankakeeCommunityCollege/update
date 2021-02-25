@@ -2,6 +2,7 @@
 title: "Cavaliers Baseball Ring Ceremony&colon; 10/7"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2525"
 sort_date: 1507040729000
+year: 2017
 pubDate: "03 Oct 2017 14:25:29 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Casual/denim day&colon; 5/30"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1526"
 sort_date: 1400705478000
+year: 2014
 pubDate: "21 May 2014 20:51:18 GMT"
 creator: "Ellen Schmidt"
 ---

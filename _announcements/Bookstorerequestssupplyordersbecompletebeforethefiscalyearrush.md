@@ -2,6 +2,7 @@
 title: "Bookstore requests supply orders be complete before the fiscal year rush"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1498"
 sort_date: 1398781256000
+year: 2014
 pubDate: "29 Apr 2014 14:20:56 GMT"
 creator: "Ellen Schmidt"
 ---

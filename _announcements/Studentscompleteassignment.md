@@ -2,6 +2,7 @@
 title: "Students complete assignment "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=456"
 sort_date: 1317052656000
+year: 2011
 pubDate: "26 Sep 2011 15:57:36 GMT"
 creator: "Elizabeth Becvar"
 ---

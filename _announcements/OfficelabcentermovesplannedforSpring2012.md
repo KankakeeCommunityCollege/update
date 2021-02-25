@@ -2,6 +2,7 @@
 title: "Office/lab/center moves planned for Spring 2012"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=545"
 sort_date: 1323104914000
+year: 2011
 pubDate: "05 Dec 2011 17:08:34 GMT"
 creator: "Ellen Schmidt"
 ---

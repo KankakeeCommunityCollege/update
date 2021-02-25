@@ -2,6 +2,7 @@
 title: "Help wanted in locating older catalogs"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1243"
 sort_date: 1379010296000
+year: 2013
 pubDate: "12 Sep 2013 18:24:56 GMT"
 creator: "Ellen Schmidt"
 ---

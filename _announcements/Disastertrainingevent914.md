@@ -2,6 +2,7 @@
 title: "Disaster training event&colon; 9/14"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1240"
 sort_date: 1378849258000
+year: 2013
 pubDate: "10 Sep 2013 21:40:58 GMT"
 creator: "Ellen Schmidt"
 ---

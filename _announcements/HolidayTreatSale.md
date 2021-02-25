@@ -2,6 +2,7 @@
 title: "Holiday Treat Sale"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=920"
 sort_date: 1354565856000
+year: 2012
 pubDate: "03 Dec 2012 20:17:36 GMT"
 creator: "Nancy Schunke"
 ---

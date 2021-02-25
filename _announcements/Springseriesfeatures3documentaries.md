@@ -2,6 +2,7 @@
 title: "Spring series features 3 documentaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=157"
 sort_date: 1299780847000
+year: 2011
 pubDate: "10 Mar 2011 18:14:07 GMT"
 creator: "Ellen Schmidt"
 ---

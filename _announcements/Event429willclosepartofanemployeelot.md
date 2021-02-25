@@ -2,6 +2,7 @@
 title: "Event 4/29 will close part of an employee lot"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1086"
 sort_date: 1366390431000
+year: 2013
 pubDate: "19 Apr 2013 16:53:51 GMT"
 creator: "Ellen Schmidt"
 ---

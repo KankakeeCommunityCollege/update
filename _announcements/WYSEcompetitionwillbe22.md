@@ -2,6 +2,7 @@
 title: "WYSE competition will be 2/2"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2142"
 sort_date: 1452867623000
+year: 2016
 pubDate: "15 Jan 2016 14:20:23 GMT"
 creator: "Ellen Schmidt"
 ---

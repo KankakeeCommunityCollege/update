@@ -2,6 +2,7 @@
 title: "LRC Electronic Resource log on changes"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=56"
 sort_date: 1294071732000
+year: 2011
 pubDate: "03 Jan 2011 16:22:12 GMT"
 creator: "Ellen Schmidt"
 ---

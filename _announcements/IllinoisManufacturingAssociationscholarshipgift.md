@@ -2,6 +2,7 @@
 title: " Illinois Manufacturing Association scholarship gift"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1988"
 sort_date: 1437659025000
+year: 2015
 pubDate: "23 Jul 2015 13:43:45 GMT"
 creator: "Elizabeth Becvar"
 ---

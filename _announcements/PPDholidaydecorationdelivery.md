@@ -2,6 +2,7 @@
 title: "PPD holiday decoration delivery"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1722"
 sort_date: 1415735264000
+year: 2014
 pubDate: "11 Nov 2014 19:47:44 GMT"
 creator: "Ellen Schmidt"
 ---

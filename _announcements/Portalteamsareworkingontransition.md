@@ -2,6 +2,7 @@
 title: "Portal teams are working on transition"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2432"
 sort_date: 1493673743000
+year: 2017
 pubDate: "01 May 2017 21:22:23 GMT"
 creator: "Ellen Schmidt"
 ---

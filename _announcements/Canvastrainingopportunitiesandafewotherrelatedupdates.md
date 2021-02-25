@@ -2,6 +2,7 @@
 title: "Canvas training opportunities -- and a few other related updates"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1547"
 sort_date: 1403187602000
+year: 2014
 pubDate: "19 Jun 2014 14:20:02 GMT"
 creator: "Ellen Schmidt"
 ---

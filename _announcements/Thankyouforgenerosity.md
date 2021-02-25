@@ -2,6 +2,7 @@
 title: "Thank you for generosity"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=969"
 sort_date: 1358960944000
+year: 2013
 pubDate: "23 Jan 2013 17:09:04 GMT"
 creator: "Ellen Schmidt"
 ---

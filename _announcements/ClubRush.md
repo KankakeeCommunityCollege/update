@@ -2,6 +2,7 @@
 title: "Club Rush"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2147"
 sort_date: 1453231089000
+year: 2016
 pubDate: "19 Jan 2016 19:18:09 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Faculty invited to Assessment Fair"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2364"
 sort_date: 1484255451000
+year: 2017
 pubDate: "12 Jan 2017 21:10:51 GMT"
 creator: "Ellen Schmidt"
 ---

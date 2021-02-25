@@ -2,6 +2,7 @@
 title: "Trip to Chicago Flower & Garden Show is offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1825"
 sort_date: 1424188483000
+year: 2015
 pubDate: "17 Feb 2015 15:54:43 GMT"
 creator: "Ellen Schmidt"
 ---

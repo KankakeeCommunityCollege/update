@@ -2,6 +2,7 @@
 title: "Open position - 9/14/2011 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=442"
 sort_date: 1316007264000
+year: 2011
 pubDate: "14 Sep 2011 13:34:24 GMT"
 creator: "Elizabeth Becvar"
 ---

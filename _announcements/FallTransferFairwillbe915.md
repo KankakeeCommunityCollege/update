@@ -2,6 +2,7 @@
 title: "Fall Transfer Fair will be 9/15"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1606"
 sort_date: 1409174306000
+year: 2014
 pubDate: "27 Aug 2014 21:18:26 GMT"
 creator: "Ellen Schmidt"
 ---

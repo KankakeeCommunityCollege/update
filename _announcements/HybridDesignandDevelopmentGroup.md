@@ -2,6 +2,7 @@
 title: "​Hybrid Design and Development Group"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2497"
 sort_date: 1503587991000
+year: 2017
 pubDate: "24 Aug 2017 15:19:51 GMT"
 creator: "Elizabeth Becvar"
 ---

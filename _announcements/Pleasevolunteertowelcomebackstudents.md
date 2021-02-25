@@ -2,6 +2,7 @@
 title: "Please volunteer to welcome back students"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1567"
 sort_date: 1405961852000
+year: 2014
 pubDate: "21 Jul 2014 16:57:32 GMT"
 creator: "Ellen Schmidt"
 ---

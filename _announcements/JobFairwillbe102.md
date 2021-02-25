@@ -2,6 +2,7 @@
 title: "Job Fair will be 10/2"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1624"
 sort_date: 1410540303000
+year: 2014
 pubDate: "12 Sep 2014 16:45:03 GMT"
 creator: "Ellen Schmidt"
 ---

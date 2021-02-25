@@ -2,6 +2,7 @@
 title: "Last day to schedule SURS retirement appointment&colon; 1/28"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=87"
 sort_date: 1295982550000
+year: 2011
 pubDate: "25 Jan 2011 19:09:10 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

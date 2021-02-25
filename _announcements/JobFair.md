@@ -2,6 +2,7 @@
 title: "Job Fair"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1865"
 sort_date: 1427219192000
+year: 2015
 pubDate: "24 Mar 2015 17:46:32 GMT"
 creator: "Elizabeth Becvar"
 ---

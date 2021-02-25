@@ -2,6 +2,7 @@
 title: "Kellee Hayes cuts 'making strides' ribbon"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=785"
 sort_date: 1345565820000
+year: 2012
 pubDate: "21 Aug 2012 16:17:00 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

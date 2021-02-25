@@ -2,6 +2,7 @@
 title: "Update schedule"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=6"
 sort_date: 1291312785000
+year: 2010
 pubDate: "02 Dec 2010 17:59:45 GMT"
 creator: "Ellen Schmidt"
 ---

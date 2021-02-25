@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Denise Caparula"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2196"
 sort_date: 1459794339000
+year: 2016
 pubDate: "04 Apr 2016 18:25:39 GMT"
 creator: "Elizabeth Becvar"
 ---

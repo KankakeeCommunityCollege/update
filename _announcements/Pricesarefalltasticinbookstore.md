@@ -2,6 +2,7 @@
 title: "Prices are fall-tastic in bookstore"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=459"
 sort_date: 1317312524000
+year: 2011
 pubDate: "29 Sep 2011 16:08:44 GMT"
 creator: "Elizabeth Becvar"
 ---

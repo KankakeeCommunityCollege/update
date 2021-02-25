@@ -2,6 +2,7 @@
 title: "Open positions&colon; 12/18"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1780"
 sort_date: 1418939485000
+year: 2014
 pubDate: "18 Dec 2014 21:51:25 GMT"
 creator: "Ellen Schmidt"
 ---

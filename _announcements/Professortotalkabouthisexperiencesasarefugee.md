@@ -2,6 +2,7 @@
 title: "​Professor to talk about his experiences as a refugee"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2540"
 sort_date: 1509731677000
+year: 2017
 pubDate: "03 Nov 2017 17:54:37 GMT"
 creator: "Elizabeth Becvar"
 ---

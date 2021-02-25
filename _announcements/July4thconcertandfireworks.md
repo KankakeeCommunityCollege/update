@@ -2,6 +2,7 @@
 title: "July 4th concert and fireworks"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1133"
 sort_date: 1370374995000
+year: 2013
 pubDate: "04 Jun 2013 19:43:15 GMT"
 creator: "Kari Nugent"
 ---

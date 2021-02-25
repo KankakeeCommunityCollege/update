@@ -2,6 +2,7 @@
 title: "Faculty invited to Fall Canvas Challenge"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2494"
 sort_date: 1503505751000
+year: 2017
 pubDate: "23 Aug 2017 16:29:11 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Final week to sign up for baseball trip "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=627"
 sort_date: 1330712056000
+year: 2012
 pubDate: "02 Mar 2012 18:14:16 GMT"
 creator: "Ellen Schmidt"
 ---

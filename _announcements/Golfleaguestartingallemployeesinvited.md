@@ -2,6 +2,7 @@
 title: "Golf league starting -- all employees invited"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1036"
 sort_date: 1363969889000
+year: 2013
 pubDate: "22 Mar 2013 16:31:29 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Dollars for denim supports United Way"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=84"
 sort_date: 1295980793000
+year: 2011
 pubDate: "25 Jan 2011 18:39:53 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

@@ -2,6 +2,7 @@
 title: "7 spots remain - SURS retirement planning at KCC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=590"
 sort_date: 1327501498000
+year: 2012
 pubDate: "25 Jan 2012 14:24:58 GMT"
 creator: "Ellen Schmidt"
 ---

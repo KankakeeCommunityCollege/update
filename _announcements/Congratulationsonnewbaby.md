@@ -2,6 +2,7 @@
 title: "Congratulations on new baby"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2420"
 sort_date: 1492178145000
+year: 2017
 pubDate: "14 Apr 2017 13:55:45 GMT"
 creator: "Ellen Schmidt"
 ---

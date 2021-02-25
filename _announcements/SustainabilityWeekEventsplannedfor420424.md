@@ -2,6 +2,7 @@
 title: "Sustainability Week Events planned for 4/20-4/24"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1875"
 sort_date: 1428096647000
+year: 2015
 pubDate: "03 Apr 2015 21:30:47 GMT"
 creator: "Ellen Schmidt"
 ---

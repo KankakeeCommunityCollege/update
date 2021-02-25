@@ -2,6 +2,7 @@
 title: "No mail service on Presidents Day"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=605"
 sort_date: 1329341886000
+year: 2012
 pubDate: "15 Feb 2012 21:38:06 GMT"
 creator: "Ellen Schmidt"
 ---

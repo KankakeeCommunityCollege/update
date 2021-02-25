@@ -2,6 +2,7 @@
 title: "Lost&colon; yellow extension cords"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=527"
 sort_date: 1322082861000
+year: 2011
 pubDate: "23 Nov 2011 21:14:21 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Seats available for SURS retirement education seminars"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1016"
 sort_date: 1362505052000
+year: 2013
 pubDate: "05 Mar 2013 17:37:32 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Buying Pastry Puffins is a good way to help child care center"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1664"
 sort_date: 1412801657000
+year: 2014
 pubDate: "08 Oct 2014 20:54:17 GMT"
 creator: "Ellen Schmidt"
 ---

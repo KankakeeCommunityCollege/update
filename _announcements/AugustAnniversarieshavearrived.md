@@ -2,6 +2,7 @@
 title: "August Anniversaries have arrived"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2260"
 sort_date: 1470060967000
+year: 2016
 pubDate: "01 Aug 2016 14:16:07 GMT"
 creator: "Ellen Schmidt"
 ---

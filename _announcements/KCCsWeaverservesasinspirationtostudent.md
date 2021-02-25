@@ -2,6 +2,7 @@
 title: "KCC’s Weaver serves as inspiration to student"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=569"
 sort_date: 1325886782000
+year: 2012
 pubDate: "06 Jan 2012 21:53:02 GMT"
 creator: "Ellen Schmidt"
 ---

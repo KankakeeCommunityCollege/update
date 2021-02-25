@@ -2,6 +2,7 @@
 title: "​United Way and Foundation campaigns are underway"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2524"
 sort_date: 1506629547000
+year: 2017
 pubDate: "28 Sep 2017 20:12:27 GMT"
 creator: "Elizabeth Becvar"
 ---

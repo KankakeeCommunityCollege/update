@@ -2,6 +2,7 @@
 title: "Drop the 9 to get an outside line&colon; begins 7/30"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=761"
 sort_date: 1342729730000
+year: 2012
 pubDate: "19 Jul 2012 20:28:50 GMT"
 creator: "Elizabeth Becvar"
 ---

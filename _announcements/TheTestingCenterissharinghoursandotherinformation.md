@@ -2,6 +2,7 @@
 title: "The Testing Center is sharing hours and other information"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=544"
 sort_date: 1322839713000
+year: 2011
 pubDate: "02 Dec 2011 15:28:33 GMT"
 creator: "Ellen Schmidt"
 ---

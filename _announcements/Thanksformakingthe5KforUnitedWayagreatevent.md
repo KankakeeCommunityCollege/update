@@ -2,6 +2,7 @@
 title: "Thanks for making the 5K for United Way a great event!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1281"
 sort_date: 1381524104000
+year: 2013
 pubDate: "11 Oct 2013 20:41:44 GMT"
 creator: "Ellen Schmidt"
 ---

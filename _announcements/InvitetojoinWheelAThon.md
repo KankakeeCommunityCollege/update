@@ -2,6 +2,7 @@
 title: "Invite to join Wheel-A-Thon"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1211"
 sort_date: 1377206620000
+year: 2013
 pubDate: "22 Aug 2013 21:23:40 GMT"
 creator: "Ellen Schmidt"
 ---

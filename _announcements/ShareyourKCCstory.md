@@ -2,6 +2,7 @@
 title: "Share your KCC story"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2230"
 sort_date: 1465827938000
+year: 2016
 pubDate: "13 Jun 2016 14:25:38 GMT"
 creator: "Ellen Schmidt"
 ---

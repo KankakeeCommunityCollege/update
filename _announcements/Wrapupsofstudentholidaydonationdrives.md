@@ -2,6 +2,7 @@
 title: "Wrap-ups of student holiday donation drives"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1768"
 sort_date: 1418395593000
+year: 2014
 pubDate: "12 Dec 2014 14:46:33 GMT"
 creator: "Ellen Schmidt"
 ---

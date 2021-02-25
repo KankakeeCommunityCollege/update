@@ -2,6 +2,7 @@
 title: "Thanks-a-gram - Spring registration"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=112"
 sort_date: 1297350003000
+year: 2011
 pubDate: "10 Feb 2011 15:00:03 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "KCC is now tobacco-free"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=412"
 sort_date: 1314279222000
+year: 2011
 pubDate: "25 Aug 2011 13:33:42 GMT"
 creator: "Ellen Schmidt"
 ---

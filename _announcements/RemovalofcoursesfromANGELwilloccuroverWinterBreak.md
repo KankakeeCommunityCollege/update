@@ -2,6 +2,7 @@
 title: "Removal of courses from ANGEL will occur over Winter Break"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=4"
 sort_date: 1291312470000
+year: 2010
 pubDate: "02 Dec 2010 17:54:30 GMT"
 creator: "Ellen Schmidt"
 ---

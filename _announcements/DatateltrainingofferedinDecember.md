@@ -2,6 +2,7 @@
 title: "Datatel training offered in December"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1336"
 sort_date: 1385053365000
+year: 2013
 pubDate: "21 Nov 2013 17:02:45 GMT"
 creator: "Ellen Schmidt"
 ---

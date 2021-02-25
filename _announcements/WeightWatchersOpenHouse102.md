@@ -2,6 +2,7 @@
 title: "Weight Watchers Open House&colon; 10/2"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=836"
 sort_date: 1348841751000
+year: 2012
 pubDate: "28 Sep 2012 14:15:51 GMT"
 creator: "Ellen Schmidt"
 ---

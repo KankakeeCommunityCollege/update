@@ -2,6 +2,7 @@
 title: "Halloween competition offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=464"
 sort_date: 1317410737000
+year: 2011
 pubDate: "30 Sep 2011 19:25:37 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

@@ -2,6 +2,7 @@
 title: "Nov. 27 paycheck info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2077"
 sort_date: 1447261711000
+year: 2015
 pubDate: "11 Nov 2015 17:08:31 GMT"
 creator: "Ellen Schmidt"
 ---

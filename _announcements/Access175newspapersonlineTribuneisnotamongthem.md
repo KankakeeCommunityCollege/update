@@ -2,6 +2,7 @@
 title: "Access 175 newspapers online; Tribune is not among them"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=198"
 sort_date: 1301924720000
+year: 2011
 pubDate: "04 Apr 2011 13:45:20 GMT"
 creator: "Elizabeth Becvar"
 ---

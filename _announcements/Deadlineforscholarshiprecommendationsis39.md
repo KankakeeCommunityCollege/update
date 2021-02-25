@@ -2,6 +2,7 @@
 title: "Deadline for scholarship recommendations is 3/9"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1432"
 sort_date: 1393955680000
+year: 2014
 pubDate: "04 Mar 2014 17:54:40 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Full-time positions are posted"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=29"
 sort_date: 1291672625000
+year: 2010
 pubDate: "06 Dec 2010 21:57:05 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

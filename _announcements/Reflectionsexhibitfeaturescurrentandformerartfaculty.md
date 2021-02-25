@@ -2,6 +2,7 @@
 title: "Reflections exhibit features current and former art faculty"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=453"
 sort_date: 1316790992000
+year: 2011
 pubDate: "23 Sep 2011 15:16:32 GMT"
 creator: "Elizabeth Becvar"
 ---

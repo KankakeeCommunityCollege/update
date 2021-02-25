@@ -2,6 +2,7 @@
 title: "​Can you hear me now? "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2280"
 sort_date: 1472823177000
+year: 2016
 pubDate: "02 Sep 2016 13:32:57 GMT"
 creator: "Ellen Schmidt"
 ---

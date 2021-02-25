@@ -2,6 +2,7 @@
 title: "Check out Weight Watchers FREE session&colon; 8/20"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1593"
 sort_date: 1408122071000
+year: 2014
 pubDate: "15 Aug 2014 17:01:11 GMT"
 creator: "Ellen Schmidt"
 ---

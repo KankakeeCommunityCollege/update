@@ -2,6 +2,7 @@
 title: "Bookstore/Central Supplies closed 6/27-30 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2238"
 sort_date: 1466614623000
+year: 2016
 pubDate: "22 Jun 2016 16:57:03 GMT"
 creator: "Elizabeth Becvar"
 ---

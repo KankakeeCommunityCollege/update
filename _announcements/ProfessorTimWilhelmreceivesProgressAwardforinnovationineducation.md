@@ -2,6 +2,7 @@
 title: "Professor Tim Wilhelm receives Progress Award for innovation in education "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1462"
 sort_date: 1396532831000
+year: 2014
 pubDate: "03 Apr 2014 13:47:11 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Information regarding cashing PNC Bank checks"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1250"
 sort_date: 1379514699000
+year: 2013
 pubDate: "18 Sep 2013 14:31:39 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Volunteers needed for Welcome Back Week and Match Points"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2076"
 sort_date: 1447252639000
+year: 2015
 pubDate: "11 Nov 2015 14:37:19 GMT"
 creator: "Elizabeth Becvar"
 ---

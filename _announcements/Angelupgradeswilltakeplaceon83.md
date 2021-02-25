@@ -2,6 +2,7 @@
 title: "Angel upgrades will take place on 8/3"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=763"
 sort_date: 1343229091000
+year: 2012
 pubDate: "25 Jul 2012 15:11:31 GMT"
 creator: "Elizabeth Becvar"
 ---

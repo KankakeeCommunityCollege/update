@@ -2,6 +2,7 @@
 title: "Corrected&colon; Testing Center has expanded hours in 2015"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1776"
 sort_date: 1418675925000
+year: 2014
 pubDate: "15 Dec 2014 20:38:45 GMT"
 creator: "Ellen Schmidt"
 ---

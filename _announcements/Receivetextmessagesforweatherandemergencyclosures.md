@@ -2,6 +2,7 @@
 title: "​Receive text messages for weather and emergency closures"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1696"
 sort_date: 1414514252000
+year: 2014
 pubDate: "28 Oct 2014 16:37:32 GMT"
 creator: "Ellen Schmidt"
 ---

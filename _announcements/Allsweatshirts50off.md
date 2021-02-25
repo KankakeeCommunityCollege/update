@@ -2,6 +2,7 @@
 title: "​All sweat shirts 50% off!"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2193"
 sort_date: 1459432104000
+year: 2016
 pubDate: "31 Mar 2016 13:48:24 GMT"
 creator: "Ellen Schmidt"
 ---

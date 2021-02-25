@@ -2,6 +2,7 @@
 title: "​Be a part of the Thank You Brigade "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2292"
 sort_date: 1474901170000
+year: 2016
 pubDate: "26 Sep 2016 14:46:10 GMT"
 creator: "Elizabeth Becvar"
 ---

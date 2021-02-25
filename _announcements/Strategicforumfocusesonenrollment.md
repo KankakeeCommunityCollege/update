@@ -2,6 +2,7 @@
 title: "Strategic forum focuses on enrollment"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2493"
 sort_date: 1503496727000
+year: 2017
 pubDate: "23 Aug 2017 13:58:47 GMT"
 creator: "Elizabeth Becvar"
 ---

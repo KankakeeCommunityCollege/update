@@ -2,6 +2,7 @@
 title: "Test of 'Online Update only' will be 7/18 - 8/12"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=366"
 sort_date: 1309468825000
+year: 2011
 pubDate: "30 Jun 2011 21:20:25 GMT"
 creator: "Elizabeth Becvar"
 ---

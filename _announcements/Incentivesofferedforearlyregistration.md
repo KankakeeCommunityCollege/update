@@ -2,6 +2,7 @@
 title: "Incentives offered for early registration"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2061"
 sort_date: 1445622626000
+year: 2015
 pubDate: "23 Oct 2015 17:50:26 GMT"
 creator: "Ellen Schmidt"
 ---

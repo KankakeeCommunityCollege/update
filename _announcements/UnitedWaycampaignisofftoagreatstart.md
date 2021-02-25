@@ -2,6 +2,7 @@
 title: "United Way campaign is off to a great start"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=461"
 sort_date: 1317393601000
+year: 2011
 pubDate: "30 Sep 2011 14:40:01 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

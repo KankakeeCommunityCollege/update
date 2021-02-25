@@ -2,6 +2,7 @@
 title: "Fight the flu -- Remember the 3 C's"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=945"
 sort_date: 1357743562000
+year: 2013
 pubDate: "09 Jan 2013 14:59:22 GMT"
 creator: "Ellen Schmidt"
 ---

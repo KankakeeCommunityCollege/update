@@ -2,6 +2,7 @@
 title: "SURS offers spring retirement seminars"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=522"
 sort_date: 1321885548000
+year: 2011
 pubDate: "21 Nov 2011 14:25:48 GMT"
 creator: "Ellen Schmidt"
 ---

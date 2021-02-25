@@ -2,6 +2,7 @@
 title: "​All-employee breakfast"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2258"
 sort_date: 1469708282000
+year: 2016
 pubDate: "28 Jul 2016 12:18:02 GMT"
 creator: "Elizabeth Becvar"
 ---

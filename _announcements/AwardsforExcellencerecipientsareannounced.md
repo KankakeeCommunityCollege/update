@@ -2,6 +2,7 @@
 title: "Awards for Excellence recipients are announced"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1772"
 sort_date: 1418407710000
+year: 2014
 pubDate: "12 Dec 2014 18:08:30 GMT"
 creator: "Ellen Schmidt"
 ---

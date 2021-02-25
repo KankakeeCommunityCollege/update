@@ -2,6 +2,7 @@
 title: "Giving campaigns are off to a good start"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1638"
 sort_date: 1411412525000
+year: 2014
 pubDate: "22 Sep 2014 19:02:05 GMT"
 creator: "Ellen Schmidt"
 ---

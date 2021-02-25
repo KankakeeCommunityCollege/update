@@ -2,6 +2,7 @@
 title: "More than cheap and close to home"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2085"
 sort_date: 1447861728000
+year: 2015
 pubDate: "18 Nov 2015 15:48:48 GMT"
 creator: "Elizabeth Becvar"
 ---

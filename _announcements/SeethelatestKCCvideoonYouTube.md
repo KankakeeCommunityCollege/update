@@ -2,6 +2,7 @@
 title: "See the latest KCC video on YouTube"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2520"
 sort_date: 1506103029000
+year: 2017
 pubDate: "22 Sep 2017 17:57:09 GMT"
 creator: "Elizabeth Becvar"
 ---

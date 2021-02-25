@@ -2,6 +2,7 @@
 title: "21 employees celebrate anniversaries in July"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1962"
 sort_date: 1435691597000
+year: 2015
 pubDate: "30 Jun 2015 19:13:17 GMT"
 creator: "Kari Nugent"
 ---

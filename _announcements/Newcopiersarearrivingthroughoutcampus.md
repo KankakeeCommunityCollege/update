@@ -2,6 +2,7 @@
 title: "New copiers are arriving throughout campus"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1122"
 sort_date: 1369230474000
+year: 2013
 pubDate: "22 May 2013 13:47:54 GMT"
 creator: "Ellen Schmidt"
 ---

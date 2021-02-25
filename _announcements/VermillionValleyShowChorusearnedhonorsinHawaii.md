@@ -2,6 +2,7 @@
 title: "Vermillion Valley Show Chorus earned honors in Hawaii"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1380"
 sort_date: 1387554969000
+year: 2013
 pubDate: "20 Dec 2013 15:56:09 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Please review budget expenditures"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1429"
 sort_date: 1393602978000
+year: 2014
 pubDate: "28 Feb 2014 15:56:18 GMT"
 creator: "Ellen Schmidt"
 ---

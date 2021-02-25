@@ -2,6 +2,7 @@
 title: "WKCC unveils 2011 holiday program schedule"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=513"
 sort_date: 1320949354000
+year: 2011
 pubDate: "10 Nov 2011 18:22:34 GMT"
 creator: "Ellen Schmidt"
 ---

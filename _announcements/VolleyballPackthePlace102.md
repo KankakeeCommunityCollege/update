@@ -2,6 +2,7 @@
 title: "Volleyball Pack the Place&colon; 10/2 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2522"
 sort_date: 1506530644000
+year: 2017
 pubDate: "27 Sep 2017 16:44:04 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "LRC offers leadership books"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=633"
 sort_date: 1331310851000
+year: 2012
 pubDate: "09 Mar 2012 16:34:11 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Outlook 'lunch and Learn' workshops will be offered this semester"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1616"
 sort_date: 1409925416000
+year: 2014
 pubDate: "05 Sep 2014 13:56:56 GMT"
 creator: "Ellen Schmidt"
 ---

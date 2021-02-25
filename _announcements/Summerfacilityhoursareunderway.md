@@ -2,6 +2,7 @@
 title: " Summer facility hours are underway "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=312"
 sort_date: 1305553211000
+year: 2011
 pubDate: "16 May 2011 13:40:11 GMT"
 creator: "Elizabeth Becvar"
 ---

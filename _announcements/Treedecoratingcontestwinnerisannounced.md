@@ -2,6 +2,7 @@
 title: "Tree decorating contest winner is announced"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1778"
 sort_date: 1418764886000
+year: 2014
 pubDate: "16 Dec 2014 21:21:26 GMT"
 creator: "Ellen Schmidt"
 ---

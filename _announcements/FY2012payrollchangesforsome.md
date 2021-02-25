@@ -2,6 +2,7 @@
 title: "FY2012 payroll changes (for some)"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=285"
 sort_date: 1304697312000
+year: 2011
 pubDate: "06 May 2011 15:55:12 GMT"
 creator: "Ellen Schmidt"
 ---

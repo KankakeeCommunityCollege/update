@@ -2,6 +2,7 @@
 title: "Sale features $2 'wash cloth chicks and bunnies' ... and Scarlet Fever T-shirts"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1031"
 sort_date: 1363881834000
+year: 2013
 pubDate: "21 Mar 2013 16:03:54 GMT"
 creator: "Ellen Schmidt"
 ---

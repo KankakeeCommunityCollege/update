@@ -2,6 +2,7 @@
 title: "Please share stories of our graduates"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1439"
 sort_date: 1394221671000
+year: 2014
 pubDate: "07 Mar 2014 19:47:51 GMT"
 creator: "Ellen Schmidt"
 ---

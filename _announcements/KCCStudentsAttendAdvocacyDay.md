@@ -2,6 +2,7 @@
 title: "KCC Students Attend Advocacy Day "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=255"
 sort_date: 1303750878000
+year: 2011
 pubDate: "25 Apr 2011 17:01:18 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Answer to wind tower question"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=746"
 sort_date: 1340806867000
+year: 2012
 pubDate: "27 Jun 2012 14:21:07 GMT"
 creator: "Ellen Schmidt"
 ---

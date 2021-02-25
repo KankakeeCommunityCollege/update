@@ -2,6 +2,7 @@
 title: "October... Land of 20 anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2521"
 sort_date: 1506366707000
+year: 2017
 pubDate: "25 Sep 2017 19:11:47 GMT"
 creator: "Ellen Schmidt"
 ---

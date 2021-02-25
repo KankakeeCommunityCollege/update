@@ -2,6 +2,7 @@
 title: "Phi Theta Kappa All-Illinois 2012"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=731"
 sort_date: 1339452102000
+year: 2012
 pubDate: "11 Jun 2012 22:01:42 GMT"
 creator: "Elizabeth Becvar"
 ---

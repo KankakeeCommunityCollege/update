@@ -2,6 +2,7 @@
 title: "​Employee satisfaction survey results - part 2"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1927"
 sort_date: 1431542153000
+year: 2015
 pubDate: "13 May 2015 18:35:53 GMT"
 creator: "Ellen Schmidt"
 ---

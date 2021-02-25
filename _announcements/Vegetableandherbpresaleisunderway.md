@@ -2,6 +2,7 @@
 title: "Vegetable and herb pre-sale is underway"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1037"
 sort_date: 1364221090000
+year: 2013
 pubDate: "25 Mar 2013 14:18:10 GMT"
 creator: "Ellen Schmidt"
 ---

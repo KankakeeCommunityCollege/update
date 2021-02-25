@@ -2,6 +2,7 @@
 title: "PTK pizza fundraiser offered at Monical's"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=970"
 sort_date: 1359046988000
+year: 2013
 pubDate: "24 Jan 2013 17:03:08 GMT"
 creator: "Ellen Schmidt"
 ---

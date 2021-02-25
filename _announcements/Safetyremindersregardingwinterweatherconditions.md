@@ -2,6 +2,7 @@
 title: "Safety reminders regarding winter weather conditions"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=549"
 sort_date: 1323440766000
+year: 2011
 pubDate: "09 Dec 2011 14:26:06 GMT"
 creator: "Ellen Schmidt"
 ---

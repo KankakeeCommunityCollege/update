@@ -2,6 +2,7 @@
 title: "Office exchanged extended&colon; ends at 2 p.m. 4/25 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=246"
 sort_date: 1303749842000
+year: 2011
 pubDate: "25 Apr 2011 16:44:02 GMT"
 creator: "Elizabeth Becvar"
 ---

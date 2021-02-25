@@ -2,6 +2,7 @@
 title: "Federal financial aid is still available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=401"
 sort_date: 1313070237000
+year: 2011
 pubDate: "11 Aug 2011 13:43:57 GMT"
 creator: "Ellen Schmidt"
 ---

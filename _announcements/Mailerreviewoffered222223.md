@@ -2,6 +2,7 @@
 title: "Mailer review offered&colon; 2/22, 2/23  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=130"
 sort_date: 1298064888000
+year: 2011
 pubDate: "18 Feb 2011 21:34:48 GMT"
 creator: "Elizabeth Becvar"
 ---

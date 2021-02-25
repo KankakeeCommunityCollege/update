@@ -2,6 +2,7 @@
 title: "Entry deadline for Hoopla is 10/29"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=771"
 sort_date: 1344347530000
+year: 2012
 pubDate: "07 Aug 2012 13:52:10 GMT"
 creator: "Elizabeth Becvar"
 ---

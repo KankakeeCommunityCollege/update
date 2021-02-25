@@ -2,6 +2,7 @@
 title: "Web site upgrade finishes with new home page"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2017"
 sort_date: 1440770574000
+year: 2015
 pubDate: "28 Aug 2015 14:02:54 GMT"
 creator: "Ellen Schmidt"
 ---

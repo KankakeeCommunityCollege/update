@@ -2,6 +2,7 @@
 title: "New ITS Help Desk hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2534"
 sort_date: 1508355402000
+year: 2017
 pubDate: "18 Oct 2017 19:36:42 GMT"
 creator: "Elizabeth Becvar"
 ---

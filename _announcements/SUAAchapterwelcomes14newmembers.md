@@ -2,6 +2,7 @@
 title: "SUAA chapter welcomes 14 new members"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=388"
 sort_date: 1311600096000
+year: 2011
 pubDate: "25 Jul 2011 13:21:36 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Benefit planned for kidney/pancreas transplant recipient"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=655"
 sort_date: 1333373872000
+year: 2012
 pubDate: "02 Apr 2012 13:37:52 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Info on 7/7 check run"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2466"
 sort_date: 1498510420000
+year: 2017
 pubDate: "26 Jun 2017 20:53:40 GMT"
 creator: "Ellen Schmidt"
 ---

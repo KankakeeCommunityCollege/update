@@ -2,6 +2,7 @@
 title: "KCC Alumni invited to luncheon Dec. 9"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1747"
 sort_date: 1416943744000
+year: 2014
 pubDate: "25 Nov 2014 19:29:04 GMT"
 creator: "Ellen Schmidt"
 ---

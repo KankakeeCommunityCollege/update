@@ -2,6 +2,7 @@
 title: "Reminders regarding floating holiday and winter break"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=451"
 sort_date: 1316789249000
+year: 2011
 pubDate: "23 Sep 2011 14:47:29 GMT"
 creator: "Elizabeth Becvar"
 ---

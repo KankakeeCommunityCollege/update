@@ -2,6 +2,7 @@
 title: "Thanks-a-gram&colon; ITS"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2488"
 sort_date: 1502907800000
+year: 2017
 pubDate: "16 Aug 2017 18:23:20 GMT"
 creator: "Elizabeth Becvar"
 ---

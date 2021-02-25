@@ -2,6 +2,7 @@
 title: "Upcoming pay date info"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2327"
 sort_date: 1479159699000
+year: 2016
 pubDate: "14 Nov 2016 21:41:39 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "New orientation module launches 2/24 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2381"
 sort_date: 1487104826000
+year: 2017
 pubDate: "14 Feb 2017 20:40:26 GMT"
 creator: "Ellen Schmidt"
 ---

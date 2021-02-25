@@ -2,6 +2,7 @@
 title: "Child Development art sale"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=697"
 sort_date: 1336058339000
+year: 2012
 pubDate: "03 May 2012 15:18:59 GMT"
 creator: "Ellen Schmidt"
 ---

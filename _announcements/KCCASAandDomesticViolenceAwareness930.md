@@ -2,6 +2,7 @@
 title: "KC-CASA and Domestic Violence Awareness&colon; 9/30"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1635"
 sort_date: 1411132765000
+year: 2014
 pubDate: "19 Sep 2014 13:19:25 GMT"
 creator: "Elizabeth Becvar"
 ---

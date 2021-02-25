@@ -2,6 +2,7 @@
 title: "Everyone invited to facility tour at KCTC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1277"
 sort_date: 1381413184000
+year: 2013
 pubDate: "10 Oct 2013 13:53:04 GMT"
 creator: "Ellen Schmidt"
 ---

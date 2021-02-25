@@ -2,6 +2,7 @@
 title: "All invited to forums with Math, Science and Engineering candidates "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2242"
 sort_date: 1467818943000
+year: 2016
 pubDate: "06 Jul 2016 15:29:03 GMT"
 creator: "Elizabeth Becvar"
 ---

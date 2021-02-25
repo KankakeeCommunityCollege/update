@@ -2,6 +2,7 @@
 title: "‘Pack the Place’ and casual day for Cavaliers Basketball&colon; 11/13"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=883"
 sort_date: 1351869056000
+year: 2012
 pubDate: "02 Nov 2012 15:10:56 GMT"
 creator: "Ellen Schmidt"
 ---

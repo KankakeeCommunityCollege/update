@@ -2,6 +2,7 @@
 title: "Anniversaries are in the April air for these 12"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2397"
 sort_date: 1489694015000
+year: 2017
 pubDate: "16 Mar 2017 19:53:35 GMT"
 creator: "Ellen Schmidt"
 ---

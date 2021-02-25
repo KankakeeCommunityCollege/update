@@ -2,6 +2,7 @@
 title: "Congratulations on reaching 25-year milestone"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1127"
 sort_date: 1369842639000
+year: 2013
 pubDate: "29 May 2013 15:50:39 GMT"
 creator: "Ellen Schmidt"
 ---

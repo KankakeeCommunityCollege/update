@@ -2,6 +2,7 @@
 title: "Win 2 free KVYSO tickets - drawing to be held 4/11 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1065"
 sort_date: 1365622460000
+year: 2013
 pubDate: "10 Apr 2013 19:34:20 GMT"
 creator: "Ellen Schmidt"
 ---

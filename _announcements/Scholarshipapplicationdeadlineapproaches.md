@@ -2,6 +2,7 @@
 title: "Scholarship application deadline approaches "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=162"
 sort_date: 1299873868000
+year: 2011
 pubDate: "11 Mar 2011 20:04:28 GMT"
 creator: "Elizabeth Becvar"
 ---

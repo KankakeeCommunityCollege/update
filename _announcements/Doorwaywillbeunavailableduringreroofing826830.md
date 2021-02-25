@@ -2,6 +2,7 @@
 title: "Doorway will be unavailable during re-roofing&colon; 8/26-8/30"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1202"
 sort_date: 1377030387000
+year: 2013
 pubDate: "20 Aug 2013 20:26:27 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Halloween wrap-up&colon; The pun won"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=881"
 sort_date: 1351793991000
+year: 2012
 pubDate: "01 Nov 2012 18:19:51 GMT"
 creator: "Elizabeth Becvar"
 ---

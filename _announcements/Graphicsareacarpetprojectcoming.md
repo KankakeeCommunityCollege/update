@@ -2,6 +2,7 @@
 title: "Graphics area carpet project coming"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2431"
 sort_date: 1493669145000
+year: 2017
 pubDate: "01 May 2017 20:05:45 GMT"
 creator: "Ellen Schmidt"
 ---

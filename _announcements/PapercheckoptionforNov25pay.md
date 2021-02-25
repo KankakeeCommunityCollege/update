@@ -2,6 +2,7 @@
 title: "Paper check option for Nov. 25 pay "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2336"
 sort_date: 1479502371000
+year: 2016
 pubDate: "18 Nov 2016 20:52:51 GMT"
 creator: "Ellen Schmidt"
 ---

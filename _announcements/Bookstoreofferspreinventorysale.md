@@ -2,6 +2,7 @@
 title: "Bookstore offers pre-inventory sale"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=331"
 sort_date: 1306948476000
+year: 2011
 pubDate: "01 Jun 2011 17:14:36 GMT"
 creator: "Ellen Schmidt"
 ---

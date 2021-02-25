@@ -2,6 +2,7 @@
 title: "Regatta car passes available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=787"
 sort_date: 1345644952000
+year: 2012
 pubDate: "22 Aug 2012 14:15:52 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Podcasts now easier to access on iTunes U"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=175"
 sort_date: 1300727606000
+year: 2011
 pubDate: "21 Mar 2011 17:13:26 GMT"
 creator: "Ellen Schmidt"
 ---

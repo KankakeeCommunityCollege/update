@@ -2,6 +2,7 @@
 title: "Responses to 2 events are being shared"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=995"
 sort_date: 1360956095000
+year: 2013
 pubDate: "15 Feb 2013 19:21:35 GMT"
 creator: "Ellen Schmidt"
 ---

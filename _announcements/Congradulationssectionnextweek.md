@@ -2,6 +2,7 @@
 title: "Con'grad'ulations section next week  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=277"
 sort_date: 1304344563000
+year: 2011
 pubDate: "02 May 2011 13:56:03 GMT"
 creator: "Elizabeth Becvar"
 ---

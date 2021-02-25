@@ -2,6 +2,7 @@
 title: "Congratulations to TRiO Upward Bound track athletes"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1111"
 sort_date: 1368133068000
+year: 2013
 pubDate: "09 May 2013 20:57:48 GMT"
 creator: "Ellen Schmidt"
 ---

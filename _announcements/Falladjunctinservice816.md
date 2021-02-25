@@ -2,6 +2,7 @@
 title: "Fall adjunct in-service&colon; 8/16"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2475"
 sort_date: 1501173873000
+year: 2017
 pubDate: "27 Jul 2017 16:44:33 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "College 4 Kids "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=638"
 sort_date: 1331916227000
+year: 2012
 pubDate: "16 Mar 2012 16:43:47 GMT"
 creator: "Elizabeth Becvar"
 ---

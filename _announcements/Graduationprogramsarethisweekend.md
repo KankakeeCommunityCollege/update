@@ -2,6 +2,7 @@
 title: "Graduation programs are this weekend"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=283"
 sort_date: 1304687420000
+year: 2011
 pubDate: "06 May 2011 13:10:20 GMT"
 creator: "Elizabeth Becvar"
 ---

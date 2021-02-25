@@ -2,6 +2,7 @@
 title: "Please mind your fragrance manners"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=735"
 sort_date: 1339682860000
+year: 2012
 pubDate: "14 Jun 2012 14:07:40 GMT"
 creator: "Ellen Schmidt"
 ---

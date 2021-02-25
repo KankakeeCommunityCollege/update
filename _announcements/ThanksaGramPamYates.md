@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram - Pam Yates"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=774"
 sort_date: 1344537043000
+year: 2012
 pubDate: "09 Aug 2012 18:30:43 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "2 students and 1 staff member compete in vocal competition"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1087"
 sort_date: 1366391428000
+year: 2013
 pubDate: "19 Apr 2013 17:10:28 GMT"
 creator: "Ellen Schmidt"
 ---

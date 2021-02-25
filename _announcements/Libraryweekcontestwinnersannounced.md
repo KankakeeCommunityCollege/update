@@ -2,6 +2,7 @@
 title: "Library week contest winners announced "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=239"
 sort_date: 1303738349000
+year: 2011
 pubDate: "25 Apr 2011 13:32:29 GMT"
 creator: "Elizabeth Becvar"
 ---

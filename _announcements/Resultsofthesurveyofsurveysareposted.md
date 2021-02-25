@@ -2,6 +2,7 @@
 title: "Results of the “survey of surveys” are posted"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=722"
 sort_date: 1337877726000
+year: 2012
 pubDate: "24 May 2012 16:42:06 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

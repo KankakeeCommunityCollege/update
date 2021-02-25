@@ -2,6 +2,7 @@
 title: "Open position - 8/1/2011"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=392"
 sort_date: 1312209484000
+year: 2011
 pubDate: "01 Aug 2011 14:38:04 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "No Joke - SUAA After Hours Meeting on April Fool’s Day"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1443"
 sort_date: 1394649110000
+year: 2014
 pubDate: "12 Mar 2014 18:31:50 GMT"
 creator: "Kari Nugent"
 ---

@@ -2,6 +2,7 @@
 title: "Students take part in Options &quot;Wheel-a-Thon&quot;"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=824"
 sort_date: 1347976923000
+year: 2012
 pubDate: "18 Sep 2012 14:02:03 GMT"
 creator: "Ellen Schmidt"
 ---

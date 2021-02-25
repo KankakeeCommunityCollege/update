@@ -2,6 +2,7 @@
 title: "Students invited to chat with the student trustee"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1634"
 sort_date: 1411132275000
+year: 2014
 pubDate: "19 Sep 2014 13:11:15 GMT"
 creator: "Elizabeth Becvar"
 ---

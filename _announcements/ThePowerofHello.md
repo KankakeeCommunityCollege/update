@@ -2,6 +2,7 @@
 title: "The Power of Hello"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1599"
 sort_date: 1408719072000
+year: 2014
 pubDate: "22 Aug 2014 14:51:12 GMT"
 creator: "Kari Nugent"
 ---

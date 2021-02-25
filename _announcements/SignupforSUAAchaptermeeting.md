@@ -2,6 +2,7 @@
 title: "Sign up for SUAA chapter meeting"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1852"
 sort_date: 1426108157000
+year: 2015
 pubDate: "11 Mar 2015 21:09:17 GMT"
 creator: "Ellen Schmidt"
 ---

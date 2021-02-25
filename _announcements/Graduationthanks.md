@@ -2,6 +2,7 @@
 title: "Graduation thanks"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=707"
 sort_date: 1336683392000
+year: 2012
 pubDate: "10 May 2012 20:56:32 GMT"
 creator: "Ellen Schmidt"
 ---

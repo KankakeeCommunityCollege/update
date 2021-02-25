@@ -2,6 +2,7 @@
 title: "Upcoming casual days"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2338"
 sort_date: 1479741732000
+year: 2016
 pubDate: "21 Nov 2016 15:22:12 GMT"
 creator: "Ellen Schmidt"
 ---

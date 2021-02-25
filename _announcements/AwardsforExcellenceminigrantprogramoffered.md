@@ -2,6 +2,7 @@
 title: "Awards for Excellence mini-grant program offered"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1090"
 sort_date: 1366832842000
+year: 2013
 pubDate: "24 Apr 2013 19:47:22 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Upcoming men's and women's basketball games"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=938"
 sort_date: 1355342310000
+year: 2012
 pubDate: "12 Dec 2012 19:58:30 GMT"
 creator: "Ellen Schmidt"
 ---

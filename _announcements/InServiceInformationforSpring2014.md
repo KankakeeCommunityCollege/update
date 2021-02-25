@@ -2,6 +2,7 @@
 title: "In-Service Information for Spring 2014"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1355"
 sort_date: 1386346714000
+year: 2013
 pubDate: "06 Dec 2013 16:18:34 GMT"
 creator: "Elizabeth Becvar"
 ---

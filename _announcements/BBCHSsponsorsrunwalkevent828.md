@@ -2,6 +2,7 @@
 title: "BBCHS sponsors run/walk event&colon; 8/28"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=390"
 sort_date: 1311706905000
+year: 2011
 pubDate: "26 Jul 2011 19:01:45 GMT"
 creator: "Ellen Schmidt"
 ---

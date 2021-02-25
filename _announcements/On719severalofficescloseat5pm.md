@@ -2,6 +2,7 @@
 title: "On 7/19, several offices close at 5 p.m."
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=749"
 sort_date: 1340833630000
+year: 2012
 pubDate: "27 Jun 2012 21:47:10 GMT"
 creator: "Ellen Schmidt"
 ---

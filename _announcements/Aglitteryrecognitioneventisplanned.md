@@ -2,6 +2,7 @@
 title: "A glittery recognition event is planned"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2312"
 sort_date: 1476462602000
+year: 2016
 pubDate: "14 Oct 2016 16:30:02 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Transfer Fair planned for 9/24"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=818"
 sort_date: 1347629562000
+year: 2012
 pubDate: "14 Sep 2012 13:32:42 GMT"
 creator: "Ellen Schmidt"
 ---

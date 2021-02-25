@@ -2,6 +2,7 @@
 title: "Baseball player earns national honor"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1881"
 sort_date: 1428603373000
+year: 2015
 pubDate: "09 Apr 2015 18:16:13 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "NEC week 56 progress"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1375"
 sort_date: 1386964652000
+year: 2013
 pubDate: "13 Dec 2013 19:57:32 GMT"
 creator: "Ellen Schmidt"
 ---

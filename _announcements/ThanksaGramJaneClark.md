@@ -2,6 +2,7 @@
 title: "Thanks-a-Gram&colon; Jane Clark"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=755"
 sort_date: 1341929018000
+year: 2012
 pubDate: "10 Jul 2012 14:03:38 GMT"
 creator: "Elizabeth Becvar"
 ---

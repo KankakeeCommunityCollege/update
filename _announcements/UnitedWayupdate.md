@@ -2,6 +2,7 @@
 title: "United Way update"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=859"
 sort_date: 1350595879000
+year: 2012
 pubDate: "18 Oct 2012 21:31:19 GMT"
 creator: "Ellen Schmidt"
 ---

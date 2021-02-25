@@ -2,6 +2,7 @@
 title: "Warm up with sweat shirt sale"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1807"
 sort_date: 1422646866000
+year: 2015
 pubDate: "30 Jan 2015 19:41:06 GMT"
 creator: "Ellen Schmidt"
 ---

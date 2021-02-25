@@ -2,6 +2,7 @@
 title: "Message regarding college hours 12/20 to 1/4"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1645"
 sort_date: 1411663212000
+year: 2014
 pubDate: "25 Sep 2014 16:40:12 GMT"
 creator: "Ellen Schmidt"
 ---

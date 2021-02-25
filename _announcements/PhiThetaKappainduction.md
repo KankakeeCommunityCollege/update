@@ -2,6 +2,7 @@
 title: "Phi Theta Kappa induction"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=853"
 sort_date: 1350312158000
+year: 2012
 pubDate: "15 Oct 2012 14:42:38 GMT"
 creator: "Elizabeth Becvar"
 ---

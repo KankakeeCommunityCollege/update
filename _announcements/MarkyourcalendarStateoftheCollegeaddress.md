@@ -2,6 +2,7 @@
 title: "Mark your calendar&colon; State of the College address"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2015"
 sort_date: 1440689553000
+year: 2015
 pubDate: "27 Aug 2015 15:32:33 GMT"
 creator: "Ellen Schmidt"
 ---

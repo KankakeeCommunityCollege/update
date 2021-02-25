@@ -2,6 +2,7 @@
 title: "14 employees celebrating April anniversaries"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2188"
 sort_date: 1458662341000
+year: 2016
 pubDate: "22 Mar 2016 15:59:01 GMT"
 creator: "Ellen Schmidt"
 ---

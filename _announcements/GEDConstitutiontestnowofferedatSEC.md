@@ -2,6 +2,7 @@
 title: "GED Constitution test now offered at SEC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1828"
 sort_date: 1424356227000
+year: 2015
 pubDate: "19 Feb 2015 14:30:27 GMT"
 creator: "Ellen Schmidt"
 ---

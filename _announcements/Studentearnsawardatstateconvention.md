@@ -2,6 +2,7 @@
 title: "Student earns award at state convention"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=381"
 sort_date: 1311027014000
+year: 2011
 pubDate: "18 Jul 2011 22:10:14 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Power is back on for KCC wind tower "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=866"
 sort_date: 1351104305000
+year: 2012
 pubDate: "24 Oct 2012 18:45:05 GMT"
 creator: "Ellen Schmidt"
 ---

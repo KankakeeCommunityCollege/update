@@ -2,6 +2,7 @@
 title: "Change to academic calendar"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1510"
 sort_date: 1399495359000
+year: 2014
 pubDate: "07 May 2014 20:42:39 GMT"
 creator: "Ellen Schmidt"
 ---

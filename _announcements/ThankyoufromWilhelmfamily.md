@@ -2,6 +2,7 @@
 title: "Thank you from Wilhelm family"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=555"
 sort_date: 1323704772000
+year: 2011
 pubDate: "12 Dec 2011 15:46:12 GMT"
 creator: "Ellen Schmidt"
 ---

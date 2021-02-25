@@ -2,6 +2,7 @@
 title: "WKCC will broadcast 2 'state of the ...' addresses"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=982"
 sort_date: 1359995648000
+year: 2013
 pubDate: "04 Feb 2013 16:34:08 GMT"
 creator: "Ellen Schmidt"
 ---

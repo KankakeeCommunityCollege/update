@@ -2,6 +2,7 @@
 title: "Repairs to manholes begin 9/24"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1253"
 sort_date: 1379685098000
+year: 2013
 pubDate: "20 Sep 2013 13:51:38 GMT"
 creator: "Ellen Schmidt"
 ---

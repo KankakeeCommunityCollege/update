@@ -2,6 +2,7 @@
 title: "Opportunity for casual dress&colon; 10/21 "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=474"
 sort_date: 1318339677000
+year: 2011
 pubDate: "11 Oct 2011 13:27:57 GMT"
 creator: "Ellen Schmidt"
 ---

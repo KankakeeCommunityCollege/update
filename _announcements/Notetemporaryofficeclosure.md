@@ -2,6 +2,7 @@
 title: "Note temporary office closure"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=168"
 sort_date: 1300376774000
+year: 2011
 pubDate: "17 Mar 2011 15:46:14 GMT"
 creator: "Ellen Schmidt"
 ---

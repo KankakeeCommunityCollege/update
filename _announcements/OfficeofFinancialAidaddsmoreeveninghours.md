@@ -2,6 +2,7 @@
 title: "Office of Financial Aid adds more evening hours"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1183"
 sort_date: 1375282951000
+year: 2013
 pubDate: "31 Jul 2013 15:02:31 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "House bill relates to Child Care Assistance Program"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=706"
 sort_date: 1336675801000
+year: 2012
 pubDate: "10 May 2012 18:50:01 GMT"
 creator: "Ellen Schmidt"
 ---

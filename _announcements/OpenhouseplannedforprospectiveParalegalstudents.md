@@ -2,6 +2,7 @@
 title: "Open house planned for prospective Paralegal students"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1156"
 sort_date: 1372886643000
+year: 2013
 pubDate: "03 Jul 2013 21:24:03 GMT"
 creator: "Kari Nugent"
 ---

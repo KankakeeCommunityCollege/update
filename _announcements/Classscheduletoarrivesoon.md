@@ -2,6 +2,7 @@
 title: "Class schedule to arrive soon"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=368"
 sort_date: 1309468924000
+year: 2011
 pubDate: "30 Jun 2011 21:22:04 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "ESL has new location in Momence"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=789"
 sort_date: 1345738505000
+year: 2012
 pubDate: "23 Aug 2012 16:15:05 GMT"
 creator: "Ellen Schmidt"
 ---

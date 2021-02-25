@@ -2,6 +2,7 @@
 title: "KCC student selected for statewide office of PTK honor society"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=725"
 sort_date: 1338404182000
+year: 2012
 pubDate: "30 May 2012 18:56:22 GMT"
 creator: "Ellen Schmidt"
 ---

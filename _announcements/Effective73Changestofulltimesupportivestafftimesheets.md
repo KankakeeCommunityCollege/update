@@ -2,6 +2,7 @@
 title: "Effective 7/3&colon; Changes to full-time supportive staff time sheets "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=359"
 sort_date: 1308864678000
+year: 2011
 pubDate: "23 Jun 2011 21:31:18 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

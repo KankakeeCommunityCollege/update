@@ -2,6 +2,7 @@
 title: "Congratulations on birth of second grandchild"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1946"
 sort_date: 1433447513000
+year: 2015
 pubDate: "04 Jun 2015 19:51:53 GMT"
 creator: "Ellen Schmidt"
 ---

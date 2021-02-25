@@ -2,6 +2,7 @@
 title: "Final call for 2017 invoices"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2467"
 sort_date: 1498745081000
+year: 2017
 pubDate: "29 Jun 2017 14:04:41 GMT"
 creator: "Elizabeth Becvar"
 ---

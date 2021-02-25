@@ -2,6 +2,7 @@
 title: "Advisor needed for Veterans Club"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1568"
 sort_date: 1405961996000
+year: 2014
 pubDate: "21 Jul 2014 16:59:56 GMT"
 creator: "Ellen Schmidt"
 ---

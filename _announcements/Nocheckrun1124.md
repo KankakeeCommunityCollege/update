@@ -2,6 +2,7 @@
 title: "No check run 11/24"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2323"
 sort_date: 1478122349000
+year: 2016
 pubDate: "02 Nov 2016 21:32:29 GMT"
 creator: "Ellen Schmidt"
 ---

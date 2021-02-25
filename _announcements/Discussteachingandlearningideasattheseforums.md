@@ -2,6 +2,7 @@
 title: "Discuss teaching and learning ideas at these forums"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1639"
 sort_date: 1411484805000
+year: 2014
 pubDate: "23 Sep 2014 15:06:45 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "2014 KCC student art exhibition is open"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1476"
 sort_date: 1397763420000
+year: 2014
 pubDate: "17 Apr 2014 19:37:00 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "New advising hours at South Extension Center"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1799"
 sort_date: 1422028148000
+year: 2015
 pubDate: "23 Jan 2015 15:49:08 GMT"
 creator: "Ellen Schmidt"
 ---

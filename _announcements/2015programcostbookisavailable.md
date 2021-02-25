@@ -2,6 +2,7 @@
 title: "2015 program cost book is available  "
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1838"
 sort_date: 1424813762000
+year: 2015
 pubDate: "24 Feb 2015 21:36:02 GMT"
 creator: "Elizabeth Becvar"
 ---

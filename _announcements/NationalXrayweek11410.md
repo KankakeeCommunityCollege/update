@@ -2,6 +2,7 @@
 title: "National X-ray week&colon; 11/4-10"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=872"
 sort_date: 1351262004000
+year: 2012
 pubDate: "26 Oct 2012 14:33:24 GMT"
 creator: "Ellen Schmidt"
 ---

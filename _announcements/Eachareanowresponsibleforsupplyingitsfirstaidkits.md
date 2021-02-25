@@ -2,6 +2,7 @@
 title: "Each area now responsible for supplying its first aid kits"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=889"
 sort_date: 1352226948000
+year: 2012
 pubDate: "06 Nov 2012 18:35:48 GMT"
 creator: "Ellen Schmidt"
 ---

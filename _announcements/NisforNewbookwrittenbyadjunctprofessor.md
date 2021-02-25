@@ -2,6 +2,7 @@
 title: "'N' is for 'New book' ... written by adjunct professor"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2531"
 sort_date: 1507926693000
+year: 2017
 pubDate: "13 Oct 2017 20:31:33 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

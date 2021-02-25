@@ -2,6 +2,7 @@
 title: "Temporary office move"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1570"
 sort_date: 1406120641000
+year: 2014
 pubDate: "23 Jul 2014 13:04:01 GMT"
 creator: "Ellen Schmidt"
 ---

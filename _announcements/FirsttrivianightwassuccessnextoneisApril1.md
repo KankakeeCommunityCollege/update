@@ -2,6 +2,7 @@
 title: "First trivia night was success, next one is April 1"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=100"
 sort_date: 1296505166000
+year: 2011
 pubDate: "31 Jan 2011 20:19:26 GMT"
 creator: "Ellen Schmidt"
 ---

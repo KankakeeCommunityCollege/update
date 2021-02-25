@@ -2,6 +2,7 @@
 title: "Recognition Event promises a 'Super' time"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2529"
 sort_date: 1507920271000
+year: 2017
 pubDate: "13 Oct 2017 18:44:31 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

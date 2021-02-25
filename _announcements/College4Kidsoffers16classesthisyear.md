@@ -2,6 +2,7 @@
 title: "College 4 Kids offers 16 classes this year"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1048"
 sort_date: 1364843280000
+year: 2013
 pubDate: "01 Apr 2013 19:08:00 GMT"
 creator: "Ellen Schmidt"
 ---

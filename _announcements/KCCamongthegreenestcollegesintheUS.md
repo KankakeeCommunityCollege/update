@@ -2,6 +2,7 @@
 title: "KCC among the greenest colleges in the US"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1973"
 sort_date: 1436358771000
+year: 2015
 pubDate: "08 Jul 2015 12:32:51 GMT"
 creator: "Elizabeth Becvar"
 ---

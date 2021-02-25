@@ -2,6 +2,7 @@
 title: "2011 program cost book is available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=406"
 sort_date: 1313180605000
+year: 2011
 pubDate: "12 Aug 2011 20:23:25 GMT"
 creator: "Elizabeth Becvar"
 ---

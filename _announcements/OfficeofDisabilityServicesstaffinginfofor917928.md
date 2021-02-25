@@ -2,6 +2,7 @@
 title: "Office of Disability Services staffing info. for 9/17 - 9/28"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=820"
 sort_date: 1347633298000
+year: 2012
 pubDate: "14 Sep 2012 14:34:58 GMT"
 creator: "Ellen Schmidt"
 ---

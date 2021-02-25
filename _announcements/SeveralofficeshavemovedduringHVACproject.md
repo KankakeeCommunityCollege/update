@@ -2,6 +2,7 @@
 title: "Several offices have moved during HVAC project"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=365"
 sort_date: 1309274697000
+year: 2011
 pubDate: "28 Jun 2011 15:24:57 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

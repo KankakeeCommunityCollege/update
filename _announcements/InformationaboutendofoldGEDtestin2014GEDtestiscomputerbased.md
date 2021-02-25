@@ -2,6 +2,7 @@
 title: "Information about end of old GED test; in 2014, GED test is computer-based"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1329"
 sort_date: 1384804560000
+year: 2013
 pubDate: "18 Nov 2013 19:56:00 GMT"
 creator: "Ellen Schmidt"
 ---

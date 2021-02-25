@@ -2,6 +2,7 @@
 title: "​Thanks-a-Gram&colon; New Lawyer Admission Ceremony"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2094"
 sort_date: 1448310434000
+year: 2015
 pubDate: "23 Nov 2015 20:27:14 GMT"
 creator: "Ellen Schmidt"
 ---

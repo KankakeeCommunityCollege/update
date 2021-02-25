@@ -2,6 +2,7 @@
 title: "Free text and e-mail alerts available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=404"
 sort_date: 1313180475000
+year: 2011
 pubDate: "12 Aug 2011 20:21:15 GMT"
 creator: "Elizabeth Becvar"
 ---

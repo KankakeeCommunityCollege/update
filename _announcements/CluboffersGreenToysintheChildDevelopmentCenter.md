@@ -2,6 +2,7 @@
 title: "Club offers 'Green Toys' in the Child Development Center"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1124"
 sort_date: 1369332211000
+year: 2013
 pubDate: "23 May 2013 18:03:31 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Save the date&colon; College-wide breakfast 8/12"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1918"
 sort_date: 1431017984000
+year: 2015
 pubDate: "07 May 2015 16:59:44 GMT"
 creator: "Ellen Schmidt"
 ---

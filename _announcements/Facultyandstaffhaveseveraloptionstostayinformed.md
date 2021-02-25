@@ -2,6 +2,7 @@
 title: "Faculty and staff have several options to stay informed"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=812"
 sort_date: 1347477150000
+year: 2012
 pubDate: "12 Sep 2012 19:12:30 GMT"
 creator: "Ellen Schmidt"
 ---

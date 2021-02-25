@@ -2,6 +2,7 @@
 title: "High school art show&colon; 3/1 - 3/28"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=613"
 sort_date: 1330009266000
+year: 2012
 pubDate: "23 Feb 2012 15:01:06 GMT"
 creator: "Ellen Schmidt"
 ---

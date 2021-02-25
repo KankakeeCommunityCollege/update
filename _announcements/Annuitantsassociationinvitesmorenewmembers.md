@@ -2,6 +2,7 @@
 title: "Annuitant's association invites more new members"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=67"
 sort_date: 1294693932000
+year: 2011
 pubDate: "10 Jan 2011 21:12:12 GMT"
 creator: "Ellen Schmidt"
 ---

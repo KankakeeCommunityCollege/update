@@ -2,6 +2,7 @@
 title: "Riverside FastCare clinic to open"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=429"
 sort_date: 1314975769000
+year: 2011
 pubDate: "02 Sep 2011 15:02:49 GMT"
 creator: "Elizabeth Becvar"
 ---

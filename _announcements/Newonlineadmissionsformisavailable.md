@@ -2,6 +2,7 @@
 title: "New online admissions form is available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1870"
 sort_date: 1427837476000
+year: 2015
 pubDate: "31 Mar 2015 21:31:16 GMT"
 creator: "Ellen Schmidt"
 ---

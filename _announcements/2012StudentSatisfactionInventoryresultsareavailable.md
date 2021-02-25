@@ -2,6 +2,7 @@
 title: "2012 Student Satisfaction Inventory results are available"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=721"
 sort_date: 1337876639000
+year: 2012
 pubDate: "24 May 2012 16:23:59 GMT"
 creator: "Joan Liesenfelt-Millard"
 ---

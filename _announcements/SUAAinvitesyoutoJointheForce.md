@@ -2,6 +2,7 @@
 title: "SUAA invites you to 'Join the Force'"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1632"
 sort_date: 1410986178000
+year: 2014
 pubDate: "17 Sep 2014 20:36:18 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Thanks for work and donations"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2515"
 sort_date: 1505752382000
+year: 2017
 pubDate: "18 Sep 2017 16:33:02 GMT"
 creator: "Elizabeth Becvar"
 ---

@@ -2,6 +2,7 @@
 title: "Update vacation&colon; 7/16"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=753"
 sort_date: 1341591283000
+year: 2012
 pubDate: "06 Jul 2012 16:14:43 GMT"
 creator: "Ellen Schmidt"
 ---

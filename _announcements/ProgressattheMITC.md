@@ -2,6 +2,7 @@
 title: "Progress at the MITC"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1348"
 sort_date: 1385564591000
+year: 2013
 pubDate: "27 Nov 2013 15:03:11 GMT"
 creator: "Ellen Schmidt"
 ---

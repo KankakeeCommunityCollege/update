@@ -2,6 +2,7 @@
 title: "Congrats on publication of 'long poem'"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1046"
 sort_date: 1364585833000
+year: 2013
 pubDate: "29 Mar 2013 19:37:13 GMT"
 creator: "Ellen Schmidt"
 ---

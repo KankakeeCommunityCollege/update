@@ -2,6 +2,7 @@
 title: "YMCA Watermelon Fundraiser"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2237"
 sort_date: 1466434908000
+year: 2016
 pubDate: "20 Jun 2016 15:01:48 GMT"
 creator: "Ellen Schmidt"
 ---

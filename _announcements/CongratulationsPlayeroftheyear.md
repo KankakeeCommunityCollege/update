@@ -2,6 +2,7 @@
 title: "Congratulations -- Player of the year"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2439"
 sort_date: 1495117858000
+year: 2017
 pubDate: "18 May 2017 14:30:58 GMT"
 creator: "Ellen Schmidt"
 ---

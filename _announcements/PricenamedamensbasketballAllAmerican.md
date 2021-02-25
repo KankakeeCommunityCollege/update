@@ -2,6 +2,7 @@
 title: "Price named a men's basketball All-American"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1920"
 sort_date: 1431097864000
+year: 2015
 pubDate: "08 May 2015 15:11:04 GMT"
 creator: "Ellen Schmidt"
 ---

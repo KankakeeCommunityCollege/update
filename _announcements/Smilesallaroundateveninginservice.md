@@ -2,6 +2,7 @@
 title: "Smiles all-around at evening in-service"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1603"
 sort_date: 1408725231000
+year: 2014
 pubDate: "22 Aug 2014 16:33:51 GMT"
 creator: "Ellen Schmidt"
 ---

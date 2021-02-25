@@ -2,6 +2,7 @@
 title: "2 professors present at conference"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2041"
 sort_date: 1444055701000
+year: 2015
 pubDate: "05 Oct 2015 14:35:01 GMT"
 creator: "Ellen Schmidt"
 ---

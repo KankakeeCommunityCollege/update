@@ -2,6 +2,7 @@
 title: "Congratulations on adoption"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2222"
 sort_date: 1464900539000
+year: 2016
 pubDate: "02 Jun 2016 20:48:59 GMT"
 creator: "Ellen Schmidt"
 ---

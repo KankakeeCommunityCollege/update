@@ -2,6 +2,7 @@
 title: "Denim Days"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2243"
 sort_date: 1467983832000
+year: 2016
 pubDate: "08 Jul 2016 13:17:12 GMT"
 creator: "Elizabeth Becvar"
 ---

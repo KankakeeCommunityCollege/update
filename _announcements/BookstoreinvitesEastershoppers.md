@@ -2,6 +2,7 @@
 title: "Bookstore invites Easter shoppers"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1039"
 sort_date: 1364304625000
+year: 2013
 pubDate: "26 Mar 2013 13:30:25 GMT"
 creator: "Ellen Schmidt"
 ---

@@ -2,6 +2,7 @@
 title: "Spring in-service agendas"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2103"
 sort_date: 1449093466000
+year: 2015
 pubDate: "02 Dec 2015 21:57:46 GMT"
 creator: "Ellen Schmidt"
 ---

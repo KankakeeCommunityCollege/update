@@ -2,6 +2,7 @@
 title: "Textbook and Mac Book Pro promo has begun"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2415"
 sort_date: 1491928948000
+year: 2017
 pubDate: "11 Apr 2017 16:42:28 GMT"
 creator: "Ellen Schmidt"
 ---

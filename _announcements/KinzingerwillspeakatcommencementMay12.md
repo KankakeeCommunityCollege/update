@@ -2,6 +2,7 @@
 title: "Kinzinger will speak at commencement May 12"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=683"
 sort_date: 1335281536000
+year: 2012
 pubDate: "24 Apr 2012 15:32:16 GMT"
 creator: "Ellen Schmidt"
 ---

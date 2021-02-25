@@ -2,6 +2,7 @@
 title: "Open position 9/9"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1619"
 sort_date: 1410272187000
+year: 2014
 pubDate: "09 Sep 2014 14:16:27 GMT"
 creator: "Ellen Schmidt"
 ---

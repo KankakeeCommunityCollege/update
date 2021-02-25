@@ -2,6 +2,7 @@
 title: "KCC student/staff ID badges&colon;"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2517"
 sort_date: 1505937435000
+year: 2017
 pubDate: "20 Sep 2017 19:57:15 GMT"
 creator: "Elizabeth Becvar"
 ---

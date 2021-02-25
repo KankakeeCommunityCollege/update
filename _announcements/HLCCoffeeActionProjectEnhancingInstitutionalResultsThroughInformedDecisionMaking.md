@@ -2,6 +2,7 @@
 title: "HLC & Coffee – Action Project – Enhancing Institutional Results Through Informed Decision Making"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2149"
 sort_date: 1453317568000
+year: 2016
 pubDate: "20 Jan 2016 19:19:28 GMT"
 creator: "Elizabeth Becvar"
 ---

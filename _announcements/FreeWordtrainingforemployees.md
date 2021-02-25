@@ -2,6 +2,7 @@
 title: "​Free Word training for employees"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2278"
 sort_date: 1472230259000
+year: 2016
 pubDate: "26 Aug 2016 16:50:59 GMT"
 creator: "Ellen Schmidt"
 ---

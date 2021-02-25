@@ -2,6 +2,7 @@
 title: "Photos needed for 50th"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=2224"
 sort_date: 1464960313000
+year: 2016
 pubDate: "03 Jun 2016 13:25:13 GMT"
 creator: "Ellen Schmidt"
 ---

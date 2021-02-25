@@ -2,6 +2,7 @@
 title: "Fitness Center is now open to the public"
 link: "http://www.kcc.edu/FacultyStaff/update/Lists/Announcements/DispForm.aspx?ID=1784"
 sort_date: 1420661440000
+year: 2015
 pubDate: "07 Jan 2015 20:10:40 GMT"
 creator: "Elizabeth Becvar"
 ---
