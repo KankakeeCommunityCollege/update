@@ -1,0 +1,10 @@
+---
+layout: null
+---
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+
+{% if site.url and site.url != 'URL is needed for robots.txt to work properly' %}Sitemap: {% assign last_char = site.url | slice: -1, 1 %}{% if last_char == '/' %}{{ site.url | slice: 0, -1 }}{% else %}{{ site.url }}{% endif %}/sitemap.xml{% endif %}

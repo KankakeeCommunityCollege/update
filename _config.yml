@@ -1,0 +1,182 @@
+title: "Kankakee Community College"
+site_name: "Daily Update"
+public-url: "https://www.kcc.edu" ## This gets generated into the link that displays in the footer (the one above the social icons)
+url: 'URL is needed for robots.txt to work properly' ## NO TRAILING SLASHES!!/<--nope
+timezone: America/Chicago
+theme: "kcc-gem-theme"
+google-tag_key: Google Tag Manager key goes here
+#translate: true ## Uncomment to activate Google Translate Powers!!
+nav_links:
+  - link_text: Home
+    link_href: ''
+    button: false
+  - link_text: Announcements
+    link_href: 'announcements'
+    button: false
+  - link_text: Events
+    link_href: 'events'
+    button: false
+#  - link_text: Example External Link
+#    link_href: 'https://example-external-link.com'
+#    button: false
+#    external: true  <---- #### Add the `external: true` key & value to make an external link ####
+#
+#### Example sub-nav configuration below #### ======================================================= #
+##                                                                                                   ##
+##   link_href's must have a single '/' in the link (no '/' in the begining or end of the string)    ##
+##                                                                                                   ##
+## ================================================================================================== #
+#
+#sub-nav_links:
+#  - link_text: Sheets
+#    link_href: 'reference/gsheets'
+#  - link_text: CloudCannon
+#    link_href: 'reference/cloudcannon'
+#
+collections:
+  contacts:
+    output: false
+  accordions:
+    output: false
+  announcements:
+    output: true
+    sort_by: sort_date
+  events:
+    output: true
+    sort_by: sort_date
+defaults:
+- scope:
+    path: ''
+    type: events
+  values:
+    layout: alert-article
+    baseurl: ../../
+- scope:
+    path: ''
+    type: announcements
+  values:
+    layout: alert-article
+    baseurl: ../../
+- scope:
+    path: ''
+    type: alerts
+  values:
+    layout: alert-article
+    baseurl: ../../
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    title: ''
+    permalink: /:categories/:title/
+    baseurl: ../../../
+    categories: news
+permalink: pretty
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+# Delete this comment and place description on this line
+baseurl: "" # the subpath of your site, e.g. /blog
+# include:
+#   - "_pages"
+#   - "_posts"
+
+# include future posts? (true or false)
+future: true
+# Build settings
+markdown: kramdown
+
+include:
+  - "_accordions/"
+  - "_tabs/"
+
+exclude:
+  - "gulpfile.js"
+  - "gulp-tasks/"
+  - "node_modules"
+  - "npm-debug.log"
+  - "package.json"
+  - "package-lock.json"
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "gulpconfig.yml"
+  - "webpack.config.js"
+  - "install.sh"
+  - "install_template.sh"
+  - "WEBPACK-BABEL-COREJS_INFO.md"
+  - "siteicon.png"
+  - "page-startups"
+  - "UPDATE_PROCEDURE.md"
+  - "ruby-version.txt"
+
+uploads_dir: # specifies the default uploads directory for CloudCannon
+  - "uploads/"
+
+_comments:
+  layout: Do NOT modify layouts. It may break things.
+  baseurl: Do NOT modify baseurl. It WILL break all page links.
+  description: "Descriptions are seen by search engines like Google and displayed in search results"
+
+_options: # The CloudCannon options key
+  layout: # We don't want users changing these!!
+    hidden: true
+  baseurl: # We don't want users changing these!!
+    hidden: true
+  translate:
+    hidden: true # Prevent CloudCannon Users from randomly turning translate on in their site.
+  sheet_key:
+    hidden: true
+  content:
+    format: p h2 h3 h4 h5 h6 pre address div
+    bold: true
+    italic: true
+    underline: true
+    subscript: true
+    superscript: true
+    indent: true
+    outdent: true
+    image: true
+    table: true
+    left: align-left
+    center: center-this-text
+    right: align-right
+    removeformat: true
+    link: true
+    numberedlist: true
+    bulletedlist: true
+    undo: true
+    redo: true
+    styles: /assets/css/content.css
+  _block:
+    format: p h2 h3 h4 h5 h6 pre address
+    bold: true
+    italic: true
+    underline: true
+    subscript: true
+    superscript: true
+    indent: true
+    outdent: true
+    image: true
+    table: true
+    left: align-left
+    center: center-this-text
+    right: align-right
+    removeformat: true
+    link: true
+    numberedlist: true
+    bulletedlist: true
+    undo: true
+    redo: true
+    styles: /assets/css/content.css
+  _text:
+    bold: true
+    italic: true
+    removeformat: true
+    link: true
+    undo: true
+    redo: true
+    underline: true
+    strike: true
+    subscript: true
+    superscript: true

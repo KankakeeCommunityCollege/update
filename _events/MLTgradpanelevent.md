@@ -1,0 +1,18 @@
+---
+title: "​MLT grad panel event"
+link: "http://www.kcc.edu/FacultyStaff/update/Lists/Events/DispForm.aspx?ID=764"
+sort_date: 1427126580000
+pubDate: "23 Mar 2015 16:03:00 GMT"
+creator: "Elizabeth Becvar"
+---
+
+<div><b>Title:</b> ​MLT grad panel event</div>
+<div><b>Location:</b> KCC WDC Conference Hall, Room D140</div>
+<div><b>Start Time:</b> 4/23/2015 10:30 AM</div>
+<div><b>End Time:</b> 4/23/2015 11:30 AM</div>
+<div><b>End Date:</b> 4/23/2015 12:00 PM</div>
+<div><b>Created:</b> 3/23/2015 11:03 AM</div>
+<div><b>Created By:</b> Elizabeth Becvar</div>
+<div><b>KCC Description:</b> <div class="ExternalClass443C4610C5754A649B51CBD05A3C8C52"><p>Seven graduates of the Kankakee Community College Medical Laboratory Technology program will discuss their career paths on Thursday, April 23 at KCC.<br /><br />The graduate panel is part of the Medical Laboratory Professionals Week celebration at the college. They will speak to current and prospective students from 10:30 -11:30 a.m. Thursday, April 23 in Room D140, which is the KCC Workforce Development Center Conference Hall. The informational event will include time for questions from the audience. The community is invited.<br /><br />The panelists will be:<br /><strong>Nathan Brinkman</strong>, class of 1993, manager of new plasma product development R &amp; D at CSL Behring, Herscher resident;<br /><strong>Cathi Hughes</strong>, class of 1990, biology lab coordinator for KCC’s Division of Math, Science, and Engineering, Cabery resident;<br /><strong>Karen Knecht</strong>, class of 1983, system middleware coordinator for Alverno Central Laboratory, Peotone resident;<br /><strong>Tom McCann</strong>, class of 1995, vice president of compliance and patient safety at Iroquois Memorial Hospital, Watseka resident;<br /><strong>Steven Moore</strong>, class of 2011, MT coordinator at Presence St. Mary's Hospital laboratory, St. Anne resident; <br /><strong>Alison Paglin</strong>, class of 1984, laboratory manager for Riverside Medical Center; Kankakee resident; and<br /><strong>Chris Panozzo</strong>, class of 2011, field service representative for Sysmex; Deleware, Ohio resident.<br /><br />The KCC Medical Laboratory Technology associate degree program is accredited by the National Accrediting Agency for Clinical Laboratory Sciences. The program prepares students for technician positions in medical laboratories, related businesses and industries. An advanced placement sequence is offered to students who have already completed the general education courses. The program has clinical affiliations with 15 Illinois hospitals.<br /><br />Graduates are eligible to take a national certification exam. For the past five years, KCC’s medical laboratory technology program graduates have had a 98 percent pass rate on the national certification exam. The national average pass rate is 78 percent. For the same five year period, KCC medical laboratory technology program graduates also have achieved 100 percent job placement.<br /><br />Fifteen students can be admitted into the medical laboratory technology program each fall semester. The application deadline is May 28.<br />For more information about the programs or the panel of graduates, contact Glenda Forneris, the program director, at gforneris@kcc.edu or 815-802-8835.<br /><br />Medical Laboratory Professionals Week is April 19 to 25. It originated with the forerunner of the American Society for Clinical Laboratory Science in 1975 and is now coordinated by a collaborative committee representing 14 national clinical laboratory organizations.</p>
+<p>***</p>
+<p><a href="/FacultyStaff/update/Pages/dailyupdate.aspx">Go to Online Update</a><br /></p></div></div>

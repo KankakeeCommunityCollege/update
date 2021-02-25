@@ -1,0 +1,10 @@
+
+.alerts__overrides,
+.alerts__overrides span {
+  color: $grey-1 !important;
+  font-size: 1rem !important;
+}
+
+div[class^=ExternalClass] {
+  margin-bottom: 2rem;
+}

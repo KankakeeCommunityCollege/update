@@ -1,0 +1,84 @@
+h2.typography__h2 {
+  color: $color-grey-heading;
+  font-family: $font-family-headings;
+  font-size: 2rem;
+  font-weight: $font-weight-boldish;
+}
+
+h3.typography__h3 {
+  color: $primary-blue;
+  font-family: $font-family-headings;
+  font-size: 1.75rem;
+  font-weight: $font-weight-bolder;
+}
+
+h4.typography__h4 {
+  color: $primary-red;
+  font-family: $font-family-headings;
+  font-size: 1.7rem;
+  font-weight: $font-weight-bolder;
+}
+
+h5.typography__h5 {
+  color: $color-grey-heading;
+  font-family: $font-family-headings;
+  font-weight: $font-weight-bold;
+  font-size: 1.5rem;
+}
+
+h6.typography__h6 {
+  color: $color-grey-heading;
+  font-family: $font-family-headings;
+  font-weight: $font-weight-bold;
+  font-size: 1.4rem;
+}
+
+img.float-image-left {
+  max-width: 100%;
+  height: auto;
+  margin: 10px;
+}
+
+@media screen and (min-width: 768px) {
+  img.float-image-left {
+    float: left;
+  }
+}
+
+img.float-image-right {
+  max-width: 100%;
+  height: auto;
+  margin: 10px;
+}
+
+@media screen and (min-width: 768px) {
+  img.float-image-right {
+    float: right;
+  }
+}
+
+img.no-float {
+  float: none;
+}
+
+img.center-image {
+  height: auto;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  max-width: 100%;
+  text-align: center;
+}
+
+p.text-left {
+  text-align: left;
+}
+
+p.text-right {
+  text-align: right;
+}
+
+p.text-center {
+  text-align: center;
+}

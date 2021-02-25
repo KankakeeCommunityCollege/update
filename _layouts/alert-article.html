@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<br>
+<main class="container">
+  <div class="row">
+    <div class="col alerts__overrides">
+      <h3 class="typography__h3">{{ page.title }}</h3>
+      <p><strong>POSTED ON:</strong> {{ page.pubDate | date: "%m/%d/%Y %l:%M %P" }}</p>
+      <hr>
+      {{ content }}
+    </div>
+  </div>
+</main>

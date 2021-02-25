@@ -29,3 +29,5 @@ dist/
 # NPM Stuffs
 node_modules/
 package-lock.json
+
+.jekyll-cache/
